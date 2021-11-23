@@ -1,6 +1,6 @@
 [
   {
-    "id": "recPyO8z7a0mgKpOa",
+    "id": "recDA0m3B6bOtuAF4",
     "fields": {
       "title": "Senior Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/away/jobs/1826450",
@@ -42,10 +42,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recpCvRyMnX4ToWEx",
+    "id": "rec5pK4Qr9naQ8AKk",
     "fields": {
       "title": "Director, Solutions Architecture, Commercial",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5714573002",
@@ -65,24 +65,12 @@
         "https://www.chainalysis.com/"
       ],
       "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recuF9QFyLDFB1Uwn"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
-      ],
-      "codingSkills": [
-        "Go"
-      ],
-      "knowledges": [
-        "Blockchain"
-      ]
+      "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recU6DKg9MWiPI4Ey",
+    "id": "recYyK1vFIc4YLyq1",
     "fields": {
       "title": "Senior Engineer, DevOps ",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/4659641002",
@@ -105,7 +93,6 @@
       "companyIsDebugging": 0,
       "stacksRef": [
         "recROH1tPlWa7Ypwt",
-        "rec15ZX7bLFniYPV4",
         "recORyLWzaXSJWWx5",
         "recblhgQwpdRcyJMd",
         "recdez4E5yHpO5Yf4",
@@ -124,15 +111,12 @@
         "rec7UCMWDfqkdSR7f"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "recfhnyw6RPcO3Kqf",
         "recMWCUSRZL8y9Z9u",
-        "rec36lbtGJYaQxsZH",
-        "recgQYD0VRSTw81Vq"
+        "rec36lbtGJYaQxsZH"
       ],
       "stacks": [
         "Ansible",
-        "Datadog",
         "Helm",
         "Jenkins",
         "Kafka",
@@ -146,11 +130,9 @@
         "GCP"
       ],
       "codingSkills": [
-        "Go",
         "Golang",
         "Java",
-        "Python",
-        "Shell"
+        "Python"
       ],
       "knowledges": [
         "Blockchain",
@@ -158,10 +140,10 @@
         "PostgreSQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "reczzNS3n0w35IjTo",
+    "id": "rec6M3Is8wGq4J7p6",
     "fields": {
       "title": "Senior Solutions Architect ",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/4448335002",
@@ -184,12 +166,8 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa",
         "recpeXqYyKldSZj0n"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
       ],
       "stacksRef": [
         "recucUI3ezLi2w0iR"
@@ -197,20 +175,16 @@
       "stacks": [
         "Kubernetes"
       ],
-      "codingSkills": [
-        "Go"
-      ],
       "knowledges": [
         "API",
-        "Blockchain",
         "Docker",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recF6LUjiq0QjOVfg",
+    "id": "reclbjGB9wz9UpbxF",
     "fields": {
       "title": "Senior Solutions Architect, AUS",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667359002",
@@ -233,12 +207,8 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa",
         "recpeXqYyKldSZj0n"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
       ],
       "stacksRef": [
         "recucUI3ezLi2w0iR"
@@ -246,20 +216,16 @@
       "stacks": [
         "Kubernetes"
       ],
-      "codingSkills": [
-        "Go"
-      ],
       "knowledges": [
         "API",
-        "Blockchain",
         "Docker",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recIx5mS53HMb3cPQ",
+    "id": "recHaIx34Yp2yhxoS",
     "fields": {
       "title": "Senior Solutions Architect, DACH",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5170583002",
@@ -282,12 +248,8 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa",
         "recpeXqYyKldSZj0n"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
       ],
       "stacksRef": [
         "recucUI3ezLi2w0iR"
@@ -295,20 +257,16 @@
       "stacks": [
         "Kubernetes"
       ],
-      "codingSkills": [
-        "Go"
-      ],
       "knowledges": [
         "API",
-        "Blockchain",
         "Docker",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recuIas1KJkWSgS8r",
+    "id": "rec0EKVKaVFWI8V4U",
     "fields": {
       "title": "Senior Solutions Architect, Netherlands",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667329002",
@@ -331,12 +289,8 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa",
         "recpeXqYyKldSZj0n"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
       ],
       "stacksRef": [
         "recucUI3ezLi2w0iR"
@@ -344,20 +298,16 @@
       "stacks": [
         "Kubernetes"
       ],
-      "codingSkills": [
-        "Go"
-      ],
       "knowledges": [
         "API",
-        "Blockchain",
         "Docker",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recBiU3s2ubg5BIeq",
+    "id": "recKtKKmAgHvfJxex",
     "fields": {
       "title": "Senior Solutions Architect, SEMEA",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667344002",
@@ -380,12 +330,8 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa",
         "recpeXqYyKldSZj0n"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
       ],
       "stacksRef": [
         "recucUI3ezLi2w0iR"
@@ -393,20 +339,16 @@
       "stacks": [
         "Kubernetes"
       ],
-      "codingSkills": [
-        "Go"
-      ],
       "knowledges": [
         "API",
-        "Blockchain",
         "Docker",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "rectdyjZ8LPp8lxmm",
+    "id": "recxGE40Xwre5fyTC",
     "fields": {
       "title": "Senior Solutions Architect, UK",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667317002",
@@ -429,12 +371,8 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa",
         "recpeXqYyKldSZj0n"
-      ],
-      "codingSkillsRef": [
-        "recYZmmukVY2L1ecV"
       ],
       "stacksRef": [
         "recucUI3ezLi2w0iR"
@@ -442,20 +380,16 @@
       "stacks": [
         "Kubernetes"
       ],
-      "codingSkills": [
-        "Go"
-      ],
       "knowledges": [
         "API",
-        "Blockchain",
         "Docker",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "rec0fgngEgOEIxULw",
+    "id": "recUe9XRRJyj3vQFZ",
     "fields": {
       "title": "Cloud Infrastructure Engineer, Storage",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3597435",
@@ -509,10 +443,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:47.000Z"
+    "createdTime": "2021-11-23T21:30:44.000Z"
   },
   {
-    "id": "recVYVidFTdszfs3d",
+    "id": "recCfRnXoA0qfdNx1",
     "fields": {
       "title": "Director, Cloud Infrastructure Engineering",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3462396",
@@ -537,7 +471,6 @@
         "recROH1tPlWa7Ypwt",
         "recGOhlOdvd64h4GY",
         "recBVsOIHxOuHbsLL",
-        "recPwvlzbkmyosydh",
         "recucUI3ezLi2w0iR",
         "rec9TKC1Wt4i0giMZ"
       ],
@@ -551,7 +484,6 @@
         "Ansible",
         "Aurora",
         "DynamoDB",
-        "ElastiCache",
         "Kubernetes",
         "Terraform"
       ],
@@ -562,10 +494,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recvzOUyjVjQN7NNp",
+    "id": "recoD9C6kWtPxfw9v",
     "fields": {
       "title": "Head of Security, Nifty Gateway",
       "link": "https://gemini.com/jobs/job_id?gh_jid=2944535",
@@ -589,28 +521,20 @@
       "platformsRef": [
         "rec7Db0hZq5xvZVGN"
       ],
-      "knowledgesRef": [
-        "recuF9QFyLDFB1Uwn"
-      ],
       "codingSkillsRef": [
-        "recHvAhk8iwIehfZM",
         "rec36lbtGJYaQxsZH"
       ],
       "platforms": [
         "AWS"
       ],
       "codingSkills": [
-        "Javascript",
         "Python"
-      ],
-      "knowledges": [
-        "Blockchain"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recydaZQB68g1dEI1",
+    "id": "reckawH8hlyvvYQm1",
     "fields": {
       "title": "Principal, Technology and Security Internal Auditor",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3615908",
@@ -630,18 +554,12 @@
         "https://www.gemini.com"
       ],
       "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recuF9QFyLDFB1Uwn"
-      ],
-      "knowledges": [
-        "Blockchain"
-      ]
+      "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recXg4IykM01AmJwo",
+    "id": "recTbqNCPMpj83RnG",
     "fields": {
       "title": "Senior Product Manager, Trust & Security",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3220724",
@@ -662,70 +580,23 @@
       ],
       "companyIsActive": 1,
       "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recuF9QFyLDFB1Uwn",
-        "recQMEfaeEDnYyo9A",
-        "recpeXqYyKldSZj0n"
-      ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "rec36lbtGJYaQxsZH"
       ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
       "codingSkills": [
-        "Go",
         "Python"
       ],
       "knowledges": [
-        "Blockchain",
-        "Machine learning",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "reclQS0HeDUK7NuDh",
-    "fields": {
-      "title": "Senior Software Engineer, Trust & Security",
-      "link": "https://gemini.com/jobs/job_id?gh_jid=3134120",
-      "company": [
-        "recXxaVunKe9XkQSt"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
-      "titles": "security",
-      "level": "senior",
-      "greenhousejobId": "3134120",
-      "companyName": [
-        "gemini"
-      ],
-      "companyURL": [
-        "https://www.gemini.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn"
-      ],
-      "codingSkillsRef": [
-        "recMWCUSRZL8y9Z9u",
-        "reccX5VIp5aWLV74i"
-      ],
-      "codingSkills": [
-        "Java",
-        "Typescript"
-      ],
-      "knowledges": [
-        "API",
-        "Blockchain"
-      ]
-    },
-    "createdTime": "2021-11-23T13:26:48.000Z"
-  },
-  {
-    "id": "reckR2liPYPjPwqHC",
+    "id": "recpnEFFnWUpMBBh8",
     "fields": {
       "title": "Site Reliability Engineer, Embedded SRE",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3521576",
@@ -763,10 +634,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recII5QxICBAz4jTH",
+    "id": "rec64AtYiomcVGgBs",
     "fields": {
       "title": "Staff Cloud Security Engineer",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3607146",
@@ -814,10 +685,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recIxJeP09npC8HYT",
+    "id": "recUfaPlJdqxOpfJ6",
     "fields": {
       "title": "Technical Lead, Trust & Security",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3593273",
@@ -840,7 +711,6 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recuF9QFyLDFB1Uwn",
         "recB6uAa5mRzVHcBA"
       ],
       "platformsRef": [
@@ -861,14 +731,13 @@
       ],
       "knowledges": [
         "API",
-        "Blockchain",
         "JVM"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recIrc55LswWyQLzu",
+    "id": "rec0uQ5v2c4MvUv7f",
     "fields": {
       "title": "Software Engineer, DevOps",
       "link": "https://boards.greenhouse.io/okcoin/jobs/4715305003",
@@ -899,7 +768,6 @@
         "recDOqpUcM8knv4q4"
       ],
       "knowledgesRef": [
-        "recuF9QFyLDFB1Uwn",
         "recob6jj5fa0k2fPa"
       ],
       "stacks": [
@@ -912,14 +780,13 @@
         "GCP"
       ],
       "knowledges": [
-        "Blockchain",
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recdPwAr5tYW8tcdh",
+    "id": "recTOML7naeKcEE5U",
     "fields": {
       "title": "AWS Solutions Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4563227003",
@@ -987,10 +854,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T13:26:48.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "rechjNvV1r6VIwqJW",
+    "id": "reciWJ2nshDievnZ7",
     "fields": {
       "title": "Cloud Infrastructure Engineer, Infrastructure Security ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4579852003",
@@ -1014,7 +881,6 @@
       "stacksRef": [
         "recQm0sH1gXAYvBsQ",
         "recD3tp7TdtNTKJRE",
-        "reclRoCTHh5hFnoz4",
         "recOrGXtNxmw0Qb6K",
         "recPaG2hNTF6v7TMq",
         "recJVlgowvE8rjjXW",
@@ -1023,7 +889,6 @@
         "rec7soWsNDYyarF7b",
         "recoFCCgkTyAw8VaX",
         "recEYFL5dJTW6xn7Z",
-        "rechKBbVe9j9MAfQy",
         "recPbSS0J3eIt1kNP",
         "rec9TKC1Wt4i0giMZ"
       ],
@@ -1031,21 +896,17 @@
         "recy17EXem6OaFZy5",
         "recZ6t0uNmvK3Htk7",
         "rechqRsqGevwjkhIg",
-        "recOxliJD8rvQ5DmB",
-        "rec8g6x2I9uGVvU6o",
-        "recHBgf51mnoQzlU6"
+        "recOxliJD8rvQ5DmB"
       ],
       "platformsRef": [
         "rec7Db0hZq5xvZVGN"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "rec36lbtGJYaQxsZH"
       ],
       "stacks": [
         "ACM",
         "API Gateway",
-        "appdynamics",
         "CloudFormation",
         "CloudHSM",
         "CloudWatch",
@@ -1054,7 +915,6 @@
         "Lambda",
         "RDS",
         "SNS",
-        "splunk",
         "SQS",
         "Terraform"
       ],
@@ -1062,22 +922,19 @@
         "AWS"
       ],
       "codingSkills": [
-        "Go",
         "Python"
       ],
       "knowledges": [
         "API",
         "DNS",
         "Fargate",
-        "firewalls",
-        "Load balances",
-        "Subnets"
+        "firewalls"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:45.000Z"
   },
   {
-    "id": "recuasXyOqQ5zxQXr",
+    "id": "recRuEI9loWWBtkcA",
     "fields": {
       "title": "Customer Experience Security Specialist, Facilities",
       "link": "https://boards.greenhouse.io/rivian/jobs/4517920003",
@@ -1099,10 +956,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "rec6t7of6wLW9RFXx",
+    "id": "recchTfXC14jwKthP",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634502003",
@@ -1130,10 +987,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recTqArlWkIe4mhMu",
+    "id": "rechoOlgI3T6MWPfr",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634504003",
@@ -1161,10 +1018,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recAM6sxqmbwHVoM4",
+    "id": "recIc7ebEDwpRsiFx",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies) ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634500003",
@@ -1192,10 +1049,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recWZPpT8JphosT3o",
+    "id": "reciOaIRX5WTfHtBn",
     "fields": {
       "title": "DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4764525003",
@@ -1223,12 +1080,10 @@
       ],
       "stacksRef": [
         "recD3tp7TdtNTKJRE",
-        "recX8Cgl6cYPYwAYG",
         "recBVsOIHxOuHbsLL",
         "rec5yZ5MeLFGItgTe",
         "recKAu6iSYsQM2sVM",
         "recPwvlzbkmyosydh",
-        "recjrP83mdWnTKdvf",
         "reclR4Rlv7GnyudD8",
         "recucUI3ezLi2w0iR",
         "rec7soWsNDYyarF7b",
@@ -1246,12 +1101,10 @@
       ],
       "stacks": [
         "API Gateway",
-        "BitBucket",
         "DynamoDB",
         "EC2",
         "EKS",
         "ElastiCache",
-        "gitlab",
         "Kinesis",
         "Kubernetes",
         "Lambda",
@@ -1273,10 +1126,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recUoI0kYHVjh8jCg",
+    "id": "recIS9X5CJDLrQdV5",
     "fields": {
       "title": "Factory Software SRE",
       "link": "https://boards.greenhouse.io/rivian/jobs/4555944003",
@@ -1300,7 +1153,6 @@
       "stacksRef": [
         "recROH1tPlWa7Ypwt",
         "rec87SCbe6psstvXE",
-        "recmId5AFmSimYnbm",
         "rec21psaSIrSeb5XJ",
         "rec9TKC1Wt4i0giMZ"
       ],
@@ -1308,14 +1160,12 @@
         "rec7Db0hZq5xvZVGN"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "recMWCUSRZL8y9Z9u",
         "rec36lbtGJYaQxsZH"
       ],
       "stacks": [
         "Ansible",
         "Grafana",
-        "Pagerduty",
         "Prometheus",
         "Terraform"
       ],
@@ -1323,15 +1173,14 @@
         "AWS"
       ],
       "codingSkills": [
-        "Go",
         "Java",
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recbYbtzl96hgEEZE",
+    "id": "recK6UMCKfLqpeBTN",
     "fields": {
       "title": "Global Security Operations Center Operator",
       "link": "https://boards.greenhouse.io/rivian/jobs/4705660003",
@@ -1353,10 +1202,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recaGojIeOQTdI7g1",
+    "id": "recbJcJn5z6kEcq79",
     "fields": {
       "title": "Incident Response Lead, Security Operations ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4646296003",
@@ -1384,10 +1233,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "rec8nr3qNhyM4E1WL",
+    "id": "reciuUBntTvzaiCNy",
     "fields": {
       "title": "Infrastructure Solutions Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4540979003",
@@ -1415,10 +1264,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T13:26:49.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recsmsxt3J5YmNlq6",
+    "id": "rec2UdQV1fBPbRcjm",
     "fields": {
       "title": "Investigator, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4738742003",
@@ -1440,10 +1289,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:46.000Z"
   },
   {
-    "id": "recKNvOEKzIw8IlxY",
+    "id": "recZanhMhdRFch7QP",
     "fields": {
       "title": "Lead Vehicle Architecture Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4664177003",
@@ -1465,10 +1314,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "rec45QcZR4cvgmvxw",
+    "id": "rec7sbKzGnLPYRUA4",
     "fields": {
       "title": "Machine Learning Architecture Lead ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4552889003",
@@ -1488,18 +1337,12 @@
         "https://rivian.com"
       ],
       "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recxm3I1thHmuCOi0"
-      ],
-      "knowledges": [
-        "Neural network"
-      ]
+      "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "recjZyNw3QYLQFMrj",
+    "id": "rec155jtpguyS9YSf",
     "fields": {
       "title": "Manager, Technical Security, Maintenance",
       "link": "https://boards.greenhouse.io/rivian/jobs/4824335003",
@@ -1521,10 +1364,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "reccZ8kR4L7JcYma8",
+    "id": "recTlfJZdpK7dtVpx",
     "fields": {
       "title": "Manager, Technical Security, Maintenance",
       "link": "https://boards.greenhouse.io/rivian/jobs/4424732003",
@@ -1546,10 +1389,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "recWgWfzyrgsuWOye",
+    "id": "recfCAMuyf5eS2xWk",
     "fields": {
       "title": "Regional Loss Prevention Business Partner, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4413252003",
@@ -1571,10 +1414,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "recO8X7j1pFeAoJmw",
+    "id": "rec7WcmUz9Fit9OU7",
     "fields": {
       "title": "Security Communications & Content Lead",
       "link": "https://boards.greenhouse.io/rivian/jobs/4746795003",
@@ -1596,10 +1439,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "rec2TySY864WfbgjK",
+    "id": "rec6rITaG2XLkaKRy",
     "fields": {
       "title": "Security Operations Center Operator",
       "link": "https://boards.greenhouse.io/rivian/jobs/4812047003",
@@ -1621,10 +1464,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "rec4RfZlFPGdTGZLH",
+    "id": "recGxmzJgkl6TPwvR",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500705003",
@@ -1686,10 +1529,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "rech7PXc15ZPBIrk5",
+    "id": "recpmLJ0Sk4DoaK6C",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500706003",
@@ -1751,10 +1594,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:50.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "recgXVkluob4hoqRi",
+    "id": "rectOfbdAsq2DYOxk",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4754432003",
@@ -1782,12 +1625,10 @@
       ],
       "stacksRef": [
         "recD3tp7TdtNTKJRE",
-        "recX8Cgl6cYPYwAYG",
         "recBVsOIHxOuHbsLL",
         "rec5yZ5MeLFGItgTe",
         "recKAu6iSYsQM2sVM",
         "recPwvlzbkmyosydh",
-        "recjrP83mdWnTKdvf",
         "reclR4Rlv7GnyudD8",
         "recucUI3ezLi2w0iR",
         "rec7soWsNDYyarF7b",
@@ -1805,12 +1646,10 @@
       ],
       "stacks": [
         "API Gateway",
-        "BitBucket",
         "DynamoDB",
         "EC2",
         "EKS",
         "ElastiCache",
-        "gitlab",
         "Kinesis",
         "Kubernetes",
         "Lambda",
@@ -1832,10 +1671,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:47.000Z"
   },
   {
-    "id": "recv8p3Ks1SopwEbc",
+    "id": "recPKSpEWcQeobwXe",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4696272003",
@@ -1897,10 +1736,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recC8JSdSx2Vh68Re",
+    "id": "recffIBbkB89h7w5s",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4705382003",
@@ -1962,10 +1801,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recUVmsrilwf6KHVb",
+    "id": "recFIfPKm16HsBVmt",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654412003",
@@ -1988,8 +1827,6 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recqgnqp1T5PRZJPa",
-        "recQMEfaeEDnYyo9A",
         "recxwUMGgwBh1veEv"
       ],
       "platformsRef": [
@@ -1998,18 +1835,14 @@
       "stacksRef": [
         "recX8Cgl6cYPYwAYG",
         "recOrGXtNxmw0Qb6K",
-        "rec15ZX7bLFniYPV4",
         "recKAu6iSYsQM2sVM",
         "recjDITT6XpDVPdWS",
         "recl0JcZCQzULEx4C",
-        "rectbcFboJzkOGSlq",
-        "recjrP83mdWnTKdvf",
         "recblhgQwpdRcyJMd",
         "recdez4E5yHpO5Yf4",
         "recucUI3ezLi2w0iR",
         "rec21psaSIrSeb5XJ",
         "rec47zggjd8rMT3Xl",
-        "rechKBbVe9j9MAfQy",
         "rec9TKC1Wt4i0giMZ"
       ],
       "codingSkillsRef": [
@@ -2020,18 +1853,14 @@
       "stacks": [
         "BitBucket",
         "CloudFormation",
-        "Datadog",
         "EKS",
         "ELK",
         "EMR",
-        "github",
-        "gitlab",
         "Jenkins",
         "Kafka",
         "Kubernetes",
         "Prometheus",
         "S3",
-        "splunk",
         "Terraform"
       ],
       "platforms": [
@@ -2044,189 +1873,13 @@
       ],
       "knowledges": [
         "API",
-        "Load Balancers",
-        "Machine learning",
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recTLuarVdG9WIC4i",
-    "fields": {
-      "title": "Senior, DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4654411003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
-      "titles": "devops",
-      "level": "senior",
-      "greenhousejobId": "4654411003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recqgnqp1T5PRZJPa",
-        "recQMEfaeEDnYyo9A",
-        "recxwUMGgwBh1veEv"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "stacksRef": [
-        "recX8Cgl6cYPYwAYG",
-        "recOrGXtNxmw0Qb6K",
-        "rec15ZX7bLFniYPV4",
-        "recKAu6iSYsQM2sVM",
-        "recjDITT6XpDVPdWS",
-        "recl0JcZCQzULEx4C",
-        "rectbcFboJzkOGSlq",
-        "recjrP83mdWnTKdvf",
-        "recblhgQwpdRcyJMd",
-        "recdez4E5yHpO5Yf4",
-        "recucUI3ezLi2w0iR",
-        "rec21psaSIrSeb5XJ",
-        "rec47zggjd8rMT3Xl",
-        "rechKBbVe9j9MAfQy",
-        "rec9TKC1Wt4i0giMZ"
-      ],
-      "codingSkillsRef": [
-        "recMWCUSRZL8y9Z9u",
-        "rec36lbtGJYaQxsZH",
-        "recVnpyDApYG4Zco0"
-      ],
-      "stacks": [
-        "BitBucket",
-        "CloudFormation",
-        "Datadog",
-        "EKS",
-        "ELK",
-        "EMR",
-        "github",
-        "gitlab",
-        "Jenkins",
-        "Kafka",
-        "Kubernetes",
-        "Prometheus",
-        "S3",
-        "splunk",
-        "Terraform"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Java",
-        "Python",
-        "Ruby"
-      ],
-      "knowledges": [
-        "API",
-        "Load Balancers",
-        "Machine learning",
-        "Redshift"
-      ]
-    },
-    "createdTime": "2021-11-23T13:26:51.000Z"
-  },
-  {
-    "id": "recx3h9v6wjnBy0u4",
-    "fields": {
-      "title": "Senior, DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4654403003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
-      "titles": "devops",
-      "level": "senior",
-      "greenhousejobId": "4654403003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recqgnqp1T5PRZJPa",
-        "recQMEfaeEDnYyo9A",
-        "recxwUMGgwBh1veEv"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "stacksRef": [
-        "recX8Cgl6cYPYwAYG",
-        "recOrGXtNxmw0Qb6K",
-        "rec15ZX7bLFniYPV4",
-        "recKAu6iSYsQM2sVM",
-        "recjDITT6XpDVPdWS",
-        "recl0JcZCQzULEx4C",
-        "rectbcFboJzkOGSlq",
-        "recjrP83mdWnTKdvf",
-        "recblhgQwpdRcyJMd",
-        "recdez4E5yHpO5Yf4",
-        "recucUI3ezLi2w0iR",
-        "rec21psaSIrSeb5XJ",
-        "rec47zggjd8rMT3Xl",
-        "rechKBbVe9j9MAfQy",
-        "rec9TKC1Wt4i0giMZ"
-      ],
-      "codingSkillsRef": [
-        "recMWCUSRZL8y9Z9u",
-        "rec36lbtGJYaQxsZH",
-        "recVnpyDApYG4Zco0"
-      ],
-      "stacks": [
-        "BitBucket",
-        "CloudFormation",
-        "Datadog",
-        "EKS",
-        "ELK",
-        "EMR",
-        "github",
-        "gitlab",
-        "Jenkins",
-        "Kafka",
-        "Kubernetes",
-        "Prometheus",
-        "S3",
-        "splunk",
-        "Terraform"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Java",
-        "Python",
-        "Ruby"
-      ],
-      "knowledges": [
-        "API",
-        "Load Balancers",
-        "Machine learning",
-        "Redshift"
-      ]
-    },
-    "createdTime": "2021-11-23T13:26:51.000Z"
-  },
-  {
-    "id": "recCmreXiEwkkkjw1",
+    "id": "rec9f6YUj9H7LsltJ",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654413003",
@@ -2249,8 +1902,6 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recy17EXem6OaFZy5",
-        "recqgnqp1T5PRZJPa",
-        "recQMEfaeEDnYyo9A",
         "recxwUMGgwBh1veEv"
       ],
       "platformsRef": [
@@ -2259,18 +1910,14 @@
       "stacksRef": [
         "recX8Cgl6cYPYwAYG",
         "recOrGXtNxmw0Qb6K",
-        "rec15ZX7bLFniYPV4",
         "recKAu6iSYsQM2sVM",
         "recjDITT6XpDVPdWS",
         "recl0JcZCQzULEx4C",
-        "rectbcFboJzkOGSlq",
-        "recjrP83mdWnTKdvf",
         "recblhgQwpdRcyJMd",
         "recdez4E5yHpO5Yf4",
         "recucUI3ezLi2w0iR",
         "rec21psaSIrSeb5XJ",
         "rec47zggjd8rMT3Xl",
-        "rechKBbVe9j9MAfQy",
         "rec9TKC1Wt4i0giMZ"
       ],
       "codingSkillsRef": [
@@ -2281,18 +1928,14 @@
       "stacks": [
         "BitBucket",
         "CloudFormation",
-        "Datadog",
         "EKS",
         "ELK",
         "EMR",
-        "github",
-        "gitlab",
         "Jenkins",
         "Kafka",
         "Kubernetes",
         "Prometheus",
         "S3",
-        "splunk",
         "Terraform"
       ],
       "platforms": [
@@ -2305,15 +1948,163 @@
       ],
       "knowledges": [
         "API",
-        "Load Balancers",
-        "Machine learning",
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recya30Y2A7v406rS",
+    "id": "recYCg0bArzi0NaAA",
+    "fields": {
+      "title": "Senior, DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4654411003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States, California, Irvine",
+      "titles": "devops",
+      "level": "senior",
+      "greenhousejobId": "4654411003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recxwUMGgwBh1veEv"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "stacksRef": [
+        "recX8Cgl6cYPYwAYG",
+        "recOrGXtNxmw0Qb6K",
+        "recKAu6iSYsQM2sVM",
+        "recjDITT6XpDVPdWS",
+        "recl0JcZCQzULEx4C",
+        "recblhgQwpdRcyJMd",
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR",
+        "rec21psaSIrSeb5XJ",
+        "rec47zggjd8rMT3Xl",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec36lbtGJYaQxsZH",
+        "recVnpyDApYG4Zco0"
+      ],
+      "stacks": [
+        "BitBucket",
+        "CloudFormation",
+        "EKS",
+        "ELK",
+        "EMR",
+        "Jenkins",
+        "Kafka",
+        "Kubernetes",
+        "Prometheus",
+        "S3",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Java",
+        "Python",
+        "Ruby"
+      ],
+      "knowledges": [
+        "API",
+        "Redshift"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:49.000Z"
+  },
+  {
+    "id": "recArj31Yws5OjhQC",
+    "fields": {
+      "title": "Senior, DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4654403003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States, California, Palo Alto",
+      "titles": "devops",
+      "level": "senior",
+      "greenhousejobId": "4654403003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recxwUMGgwBh1veEv"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "stacksRef": [
+        "recX8Cgl6cYPYwAYG",
+        "recOrGXtNxmw0Qb6K",
+        "recKAu6iSYsQM2sVM",
+        "recjDITT6XpDVPdWS",
+        "recl0JcZCQzULEx4C",
+        "recblhgQwpdRcyJMd",
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR",
+        "rec21psaSIrSeb5XJ",
+        "rec47zggjd8rMT3Xl",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec36lbtGJYaQxsZH",
+        "recVnpyDApYG4Zco0"
+      ],
+      "stacks": [
+        "BitBucket",
+        "CloudFormation",
+        "EKS",
+        "ELK",
+        "EMR",
+        "Jenkins",
+        "Kafka",
+        "Kubernetes",
+        "Prometheus",
+        "S3",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Java",
+        "Python",
+        "Ruby"
+      ],
+      "knowledges": [
+        "API",
+        "Redshift"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:49.000Z"
+  },
+  {
+    "id": "rec8Lf8nl3b32sIEq",
     "fields": {
       "title": "Senior Embedded Software Engineer, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4309186003",
@@ -2341,10 +2132,10 @@
         "TCP"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "rectllfrUYXVOOs0k",
+    "id": "reczXA33LeYzI9IcI",
     "fields": {
       "title": "Senior Infrastructure Engineer, Over-the-Air (OTA)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4353774003",
@@ -2368,18 +2159,16 @@
       "platformsRef": [
         "rec7Db0hZq5xvZVGN"
       ],
-      "stacksRef": [
-        "recZkl3bApUG5BhwA",
-        "recblhgQwpdRcyJMd",
-        "recucUI3ezLi2w0iR",
-        "rec9TKC1Wt4i0giMZ"
-      ],
       "codingSkillsRef": [
         "recMWCUSRZL8y9Z9u",
         "rec36lbtGJYaQxsZH"
       ],
+      "stacksRef": [
+        "recblhgQwpdRcyJMd",
+        "recucUI3ezLi2w0iR",
+        "rec9TKC1Wt4i0giMZ"
+      ],
       "stacks": [
-        "circleCI",
         "Jenkins",
         "Kubernetes",
         "Terraform"
@@ -2392,10 +2181,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recTk2b6le32lhJB7",
+    "id": "recOIInIcsFgrEqPS",
     "fields": {
       "title": "Senior Software Engineer, DevOps",
       "link": "https://boards.greenhouse.io/rivian/jobs/4315284003",
@@ -2422,8 +2211,7 @@
       "stacksRef": [
         "recX8Cgl6cYPYwAYG",
         "recIe7TyZsiQOm9Vy",
-        "recucUI3ezLi2w0iR",
-        "rec77JX7bvb3LILqX"
+        "recucUI3ezLi2w0iR"
       ],
       "knowledgesRef": [
         "recob6jj5fa0k2fPa"
@@ -2434,8 +2222,7 @@
       "stacks": [
         "BitBucket",
         "Gerrit",
-        "Kubernetes",
-        "scons"
+        "Kubernetes"
       ],
       "platforms": [
         "AWS"
@@ -2447,10 +2234,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T13:26:51.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recqpp58LfqIYFR4t",
+    "id": "recc63U9RkPLbZUas",
     "fields": {
       "title": "Sensor Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4522458003",
@@ -2472,10 +2259,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:49.000Z"
   },
   {
-    "id": "recbNsUXSPSmV1Exk",
+    "id": "recg9WRZViEzAyhce",
     "fields": {
       "title": "ServiceNow Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4585428003",
@@ -2505,10 +2292,10 @@
         "SOAP"
       ]
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recP4bUxC9ujUNwD7",
+    "id": "recI7VSjaWk0KlJFb",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4602460003",
@@ -2530,10 +2317,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recC0WRDFEYX0TQgr",
+    "id": "recdeISTwjCb3ialf",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4602459003",
@@ -2555,10 +2342,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recqXAzscPzjDMo09",
+    "id": "rec2kVgOTN74mlzqP",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399325003",
@@ -2580,10 +2367,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "rec8SDbcFOF9re6BQ",
+    "id": "recjKIBwwpepCjDW8",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399323003",
@@ -2605,10 +2392,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recjwIQ8ZlutgXQuF",
+    "id": "rec7z4jp9YKHJ2DJQ",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399322003",
@@ -2630,10 +2417,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recPdPXET0VWX8wWU",
+    "id": "recEbaUU8kqlxftsA",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399301003",
@@ -2655,10 +2442,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "rec4b5Mk2fH87MsLk",
+    "id": "receibspqPrtvwFSO",
     "fields": {
       "title": "Sr. DevOps Engineer - Platform Infrastructure",
       "link": "https://boards.greenhouse.io/rivian/jobs/4597874003",
@@ -2683,14 +2470,10 @@
         "recROH1tPlWa7Ypwt",
         "recX8Cgl6cYPYwAYG",
         "recf2mW1mjIf0LbYi",
-        "recZkl3bApUG5BhwA",
         "recOrGXtNxmw0Qb6K",
         "recJVlgowvE8rjjXW",
         "rec15ZX7bLFniYPV4",
         "recKAu6iSYsQM2sVM",
-        "rectbcFboJzkOGSlq",
-        "recjrP83mdWnTKdvf",
-        "recpP32kWfM4dFtH8",
         "rec87SCbe6psstvXE",
         "recblhgQwpdRcyJMd",
         "recucUI3ezLi2w0iR",
@@ -2701,7 +2484,6 @@
         "rec7Db0hZq5xvZVGN"
       ],
       "knowledgesRef": [
-        "recob6jj5fa0k2fPa",
         "reckxACaVhb64JcAg",
         "recpeXqYyKldSZj0n"
       ],
@@ -2713,14 +2495,10 @@
         "Ansible",
         "BitBucket",
         "Chef",
-        "circleCI",
         "CloudFormation",
         "CloudWatch",
         "Datadog",
         "EKS",
-        "github",
-        "gitlab",
-        "Gradle",
         "Grafana",
         "Jenkins",
         "Kubernetes",
@@ -2735,15 +2513,14 @@
         "Shell"
       ],
       "knowledges": [
-        "Docker",
         "NoSQL",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "rec6qqhJgVuQwUUAg",
+    "id": "reczBjUyf7AgT5dWH",
     "fields": {
       "title": "Sr. DevOps Engineer - Platform Infrastructure",
       "link": "https://boards.greenhouse.io/rivian/jobs/4750055003",
@@ -2768,14 +2545,10 @@
         "recROH1tPlWa7Ypwt",
         "recX8Cgl6cYPYwAYG",
         "recf2mW1mjIf0LbYi",
-        "recZkl3bApUG5BhwA",
         "recOrGXtNxmw0Qb6K",
         "recJVlgowvE8rjjXW",
         "rec15ZX7bLFniYPV4",
         "recKAu6iSYsQM2sVM",
-        "rectbcFboJzkOGSlq",
-        "recjrP83mdWnTKdvf",
-        "recpP32kWfM4dFtH8",
         "rec87SCbe6psstvXE",
         "recblhgQwpdRcyJMd",
         "recucUI3ezLi2w0iR",
@@ -2786,7 +2559,6 @@
         "rec7Db0hZq5xvZVGN"
       ],
       "knowledgesRef": [
-        "recob6jj5fa0k2fPa",
         "reckxACaVhb64JcAg",
         "recpeXqYyKldSZj0n"
       ],
@@ -2798,14 +2570,10 @@
         "Ansible",
         "BitBucket",
         "Chef",
-        "circleCI",
         "CloudFormation",
         "CloudWatch",
         "Datadog",
         "EKS",
-        "github",
-        "gitlab",
-        "Gradle",
         "Grafana",
         "Jenkins",
         "Kubernetes",
@@ -2820,15 +2588,14 @@
         "Shell"
       ],
       "knowledges": [
-        "Docker",
         "NoSQL",
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:52.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recpOj6Xci1mJsyeJ",
+    "id": "rec4fOBLhyNVMkMTT",
     "fields": {
       "title": "Sr. In-Vehicle HMI Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4298780003",
@@ -2850,10 +2617,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:52.000Z"
   },
   {
-    "id": "recqcyUWxsKkqEDev",
+    "id": "recH36zmWlLESK6jQ",
     "fields": {
       "title": "Sr. Software Engineer (Front End, Back End, DevOps) - MES",
       "link": "https://boards.greenhouse.io/rivian/jobs/4381521003",
@@ -2877,30 +2644,26 @@
       "knowledgesRef": [
         "recy17EXem6OaFZy5"
       ],
-      "codingSkillsRef": [
-        "recHvAhk8iwIehfZM",
-        "rec36lbtGJYaQxsZH",
-        "reccX5VIp5aWLV74i"
-      ],
       "stacksRef": [
         "recblhgQwpdRcyJMd"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
       ],
       "stacks": [
         "Jenkins"
       ],
       "codingSkills": [
-        "Javascript",
-        "Python",
-        "Typescript"
+        "Python"
       ],
       "knowledges": [
         "API"
       ]
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "reczrVxyfyov79QfM",
+    "id": "recsdoBm3QRwjh7uQ",
     "fields": {
       "title": "Staff AWS DevOps HPS Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4744094003",
@@ -2962,253 +2725,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "recDhs89AGP4UZ1no",
-    "fields": {
-      "title": "Staff DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4384601003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
-      "titles": "devops",
-      "level": "staff",
-      "greenhousejobId": "4384601003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recZ6t0uNmvK3Htk7",
-        "recxwUMGgwBh1veEv"
-      ],
-      "stacksRef": [
-        "recD3tp7TdtNTKJRE",
-        "recX8Cgl6cYPYwAYG",
-        "recBVsOIHxOuHbsLL",
-        "rec5yZ5MeLFGItgTe",
-        "recKAu6iSYsQM2sVM",
-        "recPwvlzbkmyosydh",
-        "recjrP83mdWnTKdvf",
-        "reclR4Rlv7GnyudD8",
-        "recucUI3ezLi2w0iR",
-        "rec7soWsNDYyarF7b",
-        "recoFCCgkTyAw8VaX",
-        "rec47zggjd8rMT3Xl",
-        "recEYFL5dJTW6xn7Z",
-        "recPbSS0J3eIt1kNP",
-        "rec9TKC1Wt4i0giMZ"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
-      "stacks": [
-        "API Gateway",
-        "BitBucket",
-        "DynamoDB",
-        "EC2",
-        "EKS",
-        "ElastiCache",
-        "gitlab",
-        "Kinesis",
-        "Kubernetes",
-        "Lambda",
-        "RDS",
-        "S3",
-        "SNS",
-        "SQS",
-        "Terraform"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python"
-      ],
-      "knowledges": [
-        "API",
-        "DNS",
-        "Redshift"
-      ]
-    },
-    "createdTime": "2021-11-23T13:26:53.000Z"
-  },
-  {
-    "id": "recSATBTgGv3bZ9gS",
-    "fields": {
-      "title": "Staff DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4500714003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
-      "titles": "devops",
-      "level": "staff",
-      "greenhousejobId": "4500714003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recZ6t0uNmvK3Htk7",
-        "recxwUMGgwBh1veEv",
-        "recpeXqYyKldSZj0n"
-      ],
-      "stacksRef": [
-        "recD3tp7TdtNTKJRE",
-        "recOrGXtNxmw0Qb6K",
-        "recBVsOIHxOuHbsLL",
-        "rec5yZ5MeLFGItgTe",
-        "recpHpVRyoTSW5zYG",
-        "recKAu6iSYsQM2sVM",
-        "reclR4Rlv7GnyudD8",
-        "rec7soWsNDYyarF7b",
-        "recoFCCgkTyAw8VaX",
-        "rec47zggjd8rMT3Xl",
-        "recEYFL5dJTW6xn7Z",
-        "recPbSS0J3eIt1kNP",
-        "rec9TKC1Wt4i0giMZ",
-        "rec5zDHSxpffNrkqm"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
-      "stacks": [
-        "API Gateway",
-        "CloudFormation",
-        "DynamoDB",
-        "EC2",
-        "ECS",
-        "EKS",
-        "Kinesis",
-        "Lambda",
-        "RDS",
-        "S3",
-        "SNS",
-        "SQS",
-        "Terraform",
-        "VPCs"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python"
-      ],
-      "knowledges": [
-        "API",
-        "DNS",
-        "Redshift",
-        "SQL"
-      ]
-    },
-    "createdTime": "2021-11-23T13:26:53.000Z"
-  },
-  {
-    "id": "recTEHqAXBqbadyJ1",
-    "fields": {
-      "title": "Staff DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4500715003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
-      "titles": "devops",
-      "level": "staff",
-      "greenhousejobId": "4500715003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recZ6t0uNmvK3Htk7",
-        "recxwUMGgwBh1veEv",
-        "recpeXqYyKldSZj0n"
-      ],
-      "stacksRef": [
-        "recD3tp7TdtNTKJRE",
-        "recOrGXtNxmw0Qb6K",
-        "recBVsOIHxOuHbsLL",
-        "rec5yZ5MeLFGItgTe",
-        "recpHpVRyoTSW5zYG",
-        "recKAu6iSYsQM2sVM",
-        "reclR4Rlv7GnyudD8",
-        "rec7soWsNDYyarF7b",
-        "recoFCCgkTyAw8VaX",
-        "rec47zggjd8rMT3Xl",
-        "recEYFL5dJTW6xn7Z",
-        "recPbSS0J3eIt1kNP",
-        "rec9TKC1Wt4i0giMZ",
-        "rec5zDHSxpffNrkqm"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
-      "stacks": [
-        "API Gateway",
-        "CloudFormation",
-        "DynamoDB",
-        "EC2",
-        "ECS",
-        "EKS",
-        "Kinesis",
-        "Lambda",
-        "RDS",
-        "S3",
-        "SNS",
-        "SQS",
-        "Terraform",
-        "VPCs"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python"
-      ],
-      "knowledges": [
-        "API",
-        "DNS",
-        "Redshift",
-        "SQL"
-      ]
-    },
-    "createdTime": "2021-11-23T13:26:53.000Z"
-  },
-  {
-    "id": "recRdN6uBU71TK2Xf",
+    "id": "recdOcYmd8lFVcORB",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4696265003",
@@ -3286,10 +2806,249 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "rectbeEXEPRStxXrZ",
+    "id": "rec7IHh7LSy55pxUA",
+    "fields": {
+      "title": "Staff DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4384601003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States, California, Palo Alto",
+      "titles": "devops",
+      "level": "staff",
+      "greenhousejobId": "4384601003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recZ6t0uNmvK3Htk7",
+        "recxwUMGgwBh1veEv"
+      ],
+      "stacksRef": [
+        "recD3tp7TdtNTKJRE",
+        "recBVsOIHxOuHbsLL",
+        "rec5yZ5MeLFGItgTe",
+        "recKAu6iSYsQM2sVM",
+        "recPwvlzbkmyosydh",
+        "reclR4Rlv7GnyudD8",
+        "recucUI3ezLi2w0iR",
+        "rec7soWsNDYyarF7b",
+        "recoFCCgkTyAw8VaX",
+        "rec47zggjd8rMT3Xl",
+        "recEYFL5dJTW6xn7Z",
+        "recPbSS0J3eIt1kNP",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "API Gateway",
+        "DynamoDB",
+        "EC2",
+        "EKS",
+        "ElastiCache",
+        "Kinesis",
+        "Kubernetes",
+        "Lambda",
+        "RDS",
+        "S3",
+        "SNS",
+        "SQS",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "API",
+        "DNS",
+        "Redshift"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:53.000Z"
+  },
+  {
+    "id": "reclweWSfR50UNwci",
+    "fields": {
+      "title": "Staff DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4500714003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States, California, Palo Alto",
+      "titles": "devops",
+      "level": "staff",
+      "greenhousejobId": "4500714003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recZ6t0uNmvK3Htk7",
+        "recxwUMGgwBh1veEv",
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacksRef": [
+        "recD3tp7TdtNTKJRE",
+        "recOrGXtNxmw0Qb6K",
+        "recBVsOIHxOuHbsLL",
+        "rec5yZ5MeLFGItgTe",
+        "recpHpVRyoTSW5zYG",
+        "recKAu6iSYsQM2sVM",
+        "reclR4Rlv7GnyudD8",
+        "rec7soWsNDYyarF7b",
+        "recoFCCgkTyAw8VaX",
+        "rec47zggjd8rMT3Xl",
+        "recEYFL5dJTW6xn7Z",
+        "recPbSS0J3eIt1kNP",
+        "rec9TKC1Wt4i0giMZ",
+        "rec5zDHSxpffNrkqm"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "API Gateway",
+        "CloudFormation",
+        "DynamoDB",
+        "EC2",
+        "ECS",
+        "EKS",
+        "Kinesis",
+        "Lambda",
+        "RDS",
+        "S3",
+        "SNS",
+        "SQS",
+        "Terraform",
+        "VPCs"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "API",
+        "DNS",
+        "Redshift",
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:53.000Z"
+  },
+  {
+    "id": "recZkIAZ0tuzko6tA",
+    "fields": {
+      "title": "Staff DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4500715003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States, California, Irvine",
+      "titles": "devops",
+      "level": "staff",
+      "greenhousejobId": "4500715003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recZ6t0uNmvK3Htk7",
+        "recxwUMGgwBh1veEv",
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacksRef": [
+        "recD3tp7TdtNTKJRE",
+        "recOrGXtNxmw0Qb6K",
+        "recBVsOIHxOuHbsLL",
+        "rec5yZ5MeLFGItgTe",
+        "recpHpVRyoTSW5zYG",
+        "recKAu6iSYsQM2sVM",
+        "reclR4Rlv7GnyudD8",
+        "rec7soWsNDYyarF7b",
+        "recoFCCgkTyAw8VaX",
+        "rec47zggjd8rMT3Xl",
+        "recEYFL5dJTW6xn7Z",
+        "recPbSS0J3eIt1kNP",
+        "rec9TKC1Wt4i0giMZ",
+        "rec5zDHSxpffNrkqm"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "API Gateway",
+        "CloudFormation",
+        "DynamoDB",
+        "EC2",
+        "ECS",
+        "EKS",
+        "Kinesis",
+        "Lambda",
+        "RDS",
+        "S3",
+        "SNS",
+        "SQS",
+        "Terraform",
+        "VPCs"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "API",
+        "DNS",
+        "Redshift",
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:53.000Z"
+  },
+  {
+    "id": "recZt6jB7UQVrfRqj",
     "fields": {
       "title": "Staff PKI Engineer, Infrastructure Security ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654457003",
@@ -3312,9 +3071,7 @@
       "companyIsDebugging": 0,
       "knowledgesRef": [
         "recZ6t0uNmvK3Htk7",
-        "recOxliJD8rvQ5DmB",
-        "rec8g6x2I9uGVvU6o",
-        "recHBgf51mnoQzlU6"
+        "recOxliJD8rvQ5DmB"
       ],
       "stacksRef": [
         "recTh0H7DLIa87Qcp",
@@ -3326,15 +3083,13 @@
       ],
       "knowledges": [
         "DNS",
-        "firewalls",
-        "Load balances",
-        "Subnets"
+        "firewalls"
       ]
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "recfXY5GJLMYBCGhQ",
+    "id": "reckdyuu8UacY0lOK",
     "fields": {
       "title": "Staff Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4311521003",
@@ -3355,28 +3110,23 @@
       ],
       "companyIsActive": 1,
       "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
       "stacksRef": [
-        "reclRoCTHh5hFnoz4",
         "recJVlgowvE8rjjXW",
         "rec87SCbe6psstvXE",
         "rec7soWsNDYyarF7b",
         "recw6H5ibaaQ2KxRF",
         "rec21psaSIrSeb5XJ"
       ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN",
-        "recpbDwoHPkCQue3G",
-        "recDOqpUcM8knv4q4"
-      ],
       "knowledgesRef": [
         "recob6jj5fa0k2fPa",
         "recXnAnu720YDI5SE"
       ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
       "stacks": [
-        "appdynamics",
         "CloudWatch",
         "Grafana",
         "Lambda",
@@ -3388,18 +3138,15 @@
         "Azure",
         "GCP"
       ],
-      "codingSkills": [
-        "Python"
-      ],
       "knowledges": [
         "Docker",
         "Graphite"
       ]
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "recpDGUf5vvCvpR6N",
+    "id": "recs619LibyS2h1XU",
     "fields": {
       "title": " Supervisor, Security Operations Center",
       "link": "https://boards.greenhouse.io/rivian/jobs/4625444003",
@@ -3421,10 +3168,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:53.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "recduve6jqbbKZHQ5",
+    "id": "recMqkk072t0Va4uR",
     "fields": {
       "title": "Team Lead, Site Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4504900003",
@@ -3446,10 +3193,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:53.000Z"
   },
   {
-    "id": "rec6XJFTzMR63imcp",
+    "id": "recRLpIaWsHcQax9D",
     "fields": {
       "title": "Technical Security Project Manager",
       "link": "https://boards.greenhouse.io/rivian/jobs/4420998003",
@@ -3471,35 +3218,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "recDNy7MP6P7Y2X1b",
-    "fields": {
-      "title": "Technical Security Project Manager",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4730217003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Washington, Seattle",
-      "titles": "security",
-      "level": "manager",
-      "greenhousejobId": "4730217003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T13:26:54.000Z"
-  },
-  {
-    "id": "recfIJuHgthZihtfB",
+    "id": "recDjweLXg4eQHNuk",
     "fields": {
       "title": "Technical Security Project Manager",
       "link": "https://boards.greenhouse.io/rivian/jobs/4758474003",
@@ -3521,10 +3243,35 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "recEkChEZ9FKhZLi3",
+    "id": "recC9gT7k4InzYdJv",
+    "fields": {
+      "title": "Technical Security Project Manager",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4730217003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States, Washington, Seattle",
+      "titles": "security",
+      "level": "manager",
+      "greenhousejobId": "4730217003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-23T21:30:55.000Z"
+  },
+  {
+    "id": "recsE1P8P9Bt6AM2y",
     "fields": {
       "title": "Manager, DevOps",
       "link": "https://boards.greenhouse.io/turo/jobs/3659469",
@@ -3546,10 +3293,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 1
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "recSTUpuBVeptPcu9",
+    "id": "rec1uKaN1SpZrh8VC",
     "fields": {
       "title": "Manager, DevOps",
       "link": "https://boards.greenhouse.io/turo/jobs/3333544",
@@ -3571,10 +3318,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 1
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "recEzrZZdphhG2HRv",
+    "id": "recXl971zSkY1uH9y",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3659482",
@@ -3602,7 +3349,6 @@
         "rec9TKC1Wt4i0giMZ"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "rec36lbtGJYaQxsZH",
         "recVnpyDApYG4Zco0"
       ],
@@ -3613,15 +3359,14 @@
         "Terraform"
       ],
       "codingSkills": [
-        "Go",
         "Python",
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "recZvmpyiddpq1RV4",
+    "id": "recdyK4VZdlkwHgVo",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3597815",
@@ -3649,7 +3394,6 @@
         "rec9TKC1Wt4i0giMZ"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "rec36lbtGJYaQxsZH",
         "recVnpyDApYG4Zco0"
       ],
@@ -3660,15 +3404,14 @@
         "Terraform"
       ],
       "codingSkills": [
-        "Go",
         "Python",
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "rec0orFAGs3osTG67",
+    "id": "recb0SmwyncCedYnD",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3659494",
@@ -3692,36 +3435,32 @@
       "stacksRef": [
         "recROH1tPlWa7Ypwt",
         "recf2mW1mjIf0LbYi",
-        "recucUI3ezLi2w0iR",
         "rec9TKC1Wt4i0giMZ"
       ],
       "platformsRef": [
         "rec7Db0hZq5xvZVGN"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "rec36lbtGJYaQxsZH",
         "recVnpyDApYG4Zco0"
       ],
       "stacks": [
         "Ansible",
         "Chef",
-        "Kubernetes",
         "Terraform"
       ],
       "platforms": [
         "AWS"
       ],
       "codingSkills": [
-        "Go",
         "Python",
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
   },
   {
-    "id": "rec13Yn23FMXbv6p4",
+    "id": "recMrewggfhxRoM51",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3581036",
@@ -3745,32 +3484,314 @@
       "stacksRef": [
         "recROH1tPlWa7Ypwt",
         "recf2mW1mjIf0LbYi",
-        "recucUI3ezLi2w0iR",
         "rec9TKC1Wt4i0giMZ"
       ],
       "platformsRef": [
         "rec7Db0hZq5xvZVGN"
       ],
       "codingSkillsRef": [
-        "recYZmmukVY2L1ecV",
         "rec36lbtGJYaQxsZH",
         "recVnpyDApYG4Zco0"
       ],
       "stacks": [
         "Ansible",
         "Chef",
-        "Kubernetes",
         "Terraform"
       ],
       "platforms": [
         "AWS"
       ],
       "codingSkills": [
-        "Go",
         "Python",
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T13:26:54.000Z"
+    "createdTime": "2021-11-23T21:30:55.000Z"
+  },
+  {
+    "id": "rec9pcWlzMJe1sqvG",
+    "fields": {
+      "title": "Engineering Manager, SRE ",
+      "link": "https://boards.greenhouse.io/doordash/jobs/3582236?gh_jid=3582236",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "sre",
+      "level": "manager",
+      "greenhousejobId": "3582236",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "reckxACaVhb64JcAg"
+      ],
+      "knowledges": [
+        "NoSQL"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:55.000Z"
+  },
+  {
+    "id": "recoLKuWfjxmkzobQ",
+    "fields": {
+      "title": "IT Infrastructure Engineering Manager",
+      "link": "https://boards.greenhouse.io/doordash/jobs/3436757?gh_jid=3436757",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "infrastructure",
+      "level": "manager",
+      "greenhousejobId": "3436757",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
+  },
+  {
+    "id": "recRtdT9O9c0sATUQ",
+    "fields": {
+      "title": "Manager, Security Services",
+      "link": "https://boards.greenhouse.io/doordash/jobs/3316768?gh_jid=3316768",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "Mexico City, Mexico",
+      "titles": "security",
+      "level": "manager",
+      "greenhousejobId": "3316768",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
+  },
+  {
+    "id": "recugSyGX7mhjM1xW",
+    "fields": {
+      "title": "Security Engineer, Detection and Response",
+      "link": "https://boards.greenhouse.io/doordash/jobs/2525390?gh_jid=2525390",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "2525390",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "knowledgesRef": [
+        "recOxliJD8rvQ5DmB"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "codingSkills": [
+        "Java",
+        "Python"
+      ],
+      "knowledges": [
+        "firewalls"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
+  },
+  {
+    "id": "recwyrwY2wXs9YmQo",
+    "fields": {
+      "title": "Security Engineer, Incident Response ",
+      "link": "https://boards.greenhouse.io/doordash/jobs/3346406?gh_jid=3346406",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "3346406",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "codingSkills": [
+        "Java",
+        "Python"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
+  },
+  {
+    "id": "recbsiLXA62E5a0cM",
+    "fields": {
+      "title": "Security Engineer, Infrastructure ",
+      "link": "https://boards.greenhouse.io/doordash/jobs/3318847?gh_jid=3318847",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "3318847",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "knowledgesRef": [
+        "recyCzhAYoOefOk1h"
+      ],
+      "stacksRef": [
+        "recucUI3ezLi2w0iR"
+      ],
+      "stacks": [
+        "Kubernetes"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "knowledges": [
+        "IAM"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
+  },
+  {
+    "id": "recDhgi4O8m7DfDLn",
+    "fields": {
+      "title": "Security Engineer, Threat and Vulnerability Management",
+      "link": "https://boards.greenhouse.io/doordash/jobs/3346950?gh_jid=3346950",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "3346950",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
+  },
+  {
+    "id": "recqXnqAvKHm4ExDl",
+    "fields": {
+      "title": "Software Engineer, Site Reliability (SRE)",
+      "link": "https://boards.greenhouse.io/doordash/jobs/37470?gh_jid=37470",
+      "company": [
+        "rec2Ly0tWfh1nSppo"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "city": "United States - Remote",
+      "titles": "sre",
+      "level": "midLevel",
+      "greenhousejobId": "37470",
+      "companyName": [
+        "doordash"
+      ],
+      "companyURL": [
+        "https://www.doordash.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "reckxACaVhb64JcAg"
+      ],
+      "knowledges": [
+        "NoSQL"
+      ]
+    },
+    "createdTime": "2021-11-23T21:30:56.000Z"
   }
 ]
