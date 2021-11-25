@@ -1,6 +1,6 @@
 [
   {
-    "id": "recDA0m3B6bOtuAF4",
+    "id": "rec8qDCU5OkVpCMQ7",
     "fields": {
       "title": "Senior Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/away/jobs/1826450",
@@ -9,7 +9,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York",
+      "rawLocation": "New York",
       "titles": "sre",
       "level": "senior",
       "greenhousejobId": "1826450",
@@ -42,10 +42,35 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "rec5pK4Qr9naQ8AKk",
+    "id": "rec7x3w4XX2n4ZeCC",
+    "fields": {
+      "title": "Director, Solutions Architecture, APAC",
+      "link": "https://boards.greenhouse.io/chainalysis/jobs/5709206002",
+      "company": [
+        "rec2bA4yi2Ae3pXyj"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Singapore, Singapore ",
+      "titles": "architect",
+      "level": "manager",
+      "greenhousejobId": "5709206002",
+      "companyName": [
+        "chainalysis"
+      ],
+      "companyURL": [
+        "https://www.chainalysis.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:27.000Z"
+  },
+  {
+    "id": "recJeWFF7Q9ZZa6hH",
     "fields": {
       "title": "Director, Solutions Architecture, Commercial",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5714573002",
@@ -54,7 +79,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York City, New York",
+      "rawLocation": "New York City, New York",
       "titles": "architect",
       "level": "manager",
       "greenhousejobId": "5714573002",
@@ -67,10 +92,35 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "recYyK1vFIc4YLyq1",
+    "id": "recXU5cc5FLzSXnGJ",
+    "fields": {
+      "title": "Director, Solutions Architecture, EMEA",
+      "link": "https://boards.greenhouse.io/chainalysis/jobs/5709197002",
+      "company": [
+        "rec2bA4yi2Ae3pXyj"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "London, England",
+      "titles": "architect",
+      "level": "manager",
+      "greenhousejobId": "5709197002",
+      "companyName": [
+        "chainalysis"
+      ],
+      "companyURL": [
+        "https://www.chainalysis.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:27.000Z"
+  },
+  {
+    "id": "reccnXxXgFqphEhKt",
     "fields": {
       "title": "Senior Engineer, DevOps ",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/4659641002",
@@ -79,7 +129,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Copenhagen, Denmark | London, England",
+      "rawLocation": "Copenhagen, Denmark | London, England",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4659641002",
@@ -140,10 +190,10 @@
         "PostgreSQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "rec6M3Is8wGq4J7p6",
+    "id": "rec1SScWEw7RuOej7",
     "fields": {
       "title": "Senior Solutions Architect ",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/4448335002",
@@ -152,7 +202,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York City, NY",
+      "rawLocation": "New York City, NY",
       "titles": "architect",
       "level": "senior",
       "greenhousejobId": "4448335002",
@@ -181,10 +231,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "reclbjGB9wz9UpbxF",
+    "id": "recAXMMOcYogO6Rns",
     "fields": {
       "title": "Senior Solutions Architect, AUS",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667359002",
@@ -193,7 +243,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Canberra, Australia | Sydney, Australia | Melbourne, Australia",
+      "rawLocation": "Canberra, Australia | Sydney, Australia | Melbourne, Australia",
       "titles": "architect",
       "level": "senior",
       "greenhousejobId": "5667359002",
@@ -222,10 +272,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "recHaIx34Yp2yhxoS",
+    "id": "recuJPQVEpi7SkpsS",
     "fields": {
       "title": "Senior Solutions Architect, DACH",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5170583002",
@@ -234,7 +284,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Berlin, Germany | Frankfurt, Germany",
+      "rawLocation": "Berlin, Germany | Frankfurt, Germany",
       "titles": "architect",
       "level": "senior",
       "greenhousejobId": "5170583002",
@@ -263,10 +313,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "rec0EKVKaVFWI8V4U",
+    "id": "recWB70GZxgfvxR74",
     "fields": {
       "title": "Senior Solutions Architect, Netherlands",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667329002",
@@ -275,7 +325,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Amsterdam, Netherlands | Remote",
+      "rawLocation": "Amsterdam, Netherlands | Remote",
       "titles": "architect",
       "level": "senior",
       "greenhousejobId": "5667329002",
@@ -304,10 +354,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "recKtKKmAgHvfJxex",
+    "id": "recauT8k7golrOvVR",
     "fields": {
       "title": "Senior Solutions Architect, SEMEA",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667344002",
@@ -316,7 +366,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "London, England | Paris, France",
+      "rawLocation": "London, England | Paris, France",
       "titles": "architect",
       "level": "senior",
       "greenhousejobId": "5667344002",
@@ -345,10 +395,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:27.000Z"
   },
   {
-    "id": "recxGE40Xwre5fyTC",
+    "id": "recMPm03hHGg7KFgZ",
     "fields": {
       "title": "Senior Solutions Architect, UK",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667317002",
@@ -357,7 +407,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "London, England",
+      "rawLocation": "London, England",
       "titles": "architect",
       "level": "senior",
       "greenhousejobId": "5667317002",
@@ -386,10 +436,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recUe9XRRJyj3vQFZ",
+    "id": "recz8VQ7RbDwNOkIK",
     "fields": {
       "title": "Cloud Infrastructure Engineer, Storage",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3597435",
@@ -398,7 +448,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "infrastructure",
       "level": "midLevel",
       "greenhousejobId": "3597435",
@@ -443,10 +493,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:44.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recCfRnXoA0qfdNx1",
+    "id": "recbP4fOfBnUPoJWr",
     "fields": {
       "title": "Director, Cloud Infrastructure Engineering",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3462396",
@@ -455,7 +505,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "infrastructure",
       "level": "manager",
       "greenhousejobId": "3462396",
@@ -494,10 +544,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recoD9C6kWtPxfw9v",
+    "id": "recspNT0Jqx3ejLOQ",
     "fields": {
       "title": "Head of Security, Nifty Gateway",
       "link": "https://gemini.com/jobs/job_id?gh_jid=2944535",
@@ -506,7 +556,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "2944535",
@@ -531,10 +581,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "reckawH8hlyvvYQm1",
+    "id": "recJOilaOxPocPiIX",
     "fields": {
       "title": "Principal, Technology and Security Internal Auditor",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3615908",
@@ -543,7 +593,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "3615908",
@@ -556,10 +606,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recTbqNCPMpj83RnG",
+    "id": "rec43WnvSIFJBVmIF",
     "fields": {
       "title": "Senior Product Manager, Trust & Security",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3220724",
@@ -568,7 +618,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "3220724",
@@ -593,10 +643,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recpnEFFnWUpMBBh8",
+    "id": "recQPd62bsXDl2Uai",
     "fields": {
       "title": "Site Reliability Engineer, Embedded SRE",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3521576",
@@ -605,7 +655,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "sre",
       "level": "midLevel",
       "greenhousejobId": "3521576",
@@ -634,10 +684,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "rec64AtYiomcVGgBs",
+    "id": "recAL2u6EDQBlLYhu",
     "fields": {
       "title": "Staff Cloud Security Engineer",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3607146",
@@ -646,7 +696,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "security",
       "level": "staff",
       "greenhousejobId": "3607146",
@@ -685,10 +735,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recUfaPlJdqxOpfJ6",
+    "id": "recTrxILLgbmPk1TC",
     "fields": {
       "title": "Technical Lead, Trust & Security",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3593273",
@@ -697,7 +747,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
+      "rawLocation": "New York, New York; Portland, Oregon; Chicago, Illinois; Los Angeles, California; San Francisco, California; Remote",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "3593273",
@@ -734,10 +784,10 @@
         "JVM"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "rec0uQ5v2c4MvUv7f",
+    "id": "recgD4RGuXyNtloRZ",
     "fields": {
       "title": "Software Engineer, DevOps",
       "link": "https://boards.greenhouse.io/okcoin/jobs/4715305003",
@@ -746,7 +796,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "San Francisco (Remote)",
+      "rawLocation": "San Francisco (Remote)",
       "titles": "devops",
       "level": "midLevel",
       "greenhousejobId": "4715305003",
@@ -783,10 +833,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recTOML7naeKcEE5U",
+    "id": "reccbjyFX7Ie0LbPL",
     "fields": {
       "title": "AWS Solutions Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4563227003",
@@ -795,7 +845,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "architect",
       "level": "midLevel",
       "greenhousejobId": "4563227003",
@@ -854,10 +904,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "reciWJ2nshDievnZ7",
+    "id": "recMbEmhS0la7iiDO",
     "fields": {
       "title": "Cloud Infrastructure Engineer, Infrastructure Security ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4579852003",
@@ -866,7 +916,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "infrastructure",
       "level": "midLevel",
       "greenhousejobId": "4579852003",
@@ -931,10 +981,10 @@
         "firewalls"
       ]
     },
-    "createdTime": "2021-11-23T21:30:45.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recRuEI9loWWBtkcA",
+    "id": "reckEcxNj2us7npgg",
     "fields": {
       "title": "Customer Experience Security Specialist, Facilities",
       "link": "https://boards.greenhouse.io/rivian/jobs/4517920003",
@@ -943,7 +993,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4517920003",
@@ -956,41 +1006,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recchTfXC14jwKthP",
-    "fields": {
-      "title": "Cyber Security engineer (Operational Technologies)",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4634502003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Michigan, Plymouth",
-      "titles": "security",
-      "level": "midLevel",
-      "greenhousejobId": "4634502003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "platforms": [
-        "AWS"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:46.000Z"
-  },
-  {
-    "id": "rechoOlgI3T6MWPfr",
+    "id": "recRDn6zx4hT4IRBU",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634504003",
@@ -999,7 +1018,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4634504003",
@@ -1018,10 +1037,41 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recIc7ebEDwpRsiFx",
+    "id": "recA88IZ2rj6uk4yE",
+    "fields": {
+      "title": "Cyber Security engineer (Operational Technologies)",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4634502003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Michigan, Plymouth",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "4634502003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "platforms": [
+        "AWS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:28.000Z"
+  },
+  {
+    "id": "rec6EjlclJ65lSQ4Q",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies) ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634500003",
@@ -1030,7 +1080,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4634500003",
@@ -1049,10 +1099,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "reciOaIRX5WTfHtBn",
+    "id": "reci1KEHzecf3646n",
     "fields": {
       "title": "DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4764525003",
@@ -1061,7 +1111,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "midLevel",
       "greenhousejobId": "4764525003",
@@ -1126,10 +1176,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recIS9X5CJDLrQdV5",
+    "id": "reckh0mkxCfsApeu2",
     "fields": {
       "title": "Factory Software SRE",
       "link": "https://boards.greenhouse.io/rivian/jobs/4555944003",
@@ -1138,7 +1188,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Remote",
+      "rawLocation": "United States, Remote",
       "titles": "sre",
       "level": "midLevel",
       "greenhousejobId": "4555944003",
@@ -1177,10 +1227,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recK6UMCKfLqpeBTN",
+    "id": "recWLV6XyISZnGcrO",
     "fields": {
       "title": "Global Security Operations Center Operator",
       "link": "https://boards.greenhouse.io/rivian/jobs/4705660003",
@@ -1189,7 +1239,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4705660003",
@@ -1202,10 +1252,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "recbJcJn5z6kEcq79",
+    "id": "recFRDQ70fPYX8YXi",
     "fields": {
       "title": "Incident Response Lead, Security Operations ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4646296003",
@@ -1214,7 +1264,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "4646296003",
@@ -1233,10 +1283,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:28.000Z"
   },
   {
-    "id": "reciuUBntTvzaiCNy",
+    "id": "rec3k276xLv65FfVE",
     "fields": {
       "title": "Infrastructure Solutions Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4540979003",
@@ -1245,7 +1295,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "architect",
       "level": "midLevel",
       "greenhousejobId": "4540979003",
@@ -1264,10 +1314,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "rec2UdQV1fBPbRcjm",
+    "id": "reciQJtJRys2S90w1",
     "fields": {
       "title": "Investigator, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4738742003",
@@ -1276,7 +1326,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4738742003",
@@ -1289,10 +1339,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:46.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "recZanhMhdRFch7QP",
+    "id": "recDrPSgzZJ0BRNvr",
     "fields": {
       "title": "Lead Vehicle Architecture Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4664177003",
@@ -1301,7 +1351,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Remote",
+      "rawLocation": "United States, Remote",
       "titles": "architect",
       "level": "manager",
       "greenhousejobId": "4664177003",
@@ -1314,10 +1364,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "rec7sbKzGnLPYRUA4",
+    "id": "recxdWInrokfOHjII",
     "fields": {
       "title": "Machine Learning Architecture Lead ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4552889003",
@@ -1326,7 +1376,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "architect",
       "level": "manager",
       "greenhousejobId": "4552889003",
@@ -1339,10 +1389,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "rec155jtpguyS9YSf",
+    "id": "recw21k5weQj0rGV3",
     "fields": {
       "title": "Manager, Technical Security, Maintenance",
       "link": "https://boards.greenhouse.io/rivian/jobs/4824335003",
@@ -1351,7 +1401,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Michigan, Plymouth",
+      "rawLocation": "United States, Michigan, Plymouth",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "4824335003",
@@ -1364,10 +1414,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "recTlfJZdpK7dtVpx",
+    "id": "reco9qGtQyaiPdS5D",
     "fields": {
       "title": "Manager, Technical Security, Maintenance",
       "link": "https://boards.greenhouse.io/rivian/jobs/4424732003",
@@ -1376,7 +1426,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "4424732003",
@@ -1389,10 +1439,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "recfCAMuyf5eS2xWk",
+    "id": "rec50nwHLqlUbB3WY",
     "fields": {
       "title": "Regional Loss Prevention Business Partner, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4413252003",
@@ -1401,7 +1451,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4413252003",
@@ -1414,10 +1464,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "rec7WcmUz9Fit9OU7",
+    "id": "recH4fs941DMEjrBk",
     "fields": {
       "title": "Security Communications & Content Lead",
       "link": "https://boards.greenhouse.io/rivian/jobs/4746795003",
@@ -1426,7 +1476,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "4746795003",
@@ -1439,10 +1489,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "rec6rITaG2XLkaKRy",
+    "id": "rec1r2EBSVHNQXnjW",
     "fields": {
       "title": "Security Operations Center Operator",
       "link": "https://boards.greenhouse.io/rivian/jobs/4812047003",
@@ -1451,7 +1501,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4812047003",
@@ -1464,75 +1514,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "recGxmzJgkl6TPwvR",
-    "fields": {
-      "title": "Senior DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4500705003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
-      "titles": "devops",
-      "level": "senior",
-      "greenhousejobId": "4500705003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "stacksRef": [
-        "recOrGXtNxmw0Qb6K",
-        "recBVsOIHxOuHbsLL",
-        "rec5yZ5MeLFGItgTe",
-        "recpHpVRyoTSW5zYG",
-        "recKAu6iSYsQM2sVM",
-        "rec7soWsNDYyarF7b",
-        "recoFCCgkTyAw8VaX",
-        "rec47zggjd8rMT3Xl",
-        "recEYFL5dJTW6xn7Z",
-        "recPbSS0J3eIt1kNP",
-        "rec9TKC1Wt4i0giMZ",
-        "rec5zDHSxpffNrkqm"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
-      "stacks": [
-        "CloudFormation",
-        "DynamoDB",
-        "EC2",
-        "ECS",
-        "EKS",
-        "Lambda",
-        "RDS",
-        "S3",
-        "SNS",
-        "SQS",
-        "Terraform",
-        "VPCs"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:47.000Z"
-  },
-  {
-    "id": "recpmLJ0Sk4DoaK6C",
+    "id": "recpkwssC0g4CQyI3",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500706003",
@@ -1541,7 +1526,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4500706003",
@@ -1594,10 +1579,75 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:29.000Z"
   },
   {
-    "id": "rectOfbdAsq2DYOxk",
+    "id": "reca5JReWibZ2Wjbl",
+    "fields": {
+      "title": "Senior DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4500705003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, California, Irvine",
+      "titles": "devops",
+      "level": "senior",
+      "greenhousejobId": "4500705003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "stacksRef": [
+        "recOrGXtNxmw0Qb6K",
+        "recBVsOIHxOuHbsLL",
+        "rec5yZ5MeLFGItgTe",
+        "recpHpVRyoTSW5zYG",
+        "recKAu6iSYsQM2sVM",
+        "rec7soWsNDYyarF7b",
+        "recoFCCgkTyAw8VaX",
+        "rec47zggjd8rMT3Xl",
+        "recEYFL5dJTW6xn7Z",
+        "recPbSS0J3eIt1kNP",
+        "rec9TKC1Wt4i0giMZ",
+        "rec5zDHSxpffNrkqm"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "CloudFormation",
+        "DynamoDB",
+        "EC2",
+        "ECS",
+        "EKS",
+        "Lambda",
+        "RDS",
+        "S3",
+        "SNS",
+        "SQS",
+        "Terraform",
+        "VPCs"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:30.000Z"
+  },
+  {
+    "id": "rec4wN2AQqN6vaiCq",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4754432003",
@@ -1606,7 +1656,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4754432003",
@@ -1671,75 +1721,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T21:30:47.000Z"
+    "createdTime": "2021-11-25T10:34:30.000Z"
   },
   {
-    "id": "recPKSpEWcQeobwXe",
-    "fields": {
-      "title": "Senior DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4696272003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
-      "titles": "devops",
-      "level": "senior",
-      "greenhousejobId": "4696272003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "stacksRef": [
-        "recOrGXtNxmw0Qb6K",
-        "recBVsOIHxOuHbsLL",
-        "rec5yZ5MeLFGItgTe",
-        "recpHpVRyoTSW5zYG",
-        "recKAu6iSYsQM2sVM",
-        "rec7soWsNDYyarF7b",
-        "recoFCCgkTyAw8VaX",
-        "rec47zggjd8rMT3Xl",
-        "recEYFL5dJTW6xn7Z",
-        "recPbSS0J3eIt1kNP",
-        "rec9TKC1Wt4i0giMZ",
-        "rec5zDHSxpffNrkqm"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
-      "stacks": [
-        "CloudFormation",
-        "DynamoDB",
-        "EC2",
-        "ECS",
-        "EKS",
-        "Lambda",
-        "RDS",
-        "S3",
-        "SNS",
-        "SQS",
-        "Terraform",
-        "VPCs"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:49.000Z"
-  },
-  {
-    "id": "recffIBbkB89h7w5s",
+    "id": "recDtH8I45ry3KOVm",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4705382003",
@@ -1748,7 +1733,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Michigan, Plymouth",
+      "rawLocation": "United States, Michigan, Plymouth",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4705382003",
@@ -1801,10 +1786,75 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:30.000Z"
   },
   {
-    "id": "recFIfPKm16HsBVmt",
+    "id": "recueEbkNSBcFzQbT",
+    "fields": {
+      "title": "Senior DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4696272003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Illinois, Normal",
+      "titles": "devops",
+      "level": "senior",
+      "greenhousejobId": "4696272003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "stacksRef": [
+        "recOrGXtNxmw0Qb6K",
+        "recBVsOIHxOuHbsLL",
+        "rec5yZ5MeLFGItgTe",
+        "recpHpVRyoTSW5zYG",
+        "recKAu6iSYsQM2sVM",
+        "rec7soWsNDYyarF7b",
+        "recoFCCgkTyAw8VaX",
+        "rec47zggjd8rMT3Xl",
+        "recEYFL5dJTW6xn7Z",
+        "recPbSS0J3eIt1kNP",
+        "rec9TKC1Wt4i0giMZ",
+        "rec5zDHSxpffNrkqm"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "CloudFormation",
+        "DynamoDB",
+        "EC2",
+        "ECS",
+        "EKS",
+        "Lambda",
+        "RDS",
+        "S3",
+        "SNS",
+        "SQS",
+        "Terraform",
+        "VPCs"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:30.000Z"
+  },
+  {
+    "id": "rec7Tnuq75gleP69a",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654412003",
@@ -1813,7 +1863,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Los Angeles",
+      "rawLocation": "United States, California, Los Angeles",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4654412003",
@@ -1876,160 +1926,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:30.000Z"
   },
   {
-    "id": "rec9f6YUj9H7LsltJ",
-    "fields": {
-      "title": "Senior, DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4654413003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Washington, Seattle",
-      "titles": "devops",
-      "level": "senior",
-      "greenhousejobId": "4654413003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recxwUMGgwBh1veEv"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "stacksRef": [
-        "recX8Cgl6cYPYwAYG",
-        "recOrGXtNxmw0Qb6K",
-        "recKAu6iSYsQM2sVM",
-        "recjDITT6XpDVPdWS",
-        "recl0JcZCQzULEx4C",
-        "recblhgQwpdRcyJMd",
-        "recdez4E5yHpO5Yf4",
-        "recucUI3ezLi2w0iR",
-        "rec21psaSIrSeb5XJ",
-        "rec47zggjd8rMT3Xl",
-        "rec9TKC1Wt4i0giMZ"
-      ],
-      "codingSkillsRef": [
-        "recMWCUSRZL8y9Z9u",
-        "rec36lbtGJYaQxsZH",
-        "recVnpyDApYG4Zco0"
-      ],
-      "stacks": [
-        "BitBucket",
-        "CloudFormation",
-        "EKS",
-        "ELK",
-        "EMR",
-        "Jenkins",
-        "Kafka",
-        "Kubernetes",
-        "Prometheus",
-        "S3",
-        "Terraform"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Java",
-        "Python",
-        "Ruby"
-      ],
-      "knowledges": [
-        "API",
-        "Redshift"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:49.000Z"
-  },
-  {
-    "id": "recYCg0bArzi0NaAA",
-    "fields": {
-      "title": "Senior, DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4654411003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
-      "titles": "devops",
-      "level": "senior",
-      "greenhousejobId": "4654411003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recxwUMGgwBh1veEv"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "stacksRef": [
-        "recX8Cgl6cYPYwAYG",
-        "recOrGXtNxmw0Qb6K",
-        "recKAu6iSYsQM2sVM",
-        "recjDITT6XpDVPdWS",
-        "recl0JcZCQzULEx4C",
-        "recblhgQwpdRcyJMd",
-        "recdez4E5yHpO5Yf4",
-        "recucUI3ezLi2w0iR",
-        "rec21psaSIrSeb5XJ",
-        "rec47zggjd8rMT3Xl",
-        "rec9TKC1Wt4i0giMZ"
-      ],
-      "codingSkillsRef": [
-        "recMWCUSRZL8y9Z9u",
-        "rec36lbtGJYaQxsZH",
-        "recVnpyDApYG4Zco0"
-      ],
-      "stacks": [
-        "BitBucket",
-        "CloudFormation",
-        "EKS",
-        "ELK",
-        "EMR",
-        "Jenkins",
-        "Kafka",
-        "Kubernetes",
-        "Prometheus",
-        "S3",
-        "Terraform"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Java",
-        "Python",
-        "Ruby"
-      ],
-      "knowledges": [
-        "API",
-        "Redshift"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:49.000Z"
-  },
-  {
-    "id": "recArj31Yws5OjhQC",
+    "id": "recyYTu1YEw0fKDYl",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654403003",
@@ -2038,7 +1938,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4654403003",
@@ -2101,10 +2001,160 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:30.000Z"
   },
   {
-    "id": "rec8Lf8nl3b32sIEq",
+    "id": "recgXWoSGIiuOTcih",
+    "fields": {
+      "title": "Senior, DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4654411003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, California, Irvine",
+      "titles": "devops",
+      "level": "senior",
+      "greenhousejobId": "4654411003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recxwUMGgwBh1veEv"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "stacksRef": [
+        "recX8Cgl6cYPYwAYG",
+        "recOrGXtNxmw0Qb6K",
+        "recKAu6iSYsQM2sVM",
+        "recjDITT6XpDVPdWS",
+        "recl0JcZCQzULEx4C",
+        "recblhgQwpdRcyJMd",
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR",
+        "rec21psaSIrSeb5XJ",
+        "rec47zggjd8rMT3Xl",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec36lbtGJYaQxsZH",
+        "recVnpyDApYG4Zco0"
+      ],
+      "stacks": [
+        "BitBucket",
+        "CloudFormation",
+        "EKS",
+        "ELK",
+        "EMR",
+        "Jenkins",
+        "Kafka",
+        "Kubernetes",
+        "Prometheus",
+        "S3",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Java",
+        "Python",
+        "Ruby"
+      ],
+      "knowledges": [
+        "API",
+        "Redshift"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:30.000Z"
+  },
+  {
+    "id": "recb6PldNA9XsQDN4",
+    "fields": {
+      "title": "Senior, DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4654413003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Washington, Seattle",
+      "titles": "devops",
+      "level": "senior",
+      "greenhousejobId": "4654413003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recxwUMGgwBh1veEv"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "stacksRef": [
+        "recX8Cgl6cYPYwAYG",
+        "recOrGXtNxmw0Qb6K",
+        "recKAu6iSYsQM2sVM",
+        "recjDITT6XpDVPdWS",
+        "recl0JcZCQzULEx4C",
+        "recblhgQwpdRcyJMd",
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR",
+        "rec21psaSIrSeb5XJ",
+        "rec47zggjd8rMT3Xl",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec36lbtGJYaQxsZH",
+        "recVnpyDApYG4Zco0"
+      ],
+      "stacks": [
+        "BitBucket",
+        "CloudFormation",
+        "EKS",
+        "ELK",
+        "EMR",
+        "Jenkins",
+        "Kafka",
+        "Kubernetes",
+        "Prometheus",
+        "S3",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Java",
+        "Python",
+        "Ruby"
+      ],
+      "knowledges": [
+        "API",
+        "Redshift"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:30.000Z"
+  },
+  {
+    "id": "rece0aZ1ylopjn5QD",
     "fields": {
       "title": "Senior Embedded Software Engineer, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4309186003",
@@ -2113,7 +2163,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "security",
       "level": "senior",
       "greenhousejobId": "4309186003",
@@ -2132,10 +2182,10 @@
         "TCP"
       ]
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:30.000Z"
   },
   {
-    "id": "reczXA33LeYzI9IcI",
+    "id": "rec9Oa70tsvfCIsgn",
     "fields": {
       "title": "Senior Infrastructure Engineer, Over-the-Air (OTA)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4353774003",
@@ -2144,7 +2194,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "infrastructure",
       "level": "senior",
       "greenhousejobId": "4353774003",
@@ -2181,10 +2231,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:30.000Z"
   },
   {
-    "id": "recOIInIcsFgrEqPS",
+    "id": "rec1bDgbtNE7vx46R",
     "fields": {
       "title": "Senior Software Engineer, DevOps",
       "link": "https://boards.greenhouse.io/rivian/jobs/4315284003",
@@ -2193,7 +2243,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "4315284003",
@@ -2234,10 +2284,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:31.000Z"
   },
   {
-    "id": "recc63U9RkPLbZUas",
+    "id": "recIDS4pNCDm0Ucv4",
     "fields": {
       "title": "Sensor Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4522458003",
@@ -2246,7 +2296,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "architect",
       "level": "midLevel",
       "greenhousejobId": "4522458003",
@@ -2259,10 +2309,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:49.000Z"
+    "createdTime": "2021-11-25T10:34:31.000Z"
   },
   {
-    "id": "recg9WRZViEzAyhce",
+    "id": "recVXj0xOHCinhIaF",
     "fields": {
       "title": "ServiceNow Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4585428003",
@@ -2271,7 +2321,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "architect",
       "level": "midLevel",
       "greenhousejobId": "4585428003",
@@ -2292,135 +2342,10 @@
         "SOAP"
       ]
     },
-    "createdTime": "2021-11-23T21:30:52.000Z"
+    "createdTime": "2021-11-25T10:34:31.000Z"
   },
   {
-    "id": "recI7VSjaWk0KlJFb",
-    "fields": {
-      "title": "Software Security Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4602460003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Washington, Seattle",
-      "titles": "security",
-      "level": "midLevel",
-      "greenhousejobId": "4602460003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:52.000Z"
-  },
-  {
-    "id": "recdeISTwjCb3ialf",
-    "fields": {
-      "title": "Software Security Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4602459003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Los Angeles",
-      "titles": "security",
-      "level": "midLevel",
-      "greenhousejobId": "4602459003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:52.000Z"
-  },
-  {
-    "id": "rec2kVgOTN74mlzqP",
-    "fields": {
-      "title": "Software Security Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4399325003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Michigan, Plymouth",
-      "titles": "security",
-      "level": "midLevel",
-      "greenhousejobId": "4399325003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:52.000Z"
-  },
-  {
-    "id": "recjKIBwwpepCjDW8",
-    "fields": {
-      "title": "Software Security Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4399323003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
-      "titles": "security",
-      "level": "midLevel",
-      "greenhousejobId": "4399323003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:52.000Z"
-  },
-  {
-    "id": "rec7z4jp9YKHJ2DJQ",
-    "fields": {
-      "title": "Software Security Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4399322003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
-      "titles": "security",
-      "level": "midLevel",
-      "greenhousejobId": "4399322003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:52.000Z"
-  },
-  {
-    "id": "recEbaUU8kqlxftsA",
+    "id": "recK9mCP3yzyeTD4U",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399301003",
@@ -2429,7 +2354,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4399301003",
@@ -2442,10 +2367,135 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:52.000Z"
+    "createdTime": "2021-11-25T10:34:31.000Z"
   },
   {
-    "id": "receibspqPrtvwFSO",
+    "id": "recCPEYcylgTIjfsE",
+    "fields": {
+      "title": "Software Security Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4399325003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Michigan, Plymouth",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "4399325003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:31.000Z"
+  },
+  {
+    "id": "recie7pCdjhFM3Skj",
+    "fields": {
+      "title": "Software Security Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4399323003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Illinois, Normal",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "4399323003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:31.000Z"
+  },
+  {
+    "id": "recc475N4dGrzXqUM",
+    "fields": {
+      "title": "Software Security Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4399322003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, California, Palo Alto",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "4399322003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:31.000Z"
+  },
+  {
+    "id": "recQBLaQs9fozOTcX",
+    "fields": {
+      "title": "Software Security Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4602459003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, California, Los Angeles",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "4602459003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:31.000Z"
+  },
+  {
+    "id": "recRxP7NaBIdR149q",
+    "fields": {
+      "title": "Software Security Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4602460003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Washington, Seattle",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "4602460003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:31.000Z"
+  },
+  {
+    "id": "recY8P56ipzKUH5Pi",
     "fields": {
       "title": "Sr. DevOps Engineer - Platform Infrastructure",
       "link": "https://boards.greenhouse.io/rivian/jobs/4597874003",
@@ -2454,7 +2504,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Washington, Seattle",
+      "rawLocation": "United States, Washington, Seattle",
       "titles": "devops",
       "level": "midLevel",
       "greenhousejobId": "4597874003",
@@ -2517,10 +2567,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:52.000Z"
+    "createdTime": "2021-11-25T10:34:31.000Z"
   },
   {
-    "id": "reczBjUyf7AgT5dWH",
+    "id": "recqOQdMudRdCUoY6",
     "fields": {
       "title": "Sr. DevOps Engineer - Platform Infrastructure",
       "link": "https://boards.greenhouse.io/rivian/jobs/4750055003",
@@ -2529,7 +2579,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Washington, Seattle",
+      "rawLocation": "United States, Washington, Seattle",
       "titles": "devops",
       "level": "midLevel",
       "greenhousejobId": "4750055003",
@@ -2592,10 +2642,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:52.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "rec4fOBLhyNVMkMTT",
+    "id": "recFoYI5KD7LBr8k3",
     "fields": {
       "title": "Sr. In-Vehicle HMI Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4298780003",
@@ -2604,7 +2654,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "architect",
       "level": "midLevel",
       "greenhousejobId": "4298780003",
@@ -2617,10 +2667,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:52.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "recH36zmWlLESK6jQ",
+    "id": "recMARIUVRqOjQxw2",
     "fields": {
       "title": "Sr. Software Engineer (Front End, Back End, DevOps) - MES",
       "link": "https://boards.greenhouse.io/rivian/jobs/4381521003",
@@ -2629,7 +2679,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "midLevel",
       "greenhousejobId": "4381521003",
@@ -2660,10 +2710,10 @@
         "API"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "recsdoBm3QRwjh7uQ",
+    "id": "recMTCHNwgd2VfK2v",
     "fields": {
       "title": "Staff AWS DevOps HPS Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4744094003",
@@ -2672,7 +2722,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Remote",
+      "rawLocation": "United States, Remote",
       "titles": "devops",
       "level": "staff",
       "greenhousejobId": "4744094003",
@@ -2725,10 +2775,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "recdOcYmd8lFVcORB",
+    "id": "recFQgvUJBamO8li6",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4696265003",
@@ -2737,7 +2787,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "devops",
       "level": "staff",
       "greenhousejobId": "4696265003",
@@ -2806,10 +2856,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "rec7IHh7LSy55pxUA",
+    "id": "recKMEuhjCHta67BX",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4384601003",
@@ -2818,7 +2868,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "devops",
       "level": "staff",
       "greenhousejobId": "4384601003",
@@ -2883,91 +2933,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "reclweWSfR50UNwci",
-    "fields": {
-      "title": "Staff DevOps Engineer",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4500714003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
-      "titles": "devops",
-      "level": "staff",
-      "greenhousejobId": "4500714003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0,
-      "knowledgesRef": [
-        "recy17EXem6OaFZy5",
-        "recZ6t0uNmvK3Htk7",
-        "recxwUMGgwBh1veEv",
-        "recpeXqYyKldSZj0n"
-      ],
-      "stacksRef": [
-        "recD3tp7TdtNTKJRE",
-        "recOrGXtNxmw0Qb6K",
-        "recBVsOIHxOuHbsLL",
-        "rec5yZ5MeLFGItgTe",
-        "recpHpVRyoTSW5zYG",
-        "recKAu6iSYsQM2sVM",
-        "reclR4Rlv7GnyudD8",
-        "rec7soWsNDYyarF7b",
-        "recoFCCgkTyAw8VaX",
-        "rec47zggjd8rMT3Xl",
-        "recEYFL5dJTW6xn7Z",
-        "recPbSS0J3eIt1kNP",
-        "rec9TKC1Wt4i0giMZ",
-        "rec5zDHSxpffNrkqm"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH"
-      ],
-      "stacks": [
-        "API Gateway",
-        "CloudFormation",
-        "DynamoDB",
-        "EC2",
-        "ECS",
-        "EKS",
-        "Kinesis",
-        "Lambda",
-        "RDS",
-        "S3",
-        "SNS",
-        "SQS",
-        "Terraform",
-        "VPCs"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python"
-      ],
-      "knowledges": [
-        "API",
-        "DNS",
-        "Redshift",
-        "SQL"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:53.000Z"
-  },
-  {
-    "id": "recZkIAZ0tuzko6tA",
+    "id": "recGlBgiZeQ3IIlLK",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500715003",
@@ -2976,7 +2945,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Irvine",
+      "rawLocation": "United States, California, Irvine",
       "titles": "devops",
       "level": "staff",
       "greenhousejobId": "4500715003",
@@ -3045,10 +3014,91 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "recZt6jB7UQVrfRqj",
+    "id": "recoUOQPakaHYoCFd",
+    "fields": {
+      "title": "Staff DevOps Engineer",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4500714003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, California, Palo Alto",
+      "titles": "devops",
+      "level": "staff",
+      "greenhousejobId": "4500714003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5",
+        "recZ6t0uNmvK3Htk7",
+        "recxwUMGgwBh1veEv",
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacksRef": [
+        "recD3tp7TdtNTKJRE",
+        "recOrGXtNxmw0Qb6K",
+        "recBVsOIHxOuHbsLL",
+        "rec5yZ5MeLFGItgTe",
+        "recpHpVRyoTSW5zYG",
+        "recKAu6iSYsQM2sVM",
+        "reclR4Rlv7GnyudD8",
+        "rec7soWsNDYyarF7b",
+        "recoFCCgkTyAw8VaX",
+        "rec47zggjd8rMT3Xl",
+        "recEYFL5dJTW6xn7Z",
+        "recPbSS0J3eIt1kNP",
+        "rec9TKC1Wt4i0giMZ",
+        "rec5zDHSxpffNrkqm"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "API Gateway",
+        "CloudFormation",
+        "DynamoDB",
+        "EC2",
+        "ECS",
+        "EKS",
+        "Kinesis",
+        "Lambda",
+        "RDS",
+        "S3",
+        "SNS",
+        "SQS",
+        "Terraform",
+        "VPCs"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "API",
+        "DNS",
+        "Redshift",
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:32.000Z"
+  },
+  {
+    "id": "recuoPngW0bn4tUTp",
     "fields": {
       "title": "Staff PKI Engineer, Infrastructure Security ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654457003",
@@ -3057,7 +3107,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "security",
       "level": "staff",
       "greenhousejobId": "4654457003",
@@ -3086,10 +3136,10 @@
         "firewalls"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "reckdyuu8UacY0lOK",
+    "id": "recWcM3XZsgrN2PFU",
     "fields": {
       "title": "Staff Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4311521003",
@@ -3098,7 +3148,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
+      "rawLocation": "United States, California, Palo Alto",
       "titles": "sre",
       "level": "staff",
       "greenhousejobId": "4311521003",
@@ -3143,10 +3193,10 @@
         "Graphite"
       ]
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:32.000Z"
   },
   {
-    "id": "recs619LibyS2h1XU",
+    "id": "recOR0kV0vaQDGxb0",
     "fields": {
       "title": " Supervisor, Security Operations Center",
       "link": "https://boards.greenhouse.io/rivian/jobs/4625444003",
@@ -3155,7 +3205,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "4625444003",
@@ -3168,10 +3218,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recMqkk072t0Va4uR",
+    "id": "recMjthTCpCU4HvzK",
     "fields": {
       "title": "Team Lead, Site Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4504900003",
@@ -3180,7 +3230,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
+      "rawLocation": "United States, Illinois, Normal",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "4504900003",
@@ -3193,60 +3243,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:53.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recRLpIaWsHcQax9D",
-    "fields": {
-      "title": "Technical Security Project Manager",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4420998003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, California, Palo Alto",
-      "titles": "security",
-      "level": "manager",
-      "greenhousejobId": "4420998003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:55.000Z"
-  },
-  {
-    "id": "recDjweLXg4eQHNuk",
-    "fields": {
-      "title": "Technical Security Project Manager",
-      "link": "https://boards.greenhouse.io/rivian/jobs/4758474003",
-      "company": [
-        "recdZY3an07gcT4tT"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States, Illinois, Normal",
-      "titles": "security",
-      "level": "manager",
-      "greenhousejobId": "4758474003",
-      "companyName": [
-        "rivian"
-      ],
-      "companyURL": [
-        "https://rivian.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:55.000Z"
-  },
-  {
-    "id": "recC9gT7k4InzYdJv",
+    "id": "recrSxdvzgtMPkbfz",
     "fields": {
       "title": "Technical Security Project Manager",
       "link": "https://boards.greenhouse.io/rivian/jobs/4730217003",
@@ -3255,7 +3255,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States, Washington, Seattle",
+      "rawLocation": "United States, Washington, Seattle",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "4730217003",
@@ -3268,35 +3268,60 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recsE1P8P9Bt6AM2y",
+    "id": "recsVoA39fZYnEi13",
     "fields": {
-      "title": "Manager, DevOps",
-      "link": "https://boards.greenhouse.io/turo/jobs/3659469",
+      "title": "Technical Security Project Manager",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4420998003",
       "company": [
-        "recwXuoLUqXX9EBs3"
+        "recdZY3an07gcT4tT"
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Toronto, Ontario, Canada",
-      "titles": "devops",
+      "rawLocation": "United States, California, Palo Alto",
+      "titles": "security",
       "level": "manager",
-      "greenhousejobId": "3659469",
+      "greenhousejobId": "4420998003",
       "companyName": [
-        "turo"
+        "rivian"
       ],
       "companyURL": [
-        "https://turo.com"
+        "https://rivian.com"
       ],
       "companyIsActive": 1,
-      "companyIsDebugging": 1
+      "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "rec1uKaN1SpZrh8VC",
+    "id": "rectzo5wXhbVskhWk",
+    "fields": {
+      "title": "Technical Security Project Manager",
+      "link": "https://boards.greenhouse.io/rivian/jobs/4758474003",
+      "company": [
+        "recdZY3an07gcT4tT"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "United States, Illinois, Normal",
+      "titles": "security",
+      "level": "manager",
+      "greenhousejobId": "4758474003",
+      "companyName": [
+        "rivian"
+      ],
+      "companyURL": [
+        "https://rivian.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:33.000Z"
+  },
+  {
+    "id": "recQBTeHsEnMGgyiN",
     "fields": {
       "title": "Manager, DevOps",
       "link": "https://boards.greenhouse.io/turo/jobs/3333544",
@@ -3305,7 +3330,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "San Francisco, CA",
+      "rawLocation": "San Francisco, CA",
       "titles": "devops",
       "level": "manager",
       "greenhousejobId": "3333544",
@@ -3318,10 +3343,35 @@
       "companyIsActive": 1,
       "companyIsDebugging": 1
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recXl971zSkY1uH9y",
+    "id": "recWOY381041LN4dJ",
+    "fields": {
+      "title": "Manager, DevOps",
+      "link": "https://boards.greenhouse.io/turo/jobs/3659469",
+      "company": [
+        "recwXuoLUqXX9EBs3"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Toronto, Ontario, Canada",
+      "titles": "devops",
+      "level": "manager",
+      "greenhousejobId": "3659469",
+      "companyName": [
+        "turo"
+      ],
+      "companyURL": [
+        "https://turo.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 1
+    },
+    "createdTime": "2021-11-25T10:34:33.000Z"
+  },
+  {
+    "id": "rec7Ol09zcifGypro",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3659482",
@@ -3330,7 +3380,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Toronto, Ontario, Canada",
+      "rawLocation": "Toronto, Ontario, Canada",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "3659482",
@@ -3363,10 +3413,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recdyK4VZdlkwHgVo",
+    "id": "rec0WIsolZEILXgKs",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3597815",
@@ -3375,7 +3425,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "San Francisco, CA",
+      "rawLocation": "San Francisco, CA",
       "titles": "devops",
       "level": "senior",
       "greenhousejobId": "3597815",
@@ -3408,59 +3458,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recb0SmwyncCedYnD",
-    "fields": {
-      "title": "Staff DevOps Engineer",
-      "link": "https://boards.greenhouse.io/turo/jobs/3659494",
-      "company": [
-        "recwXuoLUqXX9EBs3"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "Toronto, Ontario, Canada",
-      "titles": "devops",
-      "level": "staff",
-      "greenhousejobId": "3659494",
-      "companyName": [
-        "turo"
-      ],
-      "companyURL": [
-        "https://turo.com"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 1,
-      "stacksRef": [
-        "recROH1tPlWa7Ypwt",
-        "recf2mW1mjIf0LbYi",
-        "rec9TKC1Wt4i0giMZ"
-      ],
-      "platformsRef": [
-        "rec7Db0hZq5xvZVGN"
-      ],
-      "codingSkillsRef": [
-        "rec36lbtGJYaQxsZH",
-        "recVnpyDApYG4Zco0"
-      ],
-      "stacks": [
-        "Ansible",
-        "Chef",
-        "Terraform"
-      ],
-      "platforms": [
-        "AWS"
-      ],
-      "codingSkills": [
-        "Python",
-        "Ruby"
-      ]
-    },
-    "createdTime": "2021-11-23T21:30:55.000Z"
-  },
-  {
-    "id": "recMrewggfhxRoM51",
+    "id": "recQpZoYOiUozzwOl",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3581036",
@@ -3469,7 +3470,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "San Francisco, CA",
+      "rawLocation": "San Francisco, CA",
       "titles": "devops",
       "level": "staff",
       "greenhousejobId": "3581036",
@@ -3506,10 +3507,59 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "rec9pcWlzMJe1sqvG",
+    "id": "rechRFEG6TODfpaEB",
+    "fields": {
+      "title": "Staff DevOps Engineer",
+      "link": "https://boards.greenhouse.io/turo/jobs/3659494",
+      "company": [
+        "recwXuoLUqXX9EBs3"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Toronto, Ontario, Canada",
+      "titles": "devops",
+      "level": "staff",
+      "greenhousejobId": "3659494",
+      "companyName": [
+        "turo"
+      ],
+      "companyURL": [
+        "https://turo.com"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 1,
+      "stacksRef": [
+        "recROH1tPlWa7Ypwt",
+        "recf2mW1mjIf0LbYi",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH",
+        "recVnpyDApYG4Zco0"
+      ],
+      "stacks": [
+        "Ansible",
+        "Chef",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python",
+        "Ruby"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:33.000Z"
+  },
+  {
+    "id": "recSPnp79V1At7hLH",
     "fields": {
       "title": "Engineering Manager, SRE ",
       "link": "https://boards.greenhouse.io/doordash/jobs/3582236?gh_jid=3582236",
@@ -3518,7 +3568,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
+      "rawLocation": "United States - Remote",
       "titles": "sre",
       "level": "manager",
       "greenhousejobId": "3582236",
@@ -3537,35 +3587,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:55.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recoLKuWfjxmkzobQ",
-    "fields": {
-      "title": "IT Infrastructure Engineering Manager",
-      "link": "https://boards.greenhouse.io/doordash/jobs/3436757?gh_jid=3436757",
-      "company": [
-        "rec2Ly0tWfh1nSppo"
-      ],
-      "roles": "fullTime",
-      "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
-      "titles": "infrastructure",
-      "level": "manager",
-      "greenhousejobId": "3436757",
-      "companyName": [
-        "doordash"
-      ],
-      "companyURL": [
-        "https://www.doordash.com/"
-      ],
-      "companyIsActive": 1,
-      "companyIsDebugging": 0
-    },
-    "createdTime": "2021-11-23T21:30:56.000Z"
-  },
-  {
-    "id": "recRtdT9O9c0sATUQ",
+    "id": "recXrX6SBXrmoU5Le",
     "fields": {
       "title": "Manager, Security Services",
       "link": "https://boards.greenhouse.io/doordash/jobs/3316768?gh_jid=3316768",
@@ -3574,7 +3599,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "Mexico City, Mexico",
+      "rawLocation": "Mexico City, Mexico",
       "titles": "security",
       "level": "manager",
       "greenhousejobId": "3316768",
@@ -3587,10 +3612,10 @@
       "companyIsActive": 1,
       "companyIsDebugging": 0
     },
-    "createdTime": "2021-11-23T21:30:56.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recugSyGX7mhjM1xW",
+    "id": "rectCruZXbXWjHRYX",
     "fields": {
       "title": "Security Engineer, Detection and Response",
       "link": "https://boards.greenhouse.io/doordash/jobs/2525390?gh_jid=2525390",
@@ -3599,7 +3624,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
+      "rawLocation": "United States - Remote",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "2525390",
@@ -3636,10 +3661,10 @@
         "firewalls"
       ]
     },
-    "createdTime": "2021-11-23T21:30:56.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recwyrwY2wXs9YmQo",
+    "id": "recbKumIPBhgzTj9f",
     "fields": {
       "title": "Security Engineer, Incident Response ",
       "link": "https://boards.greenhouse.io/doordash/jobs/3346406?gh_jid=3346406",
@@ -3648,7 +3673,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
+      "rawLocation": "United States - Remote",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "3346406",
@@ -3679,10 +3704,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-23T21:30:56.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recbsiLXA62E5a0cM",
+    "id": "rec3UWIDVivEUs2bk",
     "fields": {
       "title": "Security Engineer, Infrastructure ",
       "link": "https://boards.greenhouse.io/doordash/jobs/3318847?gh_jid=3318847",
@@ -3691,7 +3716,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
+      "rawLocation": "United States - Remote",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "3318847",
@@ -3726,10 +3751,10 @@
         "IAM"
       ]
     },
-    "createdTime": "2021-11-23T21:30:56.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recDhgi4O8m7DfDLn",
+    "id": "recwPK5czUzVf0GJs",
     "fields": {
       "title": "Security Engineer, Threat and Vulnerability Management",
       "link": "https://boards.greenhouse.io/doordash/jobs/3346950?gh_jid=3346950",
@@ -3738,7 +3763,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
+      "rawLocation": "United States - Remote",
       "titles": "security",
       "level": "midLevel",
       "greenhousejobId": "3346950",
@@ -3761,10 +3786,10 @@
         "GCP"
       ]
     },
-    "createdTime": "2021-11-23T21:30:56.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
   },
   {
-    "id": "recqXnqAvKHm4ExDl",
+    "id": "recFr6kJGTkzBAjfS",
     "fields": {
       "title": "Software Engineer, Site Reliability (SRE)",
       "link": "https://boards.greenhouse.io/doordash/jobs/37470?gh_jid=37470",
@@ -3773,7 +3798,7 @@
       ],
       "roles": "fullTime",
       "postedBy": "companyRecruitment",
-      "city": "United States - Remote",
+      "rawLocation": "United States - Remote",
       "titles": "sre",
       "level": "midLevel",
       "greenhousejobId": "37470",
@@ -3792,6 +3817,1972 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-23T21:30:56.000Z"
+    "createdTime": "2021-11-25T10:34:33.000Z"
+  },
+  {
+    "id": "recCpdij9jcJBN3c8",
+    "fields": {
+      "title": "Security Engineer, Detection & Incident Response",
+      "link": "https://boards.greenhouse.io/10xgenomics/jobs/3299298?gh_jid=3299298",
+      "company": [
+        "recD6gaAbo0CFcRbZ"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Pleasanton, California, USA HQ",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "3299298",
+      "companyName": [
+        "10xgenomics"
+      ],
+      "companyURL": [
+        "https://www.10xgenomics.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recTh5lusGhRiaKq4"
+      ],
+      "stacks": [
+        "SumoLogic"
+      ],
+      "codingSkills": [
+        "Python"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:33.000Z"
+  },
+  {
+    "id": "rec3AZDPKU4xMyAJV",
+    "fields": {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://boards.greenhouse.io/10xgenomics/jobs/3328631?gh_jid=3328631",
+      "company": [
+        "recD6gaAbo0CFcRbZ"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Pleasanton, California, USA HQ",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "3328631",
+      "companyName": [
+        "10xgenomics"
+      ],
+      "companyURL": [
+        "https://www.10xgenomics.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "stacksRef": [
+        "recROH1tPlWa7Ypwt",
+        "recf2mW1mjIf0LbYi",
+        "recOrGXtNxmw0Qb6K",
+        "recEdyV7FhXa9Gthe",
+        "recpHpVRyoTSW5zYG",
+        "recKAu6iSYsQM2sVM",
+        "recpihCyHEbROyUaa",
+        "rec2Da99vmUgLect1",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "knowledgesRef": [
+        "recob6jj5fa0k2fPa"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "Ansible",
+        "Chef",
+        "CloudFormation",
+        "Consul",
+        "ECS",
+        "EKS",
+        "Puppet",
+        "Spinnaker",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "Docker"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:33.000Z"
+  },
+  {
+    "id": "reccR6NYXH5Ez4WKl",
+    "fields": {
+      "title": "Sr. Offensive Security Engineer",
+      "link": "https://www.23andme.com/careers/5652780002/?gh_jid=5652780002",
+      "company": [
+        "recTjk3pW6Go236Pz"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "South San Francisco",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "5652780002",
+      "companyName": [
+        "23andMe"
+      ],
+      "companyURL": [
+        "https://www.23andme.com/"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "knowledgesRef": [
+        "recy17EXem6OaFZy5"
+      ],
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN"
+      ],
+      "platforms": [
+        "AWS"
+      ],
+      "knowledges": [
+        "API"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "receiH0eGrmn4cmF7",
+    "fields": {
+      "title": "Associate Solutions Architect (Central) ",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3567997",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Austin, Dallas, Chicago",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3567997",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "recFnJ3T1sYf4n0rQ",
+    "fields": {
+      "title": "Associate Solutions Architect (Central) ",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3209556",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Austin, Dallas, Chicago",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3209556",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "rec8FW89fV6Sb38sI",
+    "fields": {
+      "title": "Associate Solutions Architect (East)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3567964",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Atlanta, Washington DC, Boston",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3567964",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "recXX6YgfsJaVAPNe",
+    "fields": {
+      "title": "Corporate Solutions Architect (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3681896",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Tel Aviv",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3681896",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "recWomVgtBeq6qVIj",
+    "fields": {
+      "title": "Manager, Solutions Architecture (Pre Sales)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3676693",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "New York City, Washington D.C.",
+      "titles": "architect",
+      "level": "manager",
+      "greenhousejobId": "3676693",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "recie9FGhCAx3ybut",
+    "fields": {
+      "title": "Partner Pre-Sales Senior Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3630396",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Austin, Chicago, Dallas, Atlanta, Boston, New York City",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3630396",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "recwUyG7uPWyRUi7G",
+    "fields": {
+      "title": "Partner, Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3629590",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Paris",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3629590",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "rec7pnrZDz8KWJqR8",
+    "fields": {
+      "title": "Pre-Sales Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3346195",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Los Angeles, San Diego",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3346195",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "rec6xORDyJaNjdGFy",
+    "fields": {
+      "title": "Product Marketing Manager, Ops & DevOps",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3659709",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Atlanta, Austin, Boston, Chicago, New York City, San Fransisco, Remote North America ",
+      "titles": "devops",
+      "level": "manager",
+      "greenhousejobId": "3659709",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "stacksRef": [
+        "recOrGXtNxmw0Qb6K",
+        "rec15ZX7bLFniYPV4",
+        "recucUI3ezLi2w0iR",
+        "recTh5lusGhRiaKq4",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "stacks": [
+        "CloudFormation",
+        "Datadog",
+        "Kubernetes",
+        "SumoLogic",
+        "Terraform"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:34.000Z"
+  },
+  {
+    "id": "recZM32avlu1ns1Nx",
+    "fields": {
+      "title": "Product Security Engineer",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3568430",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "New York City, San Francisco, Remote North America",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "3568430",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "knowledgesRef": [
+        "recob6jj5fa0k2fPa"
+      ],
+      "codingSkillsRef": [
+        "recfhnyw6RPcO3Kqf",
+        "recMWCUSRZL8y9Z9u",
+        "recHvAhk8iwIehfZM",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recucUI3ezLi2w0iR"
+      ],
+      "stacks": [
+        "Kubernetes"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "codingSkills": [
+        "Golang",
+        "Java",
+        "Javascript",
+        "Python"
+      ],
+      "knowledges": [
+        "Docker"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recdA0kNPyFtgEdzI",
+    "fields": {
+      "title": "Security Engineer, Atlas Detection/Response",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3232488",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "New York City ",
+      "titles": "security",
+      "level": "midLevel",
+      "greenhousejobId": "3232488",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "knowledgesRef": [
+        "recob6jj5fa0k2fPa"
+      ],
+      "stacksRef": [
+        "recucUI3ezLi2w0iR"
+      ],
+      "stacks": [
+        "Kubernetes"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "knowledges": [
+        "Docker"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "rec83MKhfAtuqx546",
+    "fields": {
+      "title": "Senior Pre-Sales Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3642266",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Bengaluru",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3642266",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "rec6OeyMsMQfiiMl0",
+    "fields": {
+      "title": "Senior Pre-Sales Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3435740",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Dallas",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3435740",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recqFY42ZBfbsXvOD",
+    "fields": {
+      "title": "Senior Pre-Sales Solutions Architect (Chicago)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3456923",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Chicago",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3456923",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recPyesmvYTU5abpl",
+    "fields": {
+      "title": "Senior Pre-Sales Solutions Architect (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=2344136",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "London",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "2344136",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recIDM6XQEXxB1MhO",
+    "fields": {
+      "title": "Senior Pre-Sales Solutions Architect (New York City)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3297910",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "New York City ",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3297910",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recwTup65ioUC5C2g",
+    "fields": {
+      "title": "Senior Pre-Sales Solutions Architect (Paris)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3138211",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Paris",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3138211",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recaQ4ilvgSJbgRc8",
+    "fields": {
+      "title": "Senior Product Marketing Manager, Cloud Security & Government",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3158031",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Remote North America, New York City",
+      "titles": "security",
+      "level": "manager",
+      "greenhousejobId": "3158031",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recr1zTfLH168SOSV",
+    "fields": {
+      "title": "Senior Product Security Advisor, Cloud Services",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3472073",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Remote North America",
+      "titles": "security",
+      "level": "senior",
+      "greenhousejobId": "3472073",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "codingSkills": [
+        "Java"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:35.000Z"
+  },
+  {
+    "id": "recODhp0LabmeAylH",
+    "fields": {
+      "title": "Senior Security Analyst",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3508579",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "London, Dublin",
+      "titles": "security",
+      "level": "senior",
+      "greenhousejobId": "3508579",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G",
+        "recDOqpUcM8knv4q4"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "rec0b5XxrVNKA026M",
+    "fields": {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3403874",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "New York City",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "3403874",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "recpbDwoHPkCQue3G"
+      ],
+      "knowledgesRef": [
+        "recZ6t0uNmvK3Htk7"
+      ],
+      "platforms": [
+        "Azure"
+      ],
+      "knowledges": [
+        "DNS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "rec2NaLJVgZBs4fPY",
+    "fields": {
+      "title": "Senior Site Reliability Engineer ",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=2405095",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Dublin",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "2405095",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G"
+      ],
+      "stacksRef": [
+        "recf2mW1mjIf0LbYi",
+        "rec21psaSIrSeb5XJ",
+        "recpihCyHEbROyUaa",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "knowledgesRef": [
+        "recZ6t0uNmvK3Htk7"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "Chef",
+        "Prometheus",
+        "Puppet",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "DNS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "rec7OlSpWzOp9aT6B",
+    "fields": {
+      "title": "Senior Site Reliability Engineer (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3676014",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Berlin",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "3676014",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G"
+      ],
+      "stacksRef": [
+        "recf2mW1mjIf0LbYi",
+        "rec21psaSIrSeb5XJ",
+        "recpihCyHEbROyUaa",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "knowledgesRef": [
+        "recZ6t0uNmvK3Htk7"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "Chef",
+        "Prometheus",
+        "Puppet",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "DNS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recrhTe2Ho5d64Oxc",
+    "fields": {
+      "title": "Senior Site Reliability Engineer (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3676027",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Madrid",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "3676027",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G"
+      ],
+      "stacksRef": [
+        "recf2mW1mjIf0LbYi",
+        "rec21psaSIrSeb5XJ",
+        "recpihCyHEbROyUaa",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "knowledgesRef": [
+        "recZ6t0uNmvK3Htk7"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "Chef",
+        "Prometheus",
+        "Puppet",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "DNS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recCkxz1v5Qes6shy",
+    "fields": {
+      "title": "Senior Site Reliability Engineer (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3676020",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Amsterdam",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "3676020",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G"
+      ],
+      "stacksRef": [
+        "recf2mW1mjIf0LbYi",
+        "rec21psaSIrSeb5XJ",
+        "recpihCyHEbROyUaa",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "knowledgesRef": [
+        "recZ6t0uNmvK3Htk7"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "Chef",
+        "Prometheus",
+        "Puppet",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "DNS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recZcTFyJ4JdbYFuQ",
+    "fields": {
+      "title": "Senior Site Reliability Engineer (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3676016",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Barcelona",
+      "titles": "sre",
+      "level": "senior",
+      "greenhousejobId": "3676016",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "platformsRef": [
+        "rec7Db0hZq5xvZVGN",
+        "recpbDwoHPkCQue3G"
+      ],
+      "stacksRef": [
+        "recf2mW1mjIf0LbYi",
+        "rec21psaSIrSeb5XJ",
+        "recpihCyHEbROyUaa",
+        "rec9TKC1Wt4i0giMZ"
+      ],
+      "knowledgesRef": [
+        "recZ6t0uNmvK3Htk7"
+      ],
+      "codingSkillsRef": [
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacks": [
+        "Chef",
+        "Prometheus",
+        "Puppet",
+        "Terraform"
+      ],
+      "platforms": [
+        "AWS",
+        "Azure"
+      ],
+      "codingSkills": [
+        "Python"
+      ],
+      "knowledges": [
+        "DNS"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recLnUv9z3Lwjp32Q",
+    "fields": {
+      "title": "Senior Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3660550",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "São Paulo, Brazil ",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3660550",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recCdBWNRLzuDja76",
+    "fields": {
+      "title": "Senior Solutions Architect ",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3345467",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Berlin, Düsseldorf, Frankfurt, Hamburg, Munich, Stuttgart",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3345467",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "rec6KdHaAXb8Y1Xlr",
+    "fields": {
+      "title": "Senior Solutions Architect ",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3345518",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Stockholm",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3345518",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "reclAYbI4VAhBztxE",
+    "fields": {
+      "title": "Senior Solutions Architect (Austin)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3673833",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Austin",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3673833",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "rec7VectYFJ9Tm3j0",
+    "fields": {
+      "title": "Senior Solutions Architect (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3689035",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Rome",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3689035",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recyOWEDmDYLGGdJY",
+    "fields": {
+      "title": "Senior Solutions Architect (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3688994",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Madrid",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3688994",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recSKmcrqpRUi7bRs",
+    "fields": {
+      "title": "Senior Solutions Architect (EMEA)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3689012",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Milan",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3689012",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recxp4f0GUE9GIwOv",
+    "fields": {
+      "title": "Senior Solutions Architect (Mexico City) ",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3673961",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Mexico City",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3673961",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recBKzjQ4JTP23zc5",
+    "fields": {
+      "title": "Senior Solutions Architect (Public Sector)",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3138576",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Washington DC",
+      "titles": "architect",
+      "level": "senior",
+      "greenhousejobId": "3138576",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recD8MQXyQebXRpCB",
+    "fields": {
+      "title": "Service Centre Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3545454",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Milan, Rome",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3545454",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recYLNeij4f9agRCP",
+    "fields": {
+      "title": "Service Centre Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3545456",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Paris",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3545456",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recOUewxNNsdv6kjd",
+    "fields": {
+      "title": "Service Centre Solutions Architect",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3341577",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Dublin, Madrid",
+      "titles": "architect",
+      "level": "midLevel",
+      "greenhousejobId": "3341577",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0,
+      "codingSkillsRef": [
+        "recMWCUSRZL8y9Z9u",
+        "rec5u9LV34KrcxXse",
+        "rec36lbtGJYaQxsZH"
+      ],
+      "stacksRef": [
+        "recdez4E5yHpO5Yf4",
+        "recucUI3ezLi2w0iR"
+      ],
+      "knowledgesRef": [
+        "recpeXqYyKldSZj0n"
+      ],
+      "stacks": [
+        "Kafka",
+        "Kubernetes"
+      ],
+      "codingSkills": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "knowledges": [
+        "SQL"
+      ]
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
+  },
+  {
+    "id": "recSrTsccprFVbwWg",
+    "fields": {
+      "title": "Solution Architect Manager",
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=3587324",
+      "company": [
+        "receOgqsqBgLkLoKc"
+      ],
+      "roles": "fullTime",
+      "postedBy": "companyRecruitment",
+      "rawLocation": "Stockholm",
+      "titles": "architect",
+      "level": "manager",
+      "greenhousejobId": "3587324",
+      "companyName": [
+        "MongoDB"
+      ],
+      "companyURL": [
+        "\nmongodb.com\n"
+      ],
+      "companyIsActive": 1,
+      "companyIsDebugging": 0
+    },
+    "createdTime": "2021-11-25T10:34:36.000Z"
   }
 ]
