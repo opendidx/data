@@ -1,6 +1,6 @@
 [
   {
-    "id": "reck0o0xbg3FK5Wuq",
+    "id": "recxbGxMkZRealorh",
     "fields": {
       "title": "Senior Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/away/jobs/1826450",
@@ -34,6 +34,9 @@
       "codingSkillsRef": [
         "recVnpyDApYG4Zco0"
       ],
+      "knowledgesRef": [
+        "recCszs8Rrl8yJrzK"
+      ],
       "stacks": [
         "Heroku"
       ],
@@ -43,12 +46,15 @@
       ],
       "codingSkills": [
         "Ruby"
+      ],
+      "knowledges": [
+        "Ruby on Rails"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recfsg7s5GYLNU1l1",
+    "id": "rec2GrWAXQzWJkMk0",
     "fields": {
       "title": "Director, Solutions Architecture, APAC",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5709206002",
@@ -73,10 +79,10 @@
       "locationCountry": "Singapore",
       "locationCityWithCountry": "Singapore, Singapore"
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "rec2QuVY6uDMDl6A5",
+    "id": "reckQ2FhwWw4Eq6sF",
     "fields": {
       "title": "Director, Solutions Architecture, Commercial",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5714573002",
@@ -101,10 +107,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "New York, United States"
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recWmp4ovHq7sJaeY",
+    "id": "recyIe2rn8ZeKLIDy",
     "fields": {
       "title": "Director, Solutions Architecture, EMEA",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5709197002",
@@ -129,10 +135,10 @@
       "locationCountry": "United Kingdom",
       "locationCityWithCountry": "London, United Kingdom"
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recyjTT25cwwoZXI0",
+    "id": "rechMMAmUeFhZ2ye2",
     "fields": {
       "title": "Senior Engineer, DevOps ",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/4659641002",
@@ -205,10 +211,10 @@
         "PostgreSQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "reciPl7c8A1lxzrbs",
+    "id": "reckXpgiFtqRvIDe8",
     "fields": {
       "title": "Senior Solutions Architect ",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/4448335002",
@@ -249,10 +255,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "rec2OBlu0ZaN6JUxP",
+    "id": "recnb0TZPhNjnXS0i",
     "fields": {
       "title": "Senior Solutions Architect, AUS",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667359002",
@@ -293,10 +299,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recwY7JGQiZXun3bm",
+    "id": "rec9JMcCAx4qzV7eg",
     "fields": {
       "title": "Senior Solutions Architect, DACH",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5170583002",
@@ -337,10 +343,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recsJH6AIOvLDaVGY",
+    "id": "rec7iIeM8uGrirsoS",
     "fields": {
       "title": "Senior Solutions Architect, Netherlands",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667329002",
@@ -381,10 +387,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recTCfYJDBnjNGV6m",
+    "id": "recLqHT2vJZGNBES9",
     "fields": {
       "title": "Senior Solutions Architect, SEMEA",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667344002",
@@ -425,10 +431,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:09.000Z"
+    "createdTime": "2021-11-26T09:52:22.000Z"
   },
   {
-    "id": "recbMQQAug8Dxp84R",
+    "id": "rec6yBHFqHqfdo7V9",
     "fields": {
       "title": "Senior Solutions Architect, UK",
       "link": "https://boards.greenhouse.io/chainalysis/jobs/5667317002",
@@ -469,10 +475,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recRLg3AxlIlOTZZ7",
+    "id": "recDForrhn2sHxuSg",
     "fields": {
       "title": "Cloud Infrastructure Engineer, Storage",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3597435",
@@ -529,10 +535,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recLB8Ay8GjvyKhxM",
+    "id": "recQIEfU6lYRDufvf",
     "fields": {
       "title": "Director, Cloud Infrastructure Engineering",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3462396",
@@ -583,10 +589,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "rec8GG1ewNEZm1JKf",
+    "id": "reckJ9ZIp4a9THMSb",
     "fields": {
       "title": "Head of Security, Nifty Gateway",
       "link": "https://gemini.com/jobs/job_id?gh_jid=2944535",
@@ -623,10 +629,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "rec2al3WE5sjS2lDH",
+    "id": "recbXOTqdlsHLKT9x",
     "fields": {
       "title": "Principal, Technology and Security Internal Auditor",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3615908",
@@ -651,10 +657,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "New York, United States|Portland, United States|Chicago, United States|Los Angeles, United States|San Francisco, United States|Remote"
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "receOJ7Svyl6rfvcT",
+    "id": "recgfn5SFrzmW8XAB",
     "fields": {
       "title": "Senior Product Manager, Trust & Security",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3220724",
@@ -691,10 +697,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recWfVx8We1KWRmJV",
+    "id": "rech11Qjgq3E8bJb5",
     "fields": {
       "title": "Site Reliability Engineer, Embedded SRE",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3521576",
@@ -735,10 +741,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recpfNbMF50VUhGD9",
+    "id": "recqxHOa2J5aBUxmS",
     "fields": {
       "title": "Staff Cloud Security Engineer",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3607146",
@@ -789,10 +795,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recP49InHYscXKLwa",
+    "id": "recDpzgq6pQ8DKTbD",
     "fields": {
       "title": "Technical Lead, Trust & Security",
       "link": "https://gemini.com/jobs/job_id?gh_jid=3593273",
@@ -841,10 +847,10 @@
         "JVM"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recSJ5dmt9SAC0u2H",
+    "id": "recTryVF3NZELOEoj",
     "fields": {
       "title": "Software Engineer, DevOps",
       "link": "https://boards.greenhouse.io/okcoin/jobs/4715305003",
@@ -893,10 +899,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:10.000Z"
+    "createdTime": "2021-11-26T09:52:23.000Z"
   },
   {
-    "id": "recUHKagsyJbMpkPN",
+    "id": "recrAer8FTvpwQHTI",
     "fields": {
       "title": "AWS Solutions Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4563227003",
@@ -967,10 +973,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recDlkVYHKu48P7cM",
+    "id": "recB3YSrkyRYRoiPi",
     "fields": {
       "title": "Cloud Infrastructure Engineer, Infrastructure Security ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4579852003",
@@ -1047,10 +1053,10 @@
         "firewalls"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recI2jsunThZgi8bV",
+    "id": "recU7vy20MByCOBqD",
     "fields": {
       "title": "Customer Experience Security Specialist, Facilities",
       "link": "https://boards.greenhouse.io/rivian/jobs/4517920003",
@@ -1075,10 +1081,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recULaEk9aZS9t9I4",
+    "id": "reczhM8dFaf2oPgpL",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634504003",
@@ -1109,10 +1115,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recwB42dLfBqtkJCd",
+    "id": "recQ2kOxL9EGwTdbf",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634502003",
@@ -1143,10 +1149,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recEKhtdryClBaVUT",
+    "id": "rec2m9mt9pCO88PWd",
     "fields": {
       "title": "Cyber Security engineer (Operational Technologies) ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4634500003",
@@ -1177,10 +1183,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recp7dUYbMUl0OfYW",
+    "id": "recNXqP6c5CTbvVnL",
     "fields": {
       "title": "DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4764525003",
@@ -1257,10 +1263,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recRgBaJSqtwcf2JX",
+    "id": "reccOZ4KLA9YkvAO7",
     "fields": {
       "title": "Factory Software SRE",
       "link": "https://boards.greenhouse.io/rivian/jobs/4555944003",
@@ -1311,10 +1317,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recrAf6BIBh0bavZD",
+    "id": "recqriex7EzyLeLcX",
     "fields": {
       "title": "Global Security Operations Center Operator",
       "link": "https://boards.greenhouse.io/rivian/jobs/4705660003",
@@ -1339,10 +1345,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Irvine, United States"
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recqMFFSRhSw0BcSk",
+    "id": "recKzwrC9Kw3TCgEx",
     "fields": {
       "title": "Incident Response Lead, Security Operations ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4646296003",
@@ -1373,10 +1379,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:11.000Z"
+    "createdTime": "2021-11-26T09:52:24.000Z"
   },
   {
-    "id": "recuqMmasXTQ1tmkt",
+    "id": "recpwfzxZnbOLXnR6",
     "fields": {
       "title": "Infrastructure Solutions Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4540979003",
@@ -1407,10 +1413,10 @@
         "AWS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recJYXgxK5xZTTTN0",
+    "id": "recsGeFIwYwvkyCg2",
     "fields": {
       "title": "Investigator, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4738742003",
@@ -1435,10 +1441,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "rec5PSmFSYH6qA2dD",
+    "id": "recE1VqUmfkhRPdMR",
     "fields": {
       "title": "Lead Vehicle Architecture Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4664177003",
@@ -1463,10 +1469,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States|Remote"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recCNTqdAXxDpWMkv",
+    "id": "recpvVIuIJFnDvhz5",
     "fields": {
       "title": "Machine Learning Architecture Lead ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4552889003",
@@ -1491,10 +1497,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Palo Alto, United States"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recYy1kryJdDMNhTi",
+    "id": "rec6r765w7sB5ICoh",
     "fields": {
       "title": "Manager, Technical Security, Maintenance",
       "link": "https://boards.greenhouse.io/rivian/jobs/4824335003",
@@ -1519,10 +1525,10 @@
       "locationCountry": "United Kingdom",
       "locationCityWithCountry": "Plymouth, United Kingdom"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "rec2Rr1taUgkvErb3",
+    "id": "recA9Bmg5yLmbBuhp",
     "fields": {
       "title": "Manager, Technical Security, Maintenance",
       "link": "https://boards.greenhouse.io/rivian/jobs/4424732003",
@@ -1547,10 +1553,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recU3WgZKhenBwBpG",
+    "id": "recoTtvc9LRM2eufF",
     "fields": {
       "title": "Regional Loss Prevention Business Partner, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4413252003",
@@ -1575,10 +1581,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recvRYdBrJlWVADVq",
+    "id": "recsmKp4Z9V2I3cpd",
     "fields": {
       "title": "Security Communications & Content Lead",
       "link": "https://boards.greenhouse.io/rivian/jobs/4746795003",
@@ -1603,10 +1609,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recVvuiLxPv8tViLQ",
+    "id": "recUnh6arCfluGGzo",
     "fields": {
       "title": "Security Operations Center Operator",
       "link": "https://boards.greenhouse.io/rivian/jobs/4812047003",
@@ -1631,10 +1637,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recRgSTgmjhJZDJ71",
+    "id": "recVxhSE5j5ZlxPFD",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500706003",
@@ -1699,10 +1705,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:12.000Z"
+    "createdTime": "2021-11-26T09:52:25.000Z"
   },
   {
-    "id": "recEOD6bK3tfjn9Kh",
+    "id": "recupGLijH2cr0cDK",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500705003",
@@ -1767,10 +1773,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recsLrACufGI8PSfG",
+    "id": "recaGAh7W8NsjOZRQ",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4754432003",
@@ -1847,10 +1853,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recovtVXqp7SMUgmi",
+    "id": "recuLaJURbDsI0Dh4",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4705382003",
@@ -1915,10 +1921,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recO4zTYDPi2ZK2mi",
+    "id": "rec60X0GMiyNb1pLa",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4696272003",
@@ -1983,10 +1989,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recA7615VtA392Vsa",
+    "id": "recaO7pE3k3tvUW9t",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654412003",
@@ -2061,10 +2067,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recCXLA4ZBjssggtu",
+    "id": "recZgK6JYzcTHIOUY",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654403003",
@@ -2139,10 +2145,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recRFrOoXbGtiyrdO",
+    "id": "recswJQP6oXW0jJm4",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654411003",
@@ -2217,10 +2223,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "rec1f3Xp9dFpphv2l",
+    "id": "rec1sLq25Sz0UsADY",
     "fields": {
       "title": "Senior, DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654413003",
@@ -2295,10 +2301,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "rec8uVDy5O5tv1aZe",
+    "id": "recymBXpuzG6VrVJt",
     "fields": {
       "title": "Senior Embedded Software Engineer, Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4309186003",
@@ -2329,10 +2335,10 @@
         "TCP"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recRSDFnhSkiBQSC1",
+    "id": "recSZIMylgARhfHss",
     "fields": {
       "title": "Senior Infrastructure Engineer, Over-the-Air (OTA)",
       "link": "https://boards.greenhouse.io/rivian/jobs/4353774003",
@@ -2381,10 +2387,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recLCpTHtkC7H0kYz",
+    "id": "recnH4QReazLZE8hl",
     "fields": {
       "title": "Senior Software Engineer, DevOps",
       "link": "https://boards.greenhouse.io/rivian/jobs/4315284003",
@@ -2437,10 +2443,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recPgUkf1Rl2bq3TI",
+    "id": "recv4smMrB6buyR1P",
     "fields": {
       "title": "Sensor Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4522458003",
@@ -2465,10 +2471,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Palo Alto, United States"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "reca7eIQwIcFwksUQ",
+    "id": "recXXMcHHppDhZqYc",
     "fields": {
       "title": "ServiceNow Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4585428003",
@@ -2501,10 +2507,10 @@
         "SOAP"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recXmgYTIDV6vc8Ig",
+    "id": "reczz0067o8csIUuU",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399301003",
@@ -2529,10 +2535,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Irvine, United States"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recZ3TN6b8VXTd406",
+    "id": "recRhFGWoI5jjhkTa",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399325003",
@@ -2557,10 +2563,10 @@
       "locationCountry": "United Kingdom",
       "locationCityWithCountry": "Plymouth, United Kingdom"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recuSvrcrEhKosFUx",
+    "id": "recdKtMcfHK68Ud63",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399323003",
@@ -2585,10 +2591,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recA1DEkFiPlTZhCv",
+    "id": "reclE4LnQPK12uyqT",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4399322003",
@@ -2613,10 +2619,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Palo Alto, United States"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recWsbIyYX4yzW08w",
+    "id": "rec7EUF0UriRCp6xJ",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4602459003",
@@ -2641,10 +2647,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "rec0Zhi2IMk3Fdvs3",
+    "id": "recP8DWwwL15HNhFK",
     "fields": {
       "title": "Software Security Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4602460003",
@@ -2669,10 +2675,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recs8P4lDHUqD9sYB",
+    "id": "recGj8n8wQoYHwMre",
     "fields": {
       "title": "Sr. DevOps Engineer - Platform Infrastructure",
       "link": "https://boards.greenhouse.io/rivian/jobs/4597874003",
@@ -2747,10 +2753,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:13.000Z"
+    "createdTime": "2021-11-26T09:52:26.000Z"
   },
   {
-    "id": "recTWYLhMYUV9uwag",
+    "id": "recYUrW2pPFQ0S9PK",
     "fields": {
       "title": "Sr. DevOps Engineer - Platform Infrastructure",
       "link": "https://boards.greenhouse.io/rivian/jobs/4750055003",
@@ -2825,10 +2831,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "reczxoCQkhYpoK5Av",
+    "id": "recMT5jbT2M6aYgEx",
     "fields": {
       "title": "Sr. In-Vehicle HMI Architect",
       "link": "https://boards.greenhouse.io/rivian/jobs/4298780003",
@@ -2853,10 +2859,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Palo Alto, United States"
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recybGa8arM80hiek",
+    "id": "recRDgFqyzCnV6zaA",
     "fields": {
       "title": "Sr. Software Engineer (Front End, Back End, DevOps) - MES",
       "link": "https://boards.greenhouse.io/rivian/jobs/4381521003",
@@ -2881,7 +2887,8 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Palo Alto, United States",
       "knowledgesRef": [
-        "recy17EXem6OaFZy5"
+        "recy17EXem6OaFZy5",
+        "recwI1APESNFEUAnM"
       ],
       "stacksRef": [
         "recblhgQwpdRcyJMd"
@@ -2896,13 +2903,14 @@
         "Python"
       ],
       "knowledges": [
-        "API"
+        "API",
+        "React"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recpjMXQ26WAdeSxh",
+    "id": "recVt3nMTGzetNAhQ",
     "fields": {
       "title": "Staff AWS DevOps HPS Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4744094003",
@@ -2967,10 +2975,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "rec3FCaLeZZXe2klR",
+    "id": "recvUAH1iwXLWsMIq",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4696265003",
@@ -3051,10 +3059,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recnIbP3oi5Rsn0Jn",
+    "id": "recABCUxzZs49eNSG",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4384601003",
@@ -3131,10 +3139,10 @@
         "Redshift"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "rec3Y5oc4TYawPh7V",
+    "id": "recAPWyRMmZdrPJDT",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500715003",
@@ -3215,10 +3223,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recvK4cW7TtN5FDNS",
+    "id": "recIOFSY5Rv45zSbq",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4500714003",
@@ -3299,10 +3307,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recV0AcJANdsidR0f",
+    "id": "recEJ42GdXPik1CvZ",
     "fields": {
       "title": "Staff PKI Engineer, Infrastructure Security ",
       "link": "https://boards.greenhouse.io/rivian/jobs/4654457003",
@@ -3343,10 +3351,10 @@
         "firewalls"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recLHMVX5GOUn1yIQ",
+    "id": "reckjBkMPtR7OwgVx",
     "fields": {
       "title": "Staff Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/rivian/jobs/4311521003",
@@ -3403,10 +3411,10 @@
         "Graphite"
       ]
     },
-    "createdTime": "2021-11-26T09:35:14.000Z"
+    "createdTime": "2021-11-26T09:52:27.000Z"
   },
   {
-    "id": "recoMbNeLqzAZEnLF",
+    "id": "reccNcLt47wbIXthA",
     "fields": {
       "title": " Supervisor, Security Operations Center",
       "link": "https://boards.greenhouse.io/rivian/jobs/4625444003",
@@ -3431,10 +3439,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recIXRhVEoO4IYJJk",
+    "id": "rec0bp75BS5sxsM06",
     "fields": {
       "title": "Team Lead, Site Security",
       "link": "https://boards.greenhouse.io/rivian/jobs/4504900003",
@@ -3459,10 +3467,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "rechZZvTv1Q1qDPLz",
+    "id": "reccH6jukJJcXHtRI",
     "fields": {
       "title": "Technical Security Project Manager",
       "link": "https://boards.greenhouse.io/rivian/jobs/4730217003",
@@ -3487,10 +3495,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recL4NnTlAuWkR8VV",
+    "id": "recd4luxNtJjHU3JN",
     "fields": {
       "title": "Technical Security Project Manager",
       "link": "https://boards.greenhouse.io/rivian/jobs/4420998003",
@@ -3515,10 +3523,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "Palo Alto, United States"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "rec57Lb7W3dbOMMwZ",
+    "id": "recsB8dPcselct0bz",
     "fields": {
       "title": "Technical Security Project Manager",
       "link": "https://boards.greenhouse.io/rivian/jobs/4758474003",
@@ -3543,10 +3551,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "United States, United States"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recYAzjemN9d7jiAR",
+    "id": "recY15oczFf42u4bE",
     "fields": {
       "title": "Manager, DevOps",
       "link": "https://boards.greenhouse.io/turo/jobs/3333544",
@@ -3571,10 +3579,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "San Francisco, United States"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recOLRPgx4q1sS5Na",
+    "id": "recCxeCdCe4sAnyLZ",
     "fields": {
       "title": "Manager, DevOps",
       "link": "https://boards.greenhouse.io/turo/jobs/3659469",
@@ -3599,10 +3607,10 @@
       "locationCountry": "Canada",
       "locationCityWithCountry": "Toronto, Canada"
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recqpYx4YTy1FAk7n",
+    "id": "recsVyI9YANLVCSsw",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3659482",
@@ -3647,10 +3655,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recoiyrHiiCqhjQmA",
+    "id": "rec11HSIWD7h5Odq0",
     "fields": {
       "title": "Senior DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3597815",
@@ -3695,10 +3703,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "rec6YQs8eNkBJriTC",
+    "id": "recCMdi4GViqDvPuF",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3581036",
@@ -3747,10 +3755,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-26T09:35:15.000Z"
+    "createdTime": "2021-11-26T09:52:28.000Z"
   },
   {
-    "id": "recrimjPUSJYhJjg7",
+    "id": "recJiwm3nVuSWKSxO",
     "fields": {
       "title": "Staff DevOps Engineer",
       "link": "https://boards.greenhouse.io/turo/jobs/3659494",
@@ -3799,10 +3807,10 @@
         "Ruby"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recPewAunxgRVlSMv",
+    "id": "recd02ZwB5Sl2SMnY",
     "fields": {
       "title": "Engineering Manager, SRE ",
       "link": "https://boards.greenhouse.io/doordash/jobs/3582236?gh_jid=3582236",
@@ -3833,10 +3841,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recTTzKbWvC1X4VeS",
+    "id": "rec4qsseDOITRz4TL",
     "fields": {
       "title": "Manager, Security Services",
       "link": "https://boards.greenhouse.io/doordash/jobs/3316768?gh_jid=3316768",
@@ -3861,10 +3869,10 @@
       "locationCountry": "Mexico",
       "locationCityWithCountry": "Mexico City, Mexico"
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recFdrTu1t8n75dul",
+    "id": "rectKINB2eRCxWPOg",
     "fields": {
       "title": "Security Engineer, Detection and Response",
       "link": "https://boards.greenhouse.io/doordash/jobs/2525390?gh_jid=2525390",
@@ -3913,10 +3921,10 @@
         "firewalls"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recUvUhlvo9xwKriX",
+    "id": "recBUBUYDvw0x5NNT",
     "fields": {
       "title": "Security Engineer, Incident Response ",
       "link": "https://boards.greenhouse.io/doordash/jobs/3346406?gh_jid=3346406",
@@ -3959,10 +3967,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recniIPgMrLQrUT37",
+    "id": "recNvUDgaCocBO8Tj",
     "fields": {
       "title": "Security Engineer, Infrastructure ",
       "link": "https://boards.greenhouse.io/doordash/jobs/3318847?gh_jid=3318847",
@@ -4009,10 +4017,10 @@
         "IAM"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recc4lJUHuXsi1GRg",
+    "id": "recw5xAwP25A0ZAsf",
     "fields": {
       "title": "Security Engineer, Threat and Vulnerability Management",
       "link": "https://boards.greenhouse.io/doordash/jobs/3346950?gh_jid=3346950",
@@ -4047,10 +4055,10 @@
         "GCP"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "rec8Pbaaoa5Jycjob",
+    "id": "recOzyhBlz15EatU5",
     "fields": {
       "title": "Software Engineer, Site Reliability (SRE)",
       "link": "https://boards.greenhouse.io/doordash/jobs/37470?gh_jid=37470",
@@ -4081,10 +4089,10 @@
         "NoSQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recZN985jaCz0D5jh",
+    "id": "reclM6R5X0djKlMYS",
     "fields": {
       "title": "Security Engineer, Detection & Incident Response",
       "link": "https://boards.greenhouse.io/10xgenomics/jobs/3299298?gh_jid=3299298",
@@ -4121,10 +4129,10 @@
         "Python"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recr4U0dNrGkeNGHw",
+    "id": "recVbDoh4CGaIYay1",
     "fields": {
       "title": "Senior Site Reliability Engineer",
       "link": "https://boards.greenhouse.io/10xgenomics/jobs/3328631?gh_jid=3328631",
@@ -4189,10 +4197,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "rec9m2VtbQwd4ra8k",
+    "id": "recq2eeUF88PnIn7e",
     "fields": {
       "title": "Sr. Offensive Security Engineer",
       "link": "https://www.23andme.com/careers/5652780002/?gh_jid=5652780002",
@@ -4229,10 +4237,10 @@
         "API"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recLsGkwtNJKfhrir",
+    "id": "recOnr4A8lZYlXvcG",
     "fields": {
       "title": "Associate Solutions Architect (Central) ",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3567997",
@@ -4281,10 +4289,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recGWh2a825aeSCZl",
+    "id": "recM9P4h3pOo9Va3x",
     "fields": {
       "title": "Associate Solutions Architect (Central) ",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3209556",
@@ -4333,10 +4341,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recVGTIaakTi9u0Sn",
+    "id": "recMNKYfYbnNlerps",
     "fields": {
       "title": "Associate Solutions Architect (East)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3567964",
@@ -4385,10 +4393,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recUWN4zzEVCylyZt",
+    "id": "recWUqQscTI8LESHX",
     "fields": {
       "title": "Corporate Solutions Architect (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3681896",
@@ -4437,10 +4445,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recR6BQUsn5k9d5hZ",
+    "id": "recDx9EzoWwnGsqps",
     "fields": {
       "title": "Manager, Solutions Architecture (Pre Sales)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3676693",
@@ -4465,10 +4473,10 @@
       "locationCountry": "United States",
       "locationCityWithCountry": "New York, United States|Washington, United States"
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "rec0ifJ2psy9W8ZT1",
+    "id": "recnVRkJdZoL6KBZi",
     "fields": {
       "title": "Partner Pre-Sales Senior Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3630396",
@@ -4517,10 +4525,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recPBsqZOIkJcuZqE",
+    "id": "recisikkQeewGq1W5",
     "fields": {
       "title": "Partner, Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3629590",
@@ -4569,10 +4577,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "recruGPw56qEayIbl",
+    "id": "recTe5BlOwqfg6BA3",
     "fields": {
       "title": "Pre-Sales Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3346195",
@@ -4621,10 +4629,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "rec4L4oii9iZP6Kzn",
+    "id": "rec6IfQZBvlm5ztak",
     "fields": {
       "title": "Product Security Engineer",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3568430",
@@ -4683,10 +4691,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:16.000Z"
+    "createdTime": "2021-11-26T09:52:29.000Z"
   },
   {
-    "id": "rec25w2wG1nNzCzgl",
+    "id": "recsd26s0GmroZOux",
     "fields": {
       "title": "Security Engineer, Atlas Detection/Response",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3232488",
@@ -4733,10 +4741,10 @@
         "Docker"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "recI1VFC1CNvszFh5",
+    "id": "rechEEDdtqr0hA5qG",
     "fields": {
       "title": "Senior Pre-Sales Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3642266",
@@ -4793,10 +4801,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "recH5xPKyZw4Ad7Ay",
+    "id": "rechZ8wE6DON8VeyB",
     "fields": {
       "title": "Senior Pre-Sales Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3435740",
@@ -4845,10 +4853,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "rec65hPOMdN7HiO1a",
+    "id": "recrFVjY4X5GGstgj",
     "fields": {
       "title": "Senior Pre-Sales Solutions Architect (Chicago)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3456923",
@@ -4897,10 +4905,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "rec5LRWTyq5ovk9J4",
+    "id": "recNRVqcoR8UDjBJH",
     "fields": {
       "title": "Senior Pre-Sales Solutions Architect (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=2344136",
@@ -4925,10 +4933,10 @@
       "locationCountry": "United Kingdom",
       "locationCityWithCountry": "London, United Kingdom"
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "rechffuxcBNGYrMjr",
+    "id": "recxAt7YbdOHUtBi6",
     "fields": {
       "title": "Senior Pre-Sales Solutions Architect (New York City)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3297910",
@@ -4977,10 +4985,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "recwtGAfRyEpxGt31",
+    "id": "rec2rpmAhODMBYyeN",
     "fields": {
       "title": "Senior Pre-Sales Solutions Architect (Paris)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3138211",
@@ -5029,10 +5037,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "recG10SMFrjGPrM92",
+    "id": "recCgPrBue4TEStob",
     "fields": {
       "title": "Senior Product Security Advisor, Cloud Services",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3472073",
@@ -5056,6 +5064,11 @@
       "locationCity": "North America|Remote",
       "locationCountry": "null",
       "locationCityWithCountry": "North America, null|Remote",
+      "knowledgesRef": [
+        "recnwGj9xHLtl1nAA",
+        "recwI1APESNFEUAnM",
+        "recXcCx7pXqaZks31"
+      ],
       "platformsRef": [
         "rec7Db0hZq5xvZVGN",
         "recpbDwoHPkCQue3G",
@@ -5071,12 +5084,17 @@
       ],
       "codingSkills": [
         "Java"
+      ],
+      "knowledges": [
+        "Angular",
+        "React",
+        "Spring"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "recDgbIuTJEBRDfnq",
+    "id": "recVm3p6bBf3EhXrR",
     "fields": {
       "title": "Senior Security Analyst",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3508579",
@@ -5111,10 +5129,10 @@
         "GCP"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "recCorlB36xCgKrP2",
+    "id": "recs74MTJzoqf50p4",
     "fields": {
       "title": "Senior Site Reliability Engineer",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3403874",
@@ -5151,10 +5169,10 @@
         "DNS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:17.000Z"
+    "createdTime": "2021-11-26T09:52:30.000Z"
   },
   {
-    "id": "reccuztlg8bRTyIxt",
+    "id": "recWJ17m8icunUljm",
     "fields": {
       "title": "Senior Site Reliability Engineer ",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=2405095",
@@ -5211,10 +5229,10 @@
         "DNS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "rec0La5SAcQPHwHmI",
+    "id": "recDVzE9yrPP0GxQp",
     "fields": {
       "title": "Senior Site Reliability Engineer (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3676014",
@@ -5271,10 +5289,10 @@
         "DNS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "recfKuxymGBx5kRH3",
+    "id": "rec14QcwbJR6iOZlA",
     "fields": {
       "title": "Senior Site Reliability Engineer (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3676027",
@@ -5331,10 +5349,10 @@
         "DNS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "recDwcQI1WauJqCPX",
+    "id": "recsIsPV6K66YUiOT",
     "fields": {
       "title": "Senior Site Reliability Engineer (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3676016",
@@ -5391,10 +5409,10 @@
         "DNS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "rec0TFh9ZlGABIbae",
+    "id": "recc7n47UjgYAfh3p",
     "fields": {
       "title": "Senior Site Reliability Engineer (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3676020",
@@ -5451,10 +5469,10 @@
         "DNS"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "rec4mC7gmagTVQtB8",
+    "id": "recpIQzEzZiewbJPy",
     "fields": {
       "title": "Senior Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3660550",
@@ -5503,10 +5521,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "recP4xR595g2diCwF",
+    "id": "recmUW8dOFNMhRW4m",
     "fields": {
       "title": "Senior Solutions Architect ",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3345518",
@@ -5555,10 +5573,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "recvITur4baIozrbS",
+    "id": "rechv2RUKordSKu8y",
     "fields": {
       "title": "Senior Solutions Architect ",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3345467",
@@ -5607,10 +5625,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "rec2Bv3SzWg9hg6zQ",
+    "id": "recQ7W10pPJb01Yir",
     "fields": {
       "title": "Senior Solutions Architect (Austin)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3673833",
@@ -5659,10 +5677,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "rec0NHpMjuzPUpAIX",
+    "id": "recGjZxkIQFgggdqy",
     "fields": {
       "title": "Senior Solutions Architect (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3689012",
@@ -5711,10 +5729,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:18.000Z"
+    "createdTime": "2021-11-26T09:52:31.000Z"
   },
   {
-    "id": "recNDmsBNU59oOgKQ",
+    "id": "rec3UfW5idiuZmSZi",
     "fields": {
       "title": "Senior Solutions Architect (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3689035",
@@ -5763,10 +5781,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "recGwj7UgdXfbnvb4",
+    "id": "recCRAV5xVZMg8PaK",
     "fields": {
       "title": "Senior Solutions Architect (EMEA)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3688994",
@@ -5815,10 +5833,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "recwohYx9T9LGPLTB",
+    "id": "recpW80KBnpjPLGbM",
     "fields": {
       "title": "Senior Solutions Architect (Mexico City) ",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3673961",
@@ -5867,10 +5885,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "recka5VIDfbM9nFGP",
+    "id": "recjDBLob9ZuSgcdm",
     "fields": {
       "title": "Senior Solutions Architect (Public Sector)",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3138576",
@@ -5919,10 +5937,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "recnEM7EN8qgTznwc",
+    "id": "recmpOqYr14XfiAAR",
     "fields": {
       "title": "Service Centre Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3545456",
@@ -5971,10 +5989,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "reclxeazg2QhjuMG4",
+    "id": "recVetSJMTO9x4CpU",
     "fields": {
       "title": "Service Centre Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3545454",
@@ -6023,10 +6041,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "recTR4TYDpnEbTnw8",
+    "id": "recL7aotaU9FiLe8K",
     "fields": {
       "title": "Service Centre Solutions Architect",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3341577",
@@ -6075,10 +6093,10 @@
         "SQL"
       ]
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   },
   {
-    "id": "recsbFDJqajMNzqdM",
+    "id": "recLuGLKiN5F7XWZF",
     "fields": {
       "title": "Solution Architect Manager",
       "link": "https://www.mongodb.com/careers/job/?gh_jid=3587324",
@@ -6103,6 +6121,6 @@
       "locationCountry": "Sweden",
       "locationCityWithCountry": "Stockholm, Sweden"
     },
-    "createdTime": "2021-11-26T09:35:19.000Z"
+    "createdTime": "2021-11-26T09:52:32.000Z"
   }
 ]
