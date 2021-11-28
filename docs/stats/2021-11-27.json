@@ -8,6 +8,14 @@
       "infrastructure": 4,
       "architect": 43
     },
+    "remoteJobs": {
+      "total": 26,
+      "devops": 4,
+      "sre": 6,
+      "security": 11,
+      "infrastructure": 2,
+      "architect": 3
+    },
     "totalCompanyActiveOnThePlatform": 10,
     "librarySize": 5
   },
