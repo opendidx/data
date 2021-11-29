@@ -2,13 +2,13 @@
   {
     "id": "recgTYcwWK63gXxwW",
     "fields": {
+      "title": "A visual guide on troubleshooting Kubernetes deployments",
+      "link": "https://learnk8s.io/troubleshooting-deployments?utm_source=pocket_mylist",
+      "level": "intermediate",
+      "authorName": "Daniele Polencic",
       "topics": [
         "k8s"
       ],
-      "level": "intermediate",
-      "title": "A visual guide on troubleshooting Kubernetes deployments",
-      "link": "https://learnk8s.io/troubleshooting-deployments?utm_source=pocket_mylist",
-      "authorName": "Daniele Polencic",
       "description": "When you wish to deploy an application in Kubernetes, you usually define three components: A Deployment — which is a recipe for creating copies of your application. A Service — an internal load balancer that routes the traffic to Pods. An Ingress — a description of how the traffic should flow from outside the cluster to your Service. Here's a quick visual recap."
     },
     "createdTime": "2021-11-21T21:14:23.000Z"
@@ -16,13 +16,13 @@
   {
     "id": "recVW80HaV0gxCa81",
     "fields": {
+      "title": "Operating a Kubernetes network",
+      "link": "https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network",
+      "level": "advanced",
+      "authorName": "Julia Evans",
       "topics": [
         "k8s"
       ],
-      "level": "advanced",
-      "title": "Operating a Kubernetes network",
-      "link": "https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network",
-      "authorName": "Julia Evans",
       "description": "In this post I’m going to try to convince you of three things: (all I think pretty reasonable :)) Avoiding networking outages in production is important Operating networking software is hard It’s worth thinking critically about major changes to your networking infrastructure and the impact that will have on your reliability, even if very fancy Googlers say “this is what we do at Google”. (google engineers are doing great work on Kubernetes!! But I think it’s important to still look at the architecture and make sure it makes sense for your organization.)"
     },
     "createdTime": "2021-11-21T21:14:23.000Z"
@@ -30,13 +30,13 @@
   {
     "id": "recuvTaMpGLqm2WSL",
     "fields": {
+      "title": "Microservices, Containers and Kubernetes in 10 minutes",
+      "link": "https://goteleport.com/blog/microservices-containers-kubernetes/?fbclid=IwAR3MIeiaGa8xWAuwks-vQmxo3X9Ab1RJ9XTI6Qj9zizJZ8---bJeTlKTB94&utm_source=pocket_mylist",
+      "level": "beginner",
+      "authorName": "EV KONTSEVOY",
       "topics": [
         "k8s"
       ],
-      "level": "beginner",
-      "title": "Microservices, Containers and Kubernetes in 10 minutes",
-      "link": "https://goteleport.com/blog/microservices-containers-kubernetes/?fbclid=IwAR3MIeiaGa8xWAuwks-vQmxo3X9Ab1RJ9XTI6Qj9zizJZ8---bJeTlKTB94&utm_source=pocket_mylist",
-      "authorName": "EV KONTSEVOY",
       "description": "Should you be using microservices? How are microservices related to containers and Kubernetes? If these things keep coming up in your day-to-day and you need an overview in 10 minutes, this blog post is for you."
     },
     "createdTime": "2021-11-21T21:14:23.000Z"
@@ -44,13 +44,13 @@
   {
     "id": "rec8iCtEv5jKz2rGl",
     "fields": {
+      "title": "What is GitOps?",
+      "link": "https://www.cloudbees.com/gitops/what-is-gitops",
+      "level": "beginner",
+      "authorName": "CloudBees",
       "topics": [
         "gitOps"
       ],
-      "level": "beginner",
-      "title": "What is GitOps?",
-      "link": "https://www.cloudbees.com/gitops/what-is-gitops",
-      "authorName": "CloudBees",
       "description": "GitOps is a paradigm or a set of practices that empowers developers to perform tasks which typically fall under the purview of IT operations. GitOps requires us to describe and observe systems with declarative specifications that eventually form the basis of continuous everything. (As a refresher, continuous everything includes but is not limited to continuous integration (CI), testing, delivery, deployment, analytics, governance with many more to come)."
     },
     "createdTime": "2021-11-21T21:57:52.000Z"
@@ -58,13 +58,13 @@
   {
     "id": "recuZDXraiUWqWyqc",
     "fields": {
+      "title": "Guide To GitOps",
+      "link": "https://www.weave.works/technologies/gitops/",
+      "level": "epic",
+      "authorName": "weaveworks",
       "topics": [
         "gitOps"
       ],
-      "level": "epic",
-      "title": "Guide To GitOps",
-      "link": "https://www.weave.works/technologies/gitops/",
-      "authorName": "weaveworks",
       "description": "GitOps can be summarized as these two things: An operating model for Kubernetes and other cloud native technologies, providing a set of best practices that unify Git deployment, management and monitoring for containerized clusters and applications. A path towards a developer experience for managing applications; where end-to-end CICD pipelines and Git workflows are applied to both operations, and development."
     },
     "createdTime": "2021-11-21T21:58:41.000Z"

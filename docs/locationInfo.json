@@ -143,6 +143,15 @@
     "locationTimezoneOffetSec": -21600,
     "locationTimezoneOffsetString": "-06:00"
   },
+  "Chicago, Illinois, United States": {
+    "locationLatitude": 41.87897,
+    "locationLongitude": -87.66063,
+    "locationCity": "Chicago",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Chicago",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
+  },
   "Los Angeles, California": {
     "locationLatitude": 34.05513,
     "locationLongitude": -118.25703,
@@ -180,13 +189,13 @@
     "locationTimezoneOffsetString": "-08:00"
   },
   "United States, Illinois, Normal": {
-    "locationLatitude": 39.715956,
-    "locationLongitude": -96.999668,
-    "locationCity": "United States",
+    "locationLatitude": 41.87897,
+    "locationLongitude": -87.66063,
+    "locationCity": "Chicago",
     "locationCountry": "United States",
-    "locationTimezoneName": "America/Denver",
-    "locationTimezoneOffetSec": -25200,
-    "locationTimezoneOffsetString": "-07:00"
+    "locationTimezoneName": "America/Chicago",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
   },
   "United States, Michigan, Plymouth": {
     "locationLatitude": 50.393988,
@@ -665,14 +674,6 @@
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
-  "Palo Alto, CA, Detroit, MI, and Pittsburgh, PA": {
-    "locationLatitude": 8.798114,
-    "locationLongitude": -82.427849,
-    "locationCountry": "Panama",
-    "locationTimezoneName": "America/Panama",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "Dearborn, MI": {
     "locationLatitude": 42.305765,
     "locationLongitude": -83.226264,
@@ -682,35 +683,10 @@
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
-  "Pittsburgh, PA and Metro Detroit, MI and Palo Alto, CA and Cranbury, NJ": {
-    "locationLatitude": 42.483493,
-    "locationLongitude": -83.12581,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Detroit",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "Pittsburgh, PA": {
     "locationLatitude": 40.450509,
     "locationLongitude": -79.936305,
     "locationCity": "Pittsburgh",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Detroit",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "Pittsburgh, PA; Cranbury, NJ": {
-    "locationLatitude": 40.450509,
-    "locationLongitude": -79.936305,
-    "locationCity": "Pittsburgh",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Detroit",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "Pittsburgh, PA and Metro Detroit, MI and Palo Alto, CA and Austin, TX": {
-    "locationLatitude": 42.483493,
-    "locationLongitude": -83.12581,
     "locationCountry": "United States",
     "locationTimezoneName": "America/Detroit",
     "locationTimezoneOffetSec": -18000,
@@ -734,15 +710,6 @@
     "locationTimezoneOffetSec": 3600,
     "locationTimezoneOffsetString": "+01:00"
   },
-  "Pittsburgh, PA and Palo Alto, CA": {
-    "locationLatitude": 37.431169,
-    "locationLongitude": -122.127302,
-    "locationCity": "Palo Alto",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Los_Angeles",
-    "locationTimezoneOffetSec": -28800,
-    "locationTimezoneOffsetString": "-08:00"
-  },
   "Metro Detroit, MI": {
     "locationLatitude": 42.572926,
     "locationLongitude": -82.796632,
@@ -750,40 +717,6 @@
     "locationTimezoneName": "America/Detroit",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
-  },
-  "Pittsburgh, PA, Metro Detroit, MI and Palo Alto, CA": {
-    "locationLatitude": 42.572926,
-    "locationLongitude": -82.796632,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Detroit",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "Pittsburgh, PA and Palo Alto, CA and": {
-    "locationLatitude": 37.431169,
-    "locationLongitude": -122.127302,
-    "locationCity": "Palo Alto",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Los_Angeles",
-    "locationTimezoneOffetSec": -28800,
-    "locationTimezoneOffsetString": "-08:00"
-  },
-  "Pittsburgh, PA or Palo Alto, CA or": {
-    "locationLatitude": 8.80202,
-    "locationLongitude": -82.425267,
-    "locationCountry": "Panama",
-    "locationTimezoneName": "America/Panama",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "Irving, Texas, United States, Newark, New Jersey, United States, Newnan, Georgia, United States": {
-    "locationLatitude": 32.81402,
-    "locationLongitude": -96.94889,
-    "locationCity": "Irving",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Denver",
-    "locationTimezoneOffetSec": -25200,
-    "locationTimezoneOffsetString": "-07:00"
   },
   "- US": {
     "locationLatitude": 39.715956,
@@ -910,15 +843,6 @@
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
-  "and Pittsburgh": {
-    "locationLatitude": 40.450509,
-    "locationLongitude": -79.936305,
-    "locationCity": "Pittsburgh",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Detroit",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "PA": {
     "locationLatitude": 40.860198,
     "locationLongitude": -77.838617,
@@ -945,58 +869,6 @@
     "locationTimezoneName": "America/Detroit",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
-  },
-  "PA and Metro Detroit": {
-    "locationLatitude": 41.222489,
-    "locationLongitude": -95.837824,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Chicago",
-    "locationTimezoneOffetSec": -21600,
-    "locationTimezoneOffsetString": "-06:00"
-  },
-  "MI and Palo Alto": {
-    "locationLatitude": 8.80202,
-    "locationLongitude": -82.425267,
-    "locationCountry": "Panama",
-    "locationTimezoneName": "America/Panama",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "CA and Cranbury": {
-    "locationLatitude": 9.17694,
-    "locationLongitude": 105.15,
-    "locationCity": "Cà Mau",
-    "locationCountry": "Vietnam",
-    "locationTimezoneName": "Asia/Ho_Chi_Minh",
-    "locationTimezoneOffetSec": 25200,
-    "locationTimezoneOffsetString": "+07:00"
-  },
-  "NJ": {
-    "locationLatitude": 39.66502,
-    "locationLongitude": -74.738208,
-    "locationCity": "New Jersey",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/New_York",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "PA; Cranbury": {
-    "locationLatitude": 22.34023,
-    "locationLongitude": 103.84415,
-    "locationCity": "Sa Pa",
-    "locationCountry": "Vietnam",
-    "locationTimezoneName": "Asia/Ho_Chi_Minh",
-    "locationTimezoneOffetSec": 25200,
-    "locationTimezoneOffsetString": "+07:00"
-  },
-  "CA and Austin": {
-    "locationLatitude": 9.166537,
-    "locationLongitude": 105.181763,
-    "locationCity": "Ca Mau",
-    "locationCountry": "Vietnam",
-    "locationTimezoneName": "Asia/Ho_Chi_Minh",
-    "locationTimezoneOffetSec": 25200,
-    "locationTimezoneOffsetString": "+07:00"
   },
   "TX": {
     "locationLatitude": 31.030974,
@@ -1034,15 +906,6 @@
     "locationTimezoneOffetSec": 3600,
     "locationTimezoneOffsetString": "+01:00"
   },
-  "PA and Palo Alto": {
-    "locationLatitude": 37.431169,
-    "locationLongitude": -122.127302,
-    "locationCity": "Palo Alto",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Los_Angeles",
-    "locationTimezoneOffetSec": -28800,
-    "locationTimezoneOffsetString": "-08:00"
-  },
   "Metro Detroit": {
     "locationLatitude": 41.222489,
     "locationLongitude": -95.837824,
@@ -1050,32 +913,6 @@
     "locationTimezoneName": "America/Chicago",
     "locationTimezoneOffetSec": -21600,
     "locationTimezoneOffsetString": "-06:00"
-  },
-  "CA and": {
-    "locationLatitude": 9.166537,
-    "locationLongitude": 105.181763,
-    "locationCity": "Ca Mau",
-    "locationCountry": "Vietnam",
-    "locationTimezoneName": "Asia/Ho_Chi_Minh",
-    "locationTimezoneOffetSec": 25200,
-    "locationTimezoneOffsetString": "+07:00"
-  },
-  "PA or Palo Alto": {
-    "locationLatitude": 8.80202,
-    "locationLongitude": -82.425267,
-    "locationCountry": "Panama",
-    "locationTimezoneName": "America/Panama",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "CA or": {
-    "locationLatitude": 9.166537,
-    "locationLongitude": 105.181763,
-    "locationCity": "Ca Mau",
-    "locationCountry": "Vietnam",
-    "locationTimezoneName": "Asia/Ho_Chi_Minh",
-    "locationTimezoneOffetSec": 25200,
-    "locationTimezoneOffsetString": "+07:00"
   },
   "San Diego, CA": {
     "locationLatitude": 32.72793,
@@ -1255,6 +1092,24 @@
     "locationTimezoneOffetSec": 3600,
     "locationTimezoneOffsetString": "+01:00"
   },
+  "North Holland": {
+    "locationLatitude": 52.37243,
+    "locationLongitude": 4.89973,
+    "locationCity": "Amsterdam",
+    "locationCountry": "Netherlands",
+    "locationTimezoneName": "Europe/Amsterdam",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Netherlands": {
+    "locationLatitude": 52.37243,
+    "locationLongitude": 4.89973,
+    "locationCity": "Amsterdam",
+    "locationCountry": "Netherlands",
+    "locationTimezoneName": "Europe/Amsterdam",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
   "india": {
     "locationLatitude": 22.364293,
     "locationLongitude": 79.029432,
@@ -1273,6 +1128,24 @@
     "locationTimezoneOffetSec": 32400,
     "locationTimezoneOffsetString": "+09:00"
   },
+  "Korea": {
+    "locationLatitude": 37.539619,
+    "locationLongitude": 127.009676,
+    "locationCity": "Seoul",
+    "locationCountry": "South Korea",
+    "locationTimezoneName": "Asia/Seoul",
+    "locationTimezoneOffetSec": 32400,
+    "locationTimezoneOffsetString": "+09:00"
+  },
+  "Seoul": {
+    "locationLatitude": 37.539619,
+    "locationLongitude": 127.009676,
+    "locationCity": "Seoul",
+    "locationCountry": "South Korea",
+    "locationTimezoneName": "Asia/Seoul",
+    "locationTimezoneOffetSec": 32400,
+    "locationTimezoneOffsetString": "+09:00"
+  },
   "Los Angeles: Playa Vista, CA": {
     "locationLatitude": 36.531544,
     "locationLongitude": -119.586168,
@@ -1282,6 +1155,16 @@
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
   },
+  "Los Angeles: Playa Vista": {
+    "locationLatitude": 36.531544,
+    "locationLongitude": -119.586168,
+    "locationCity": "California",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Central": {},
   "Singapore, Central, Singapore": {
     "locationLatitude": 1.316382,
     "locationLongitude": 103.833828,
@@ -1380,15 +1263,6 @@
     "locationTimezoneName": "Africa/Johannesburg",
     "locationTimezoneOffetSec": 7200,
     "locationTimezoneOffsetString": "+02:00"
-  },
-  "Portland, OR / Boise, ID / Austin, TX": {
-    "locationLatitude": 30.222346,
-    "locationLongitude": -97.836521,
-    "locationCity": "Austin",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Denver",
-    "locationTimezoneOffetSec": -25200,
-    "locationTimezoneOffsetString": "-07:00"
   },
   "Santiago, Chile": {
     "locationLatitude": -33.428532,
@@ -1655,6 +1529,195 @@
     "locationLatitude": 33.374274,
     "locationLongitude": -84.799547,
     "locationCity": "Newnan",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "New Yk": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Düsseldf": {
+    "locationLatitude": 50.041821,
+    "locationLongitude": 8.584764,
+    "locationCity": "Düsseldorf",
+    "locationCountry": "Germany",
+    "locationTimezoneName": "Europe/Busingen",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Singape, Singape": {
+    "locationLatitude": 1.316382,
+    "locationLongitude": 103.833828,
+    "locationCity": "Singapore",
+    "locationCountry": "Singapore",
+    "locationTimezoneName": "Asia/Singapore",
+    "locationTimezoneOffetSec": 28800,
+    "locationTimezoneOffsetString": "+08:00"
+  },
+  "New Yk City, New Yk": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "London, Engl": {
+    "locationLatitude": 51.509648,
+    "locationLongitude": -0.099076,
+    "locationCity": "London",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "New Yk City, NY": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Amsterdam, Netherls": {
+    "locationLatitude": 52.37243,
+    "locationLongitude": 4.89973,
+    "locationCity": "Amsterdam",
+    "locationCountry": "Netherlands",
+    "locationTimezoneName": "Europe/Amsterdam",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "New Yk, New Yk": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Ptl, Oregon": {
+    "locationLatitude": 43.854178,
+    "locationLongitude": -120.526709,
+    "locationCity": "Oregon",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Los Angeles, Califnia": {
+    "locationLatitude": 34.05513,
+    "locationLongitude": -118.25703,
+    "locationCity": "Los Angeles",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "San Francisco, Califnia": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "United States, Califnia, Irvine": {
+    "locationLatitude": 33.672421,
+    "locationLongitude": -117.764394,
+    "locationCity": "Irvine",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "United States, Califnia, Palo Alto": {
+    "locationLatitude": 37.431169,
+    "locationLongitude": -122.127302,
+    "locationCity": "Palo Alto",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "United States, Illinois, Nmal": {
+    "locationLatitude": 41.87897,
+    "locationLongitude": -87.66063,
+    "locationCity": "Chicago",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Chicago",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
+  },
+  "United States, Califnia, Los Angeles": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Tonto, Ontario, Canada": {
+    "locationLatitude": 51.451405,
+    "locationLongitude": -85.835963,
+    "locationCity": "Ontario",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Nipigon",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Pleasanton, Califnia, USA HQ": {
+    "locationLatitude": 37.669437,
+    "locationLongitude": -121.885889,
+    "locationCity": "Pleasanton",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "New Yk City": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Nth America": {
+    "locationLatitude": 38.309137,
+    "locationLongitude": -101.328273,
+    "locationCity": "North America",
+    "locationCountry": null,
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "New Yk -": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  ", Newnan, Gegia": {
+    "locationLatitude": 33.358291,
+    "locationLongitude": -84.791016,
+    "locationCity": "East Newnan",
     "locationCountry": "United States",
     "locationTimezoneName": "America/Kentucky/Monticello",
     "locationTimezoneOffetSec": -18000,
