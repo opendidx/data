@@ -2374,5 +2374,253 @@
     "locationTimezoneName": "Europe/Kiev",
     "locationTimezoneOffetSec": 7200,
     "locationTimezoneOffsetString": "+02:00"
+  },
+  "Austin, Texas": {
+    "locationLatitude": 30.222346,
+    "locationLongitude": -97.836521,
+    "locationCity": "Austin",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Costa Mesa, CA": {
+    "locationLatitude": 33.665019,
+    "locationLongitude": -117.920311,
+    "locationCity": "Costa Mesa",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Costa Mesa": {
+    "locationLatitude": 33.665019,
+    "locationLongitude": -117.920311,
+    "locationCity": "Costa Mesa",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Irvine, CA": {
+    "locationLatitude": 33.672421,
+    "locationLongitude": -117.764394,
+    "locationCity": "Irvine",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "New Yk, NY ": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Bar Lev, Ahihud, Israel ": {
+    "locationLatitude": 32.90855,
+    "locationLongitude": 35.18667,
+    "locationCountry": "Israel",
+    "locationTimezoneName": "Asia/Jerusalem",
+    "locationTimezoneOffetSec": 7200,
+    "locationTimezoneOffsetString": "+02:00"
+  },
+  "Charlottesville, VA; Columbus, OH; Durham, NC; US": {
+    "locationLatitude": 38.036141,
+    "locationLongitude": -78.482369,
+    "locationCity": "Charlottesville",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Gurgaon": {
+    "locationLatitude": 28.459647,
+    "locationLongitude": 77.061922,
+    "locationCity": "Gurugram",
+    "locationCountry": "India",
+    "locationTimezoneName": "Asia/Kolkata",
+    "locationTimezoneOffetSec": 19800,
+    "locationTimezoneOffsetString": "+05:30"
+  },
+  "Montreal": {
+    "locationLatitude": 45.572744,
+    "locationLongitude": -73.586295,
+    "locationCity": "Montreal",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US": {
+    "locationLatitude": 8.80202,
+    "locationLongitude": -82.425267,
+    "locationCountry": "Panama",
+    "locationTimezoneName": "America/Panama",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "San Francisco, CA, US; Seattle, WA, US;": {
+    "locationLatitude": 13.41667,
+    "locationLongitude": -88.56667,
+    "locationCity": "San Francisco Javier",
+    "locationCountry": "El Salvador",
+    "locationTimezoneName": "America/El_Salvador",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
+  },
+  "Dublin, IE": {
+    "locationLatitude": 53.33928,
+    "locationLongitude": -6.281314,
+    "locationCity": "Dublin",
+    "locationCountry": "Ireland",
+    "locationTimezoneName": "Europe/Dublin",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "San Francisco, CA, US": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "San Francisco, CA; Palo Alto, CA": {
+    "locationLatitude": 8.80202,
+    "locationLongitude": -82.425267,
+    "locationCountry": "Panama",
+    "locationTimezoneName": "America/Panama",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "San Francisco, CA, US;": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Los Angeles, New Yk,  Minneapolis": {
+    "locationLatitude": 33.941438,
+    "locationLongitude": -118.410325,
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  " Ontario": {
+    "locationLatitude": 51.451405,
+    "locationLongitude": -85.835963,
+    "locationCity": "Ontario",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Nipigon",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  " United States": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Seattle, WA, United States": {
+    "locationLatitude": 47.673455,
+    "locationLongitude": -122.331537,
+    "locationCity": "Seattle",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Tonto, ON, Canada": {
+    "locationLatitude": 51.451405,
+    "locationLongitude": -85.835963,
+    "locationCity": "Ontario",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Nipigon",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Charlottesville, VA": {
+    "locationLatitude": 38.036141,
+    "locationLongitude": -78.482369,
+    "locationCity": "Charlottesville",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Columbus, OH": {
+    "locationLatitude": 39.98072,
+    "locationLongitude": -82.985586,
+    "locationCity": "Columbus",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Vevay",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Durham, NC": {
+    "locationLatitude": 35.975835,
+    "locationLongitude": -78.915629,
+    "locationCity": "Durham",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  " US": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Palo Alto, CA, US": {
+    "locationLatitude": 37.431169,
+    "locationLongitude": -122.127302,
+    "locationCity": "Palo Alto",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Seattle, WA, US": {
+    "locationLatitude": 47.673455,
+    "locationLongitude": -122.331537,
+    "locationCity": "Seattle",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Palo Alto, CA": {
+    "locationLatitude": 37.431169,
+    "locationLongitude": -122.127302,
+    "locationCity": "Palo Alto",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Minneapolis": {
+    "locationLatitude": 44.96313,
+    "locationLongitude": -93.266563,
+    "locationCity": "Minneapolis",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Menominee",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
   }
 }
