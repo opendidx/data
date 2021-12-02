@@ -2428,15 +2428,6 @@
     "locationTimezoneOffetSec": 7200,
     "locationTimezoneOffsetString": "+02:00"
   },
-  "Charlottesville, VA; Columbus, OH; Durham, NC; US": {
-    "locationLatitude": 38.036141,
-    "locationLongitude": -78.482369,
-    "locationCity": "Charlottesville",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/New_York",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "Gurgaon": {
     "locationLatitude": 28.459647,
     "locationLongitude": 77.061922,
@@ -2454,23 +2445,6 @@
     "locationTimezoneName": "America/Toronto",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
-  },
-  "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US": {
-    "locationLatitude": 8.80202,
-    "locationLongitude": -82.425267,
-    "locationCountry": "Panama",
-    "locationTimezoneName": "America/Panama",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
-  "San Francisco, CA, US; Seattle, WA, US;": {
-    "locationLatitude": 13.41667,
-    "locationLongitude": -88.56667,
-    "locationCity": "San Francisco Javier",
-    "locationCountry": "El Salvador",
-    "locationTimezoneName": "America/El_Salvador",
-    "locationTimezoneOffetSec": -21600,
-    "locationTimezoneOffsetString": "-06:00"
   },
   "Dublin, IE": {
     "locationLatitude": 53.33928,
@@ -2490,26 +2464,10 @@
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
   },
-  "San Francisco, CA; Palo Alto, CA": {
-    "locationLatitude": 8.80202,
-    "locationLongitude": -82.425267,
-    "locationCountry": "Panama",
-    "locationTimezoneName": "America/Panama",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "San Francisco, CA, US;": {
     "locationLatitude": 37.778008,
     "locationLongitude": -122.431272,
     "locationCity": "San Francisco",
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Los_Angeles",
-    "locationTimezoneOffetSec": -28800,
-    "locationTimezoneOffsetString": "-08:00"
-  },
-  "Los Angeles, New Yk,  Minneapolis": {
-    "locationLatitude": 33.941438,
-    "locationLongitude": -118.410325,
     "locationCountry": "United States",
     "locationTimezoneName": "America/Los_Angeles",
     "locationTimezoneOffetSec": -28800,
@@ -2622,5 +2580,175 @@
     "locationTimezoneName": "America/Menominee",
     "locationTimezoneOffetSec": -21600,
     "locationTimezoneOffsetString": "-06:00"
+  },
+  "Gegia": {
+    "locationLatitude": 44.198636,
+    "locationLongitude": 7.585568,
+    "locationCountry": "Italy",
+    "locationTimezoneName": "Europe/Rome",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Tonto, ON -": {
+    "locationLatitude": 51.451405,
+    "locationLongitude": -85.835963,
+    "locationCity": "Ontario",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Nipigon",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "San Francisco, CA -": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "US": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "- United States": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Vancouver, BC, Canada": {
+    "locationLatitude": 49.2819,
+    "locationLongitude": -123.11874,
+    "locationCity": "Vancouver",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Vancouver",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Stennis Space Center, Mississippi": {
+    "locationLatitude": 30.382686,
+    "locationLongitude": -89.607925,
+    "locationCity": "Stennis Space Center",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Shanghai": {
+    "locationLatitude": 31.246027,
+    "locationLongitude": 121.483385,
+    "locationCity": "Shanghai",
+    "locationCountry": "China",
+    "locationTimezoneName": "Asia/Shanghai",
+    "locationTimezoneOffetSec": 28800,
+    "locationTimezoneOffsetString": "+08:00"
+  },
+  "Shenzhen": {
+    "locationLatitude": 22.551224,
+    "locationLongitude": 113.930539,
+    "locationCity": "Shenzhen",
+    "locationCountry": "China",
+    "locationTimezoneName": "Asia/Shanghai",
+    "locationTimezoneOffetSec": 28800,
+    "locationTimezoneOffsetString": "+08:00"
+  },
+  "Columbia, MO": {
+    "locationLatitude": 38.945483,
+    "locationLongitude": -92.32928,
+    "locationCity": "Columbia",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Vincennes",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Anywhere (UK)": {
+    "locationLatitude": 51.509648,
+    "locationLongitude": -0.099076,
+    "locationCity": "London",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "San Francisco (US)": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "San Francisco, Califnia, United States": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "San Francisco,": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Ottawa": {
+    "locationLatitude": 45.209415,
+    "locationLongitude": -75.783876,
+    "locationCity": "Ottawa",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Denver, CO": {
+    "locationLatitude": 39.740959,
+    "locationLongitude": -104.985798,
+    "locationCity": "Denver",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "- Ontario": {
+    "locationLatitude": 51.451405,
+    "locationLongitude": -85.835963,
+    "locationCity": "Ontario",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Nipigon",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "- British Columbia": {
+    "locationLatitude": 54.790277,
+    "locationLongitude": -124.557003,
+    "locationCity": "British Columbia",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Fort_Nelson",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "San Francisco, CA,": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
   }
 }
