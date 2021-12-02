@@ -216,11 +216,11 @@
     "locationTimezoneOffsetString": "-07:00"
   },
   "United States, Washington, Seattle": {
-    "locationLatitude": 39.715956,
-    "locationLongitude": -96.999668,
-    "locationCity": "United States",
+    "locationLatitude": 47.673455,
+    "locationLongitude": -122.331537,
+    "locationCity": "Seattle",
     "locationCountry": "United States",
-    "locationTimezoneName": "America/Denver",
+    "locationTimezoneName": "America/Boise",
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
   },
@@ -2750,5 +2750,434 @@
     "locationTimezoneName": "America/Los_Angeles",
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
+  },
+  "London (UK)": {
+    "locationLatitude": 51.509648,
+    "locationLongitude": -0.099076,
+    "locationCity": "London",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "in NY": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "NJ": {
+    "locationLatitude": 39.66502,
+    "locationLongitude": -74.738208,
+    "locationCity": "New Jersey",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "GA": {
+    "locationLatitude": 41.870087,
+    "locationLongitude": 43.735725,
+    "locationCity": "Georgia",
+    "locationCountry": "Georgia",
+    "locationTimezoneName": "Asia/Tbilisi",
+    "locationTimezoneOffetSec": 14400,
+    "locationTimezoneOffsetString": "+04:00"
+  },
+  "IN": {
+    "locationLatitude": 39.904493,
+    "locationLongitude": -86.250281,
+    "locationCity": "Indiana",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Indianapolis",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "WI": {
+    "locationLatitude": 44.356004,
+    "locationLongitude": -89.466198,
+    "locationCity": "Wisconsin",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Menominee",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
+  },
+  "CA  OR": {
+    "locationLatitude": 45.533467,
+    "locationLongitude": -122.650095,
+    "locationCity": "Portland",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Kitchener  Canada": {
+    "locationLatitude": 43.418345,
+    "locationLongitude": -80.468831,
+    "locationCity": "Kitchener",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Kitchener": {
+    "locationLatitude": 43.418345,
+    "locationLongitude": -80.468831,
+    "locationCity": "Kitchener",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Ontario, Canada": {
+    "locationLatitude": 51.451405,
+    "locationLongitude": -85.835963,
+    "locationCity": "Ontario",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Nipigon",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Seattle": {
+    "locationLatitude": 47.673455,
+    "locationLongitude": -122.331537,
+    "locationCity": "Seattle",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Washington, DC": {
+    "locationLatitude": 38.82652,
+    "locationLongitude": -77.01712,
+    "locationCity": "Washington",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Warsaw, Pol": {
+    "locationLatitude": 52.237695,
+    "locationLongitude": 21.005427,
+    "locationCity": "Warsaw",
+    "locationCountry": "Poland",
+    "locationTimezoneName": "Europe/Warsaw",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Dallas, TX ": {
+    "locationLatitude": 32.736212,
+    "locationLongitude": -96.784359,
+    "locationCity": "Dallas",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Vincennes",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Atlanta, GA ": {
+    "locationLatitude": 33.769805,
+    "locationLongitude": -84.414581,
+    "locationCity": "Atlanta",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Atlanta, Gegia ": {
+    "locationLatitude": 33.769805,
+    "locationLongitude": -84.414581,
+    "locationCity": "Atlanta",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "New Yk ": {
+    "locationLatitude": 46.593247,
+    "locationLongitude": -120.547823,
+    "locationCity": "Yakima",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Austin, Texas ": {
+    "locationLatitude": 30.222346,
+    "locationLongitude": -97.836521,
+    "locationCity": "Austin",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Redwood City, CA ": {
+    "locationLatitude": 37.52658,
+    "locationLongitude": -122.206273,
+    "locationCity": "Redwood City",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Austin, TX ": {
+    "locationLatitude": 30.222346,
+    "locationLongitude": -97.836521,
+    "locationCity": "Austin",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Warsaw": {
+    "locationLatitude": 52.237695,
+    "locationLongitude": 21.005427,
+    "locationCity": "Warsaw",
+    "locationCountry": "Poland",
+    "locationTimezoneName": "Europe/Warsaw",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Washington DC, United States": {
+    "locationLatitude": 38.82652,
+    "locationLongitude": -77.01712,
+    "locationCity": "Washington",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Philadelphia, Pennsylvania": {
+    "locationLatitude": 39.990821,
+    "locationLongitude": -75.168428,
+    "locationCity": "Philadelphia",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Los Angeles, CA": {
+    "locationLatitude": 34.05513,
+    "locationLongitude": -118.25703,
+    "locationCity": "Los Angeles",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "Tonto": {
+    "locationLatitude": -7.76377,
+    "locationLongitude": 23.60176,
+    "locationCity": "Etondo",
+    "locationCountry": "Democratic Republic of Congo",
+    "locationTimezoneName": "Africa/Lubumbashi",
+    "locationTimezoneOffetSec": 7200,
+    "locationTimezoneOffsetString": "+02:00"
+  },
+  "Pto": {
+    "locationLatitude": 40.385735,
+    "locationLongitude": -3.68773,
+    "locationCountry": "Spain",
+    "locationTimezoneName": "Europe/Madrid",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Lisbon, Lisboa Region, Ptugal": {
+    "locationLatitude": 38.748243,
+    "locationLongitude": -9.140093,
+    "locationCity": "Lisbon",
+    "locationCountry": "Portugal",
+    "locationTimezoneName": "Europe/Lisbon",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "Lisbon": {
+    "locationLatitude": 38.748243,
+    "locationLongitude": -9.140093,
+    "locationCity": "Lisbon",
+    "locationCountry": "Portugal",
+    "locationTimezoneName": "Europe/Lisbon",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "Lehi": {
+    "locationLatitude": 40.419084,
+    "locationLongitude": -111.896434,
+    "locationCity": "Lehi",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Lisbon ": {
+    "locationLatitude": 38.748243,
+    "locationLongitude": -9.140093,
+    "locationCity": "Lisbon",
+    "locationCountry": "Portugal",
+    "locationTimezoneName": "Europe/Lisbon",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "Islamabad": {
+    "locationLatitude": 33.72148,
+    "locationLongitude": 73.04329,
+    "locationCity": "Islamabad",
+    "locationCountry": "Pakistan",
+    "locationTimezoneName": "Asia/Karachi",
+    "locationTimezoneOffetSec": 18000,
+    "locationTimezoneOffsetString": "+05:00"
+  },
+  "Karachi": {
+    "locationLatitude": 24.984695,
+    "locationLongitude": 67.238928,
+    "locationCity": "Karachi",
+    "locationCountry": "Pakistan",
+    "locationTimezoneName": "Asia/Karachi",
+    "locationTimezoneOffetSec": 18000,
+    "locationTimezoneOffsetString": "+05:00"
+  },
+  "Lahe, Punjab, Pakistan": {
+    "locationLatitude": 31.110484,
+    "locationLongitude": 72.384598,
+    "locationCity": "Punjab",
+    "locationCountry": "Pakistan",
+    "locationTimezoneName": "Asia/Karachi",
+    "locationTimezoneOffetSec": 18000,
+    "locationTimezoneOffsetString": "+05:00"
+  },
+  "USA / Canada": {
+    "locationLatitude": 30.697247,
+    "locationLongitude": -88.182276,
+    "locationCity": "USA",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "USA": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Seattle (Nth America)": {
+    "locationLatitude": 47.673455,
+    "locationLongitude": -122.331537,
+    "locationCity": "Seattle",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "(Nth America)": {
+    "locationLatitude": 38.309137,
+    "locationLongitude": -101.328273,
+    "locationCity": "North America",
+    "locationCountry": null,
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "WA ": {
+    "locationLatitude": 47.372269,
+    "locationLongitude": -120.59234,
+    "locationCity": "Washington",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "SF": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "in Nth America": {
+    "locationLatitude": 40.781519,
+    "locationLongitude": -85.82217,
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Winamac",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "USA ": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Canada ": {
+    "locationLatitude": 58.33747,
+    "locationLongitude": -112.384858,
+    "locationCity": "Canada",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Yellowknife",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "N/A": {
+    "locationLatitude": 38.309137,
+    "locationLongitude": -101.328273,
+    "locationCity": "North America",
+    "locationCountry": null,
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Nth America Only": {
+    "locationLatitude": 38.309137,
+    "locationLongitude": -101.328273,
+    "locationCity": "North America",
+    "locationCountry": null,
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "France": {
+    "locationLatitude": 46.698481,
+    "locationLongitude": 2.549047,
+    "locationCity": "France",
+    "locationCountry": "France",
+    "locationTimezoneName": "Europe/Paris",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "(USA)": {
+    "locationLatitude": 30.697247,
+    "locationLongitude": -88.182276,
+    "locationCity": "USA",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "CA ": {
+    "locationLatitude": 58.33747,
+    "locationLongitude": -112.384858,
+    "locationCity": "Canada",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Yellowknife",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "US / Canada": {
+    "locationLatitude": 45.027172,
+    "locationLongitude": -93.104951,
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Menominee",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
   }
 }
