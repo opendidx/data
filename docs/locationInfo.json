@@ -3180,10 +3180,28 @@
     "locationTimezoneOffetSec": -21600,
     "locationTimezoneOffsetString": "-06:00"
   },
+  "Winder, GA": {
+    "locationLatitude": 33.994193,
+    "locationLongitude": -83.719197,
+    "locationCity": "Winder",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
   "Boston, MA ": {
     "locationLatitude": 42.355492,
     "locationLongitude": -71.048611,
     "locationCity": "Boston",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "New Yk City, NY ": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
     "locationCountry": "United States",
     "locationTimezoneName": "America/New_York",
     "locationTimezoneOffetSec": -18000,
@@ -3198,12 +3216,12 @@
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
-  "New Yk City, NY ": {
-    "locationLatitude": 40.68295,
-    "locationLongitude": -73.9708,
-    "locationCity": "New York",
+  "Kansas City, MO ": {
+    "locationLatitude": 39.051003,
+    "locationLongitude": -94.541461,
+    "locationCity": "Kansas City",
     "locationCountry": "United States",
-    "locationTimezoneName": "America/New_York",
+    "locationTimezoneName": "America/Indiana/Vincennes",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
