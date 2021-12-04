@@ -3233,5 +3233,13 @@
     "locationTimezoneName": "America/Los_Angeles",
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
+  },
+  "Tencent America": {
+    "locationLatitude": 37.426754,
+    "locationLongitude": -122.139467,
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
   }
 }
