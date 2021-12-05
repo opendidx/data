@@ -1076,12 +1076,13 @@
     "locationTimezoneOffsetString": "-08:00"
   },
   "Tencent Singapore - Singapore": {
-    "locationLatitude": 37.426754,
-    "locationLongitude": -122.139467,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Los_Angeles",
-    "locationTimezoneOffetSec": -28800,
-    "locationTimezoneOffsetString": "-08:00"
+    "locationLatitude": 1.316382,
+    "locationLongitude": 103.833828,
+    "locationCity": "Singapore",
+    "locationCountry": "Singapore",
+    "locationTimezoneName": "Asia/Singapore",
+    "locationTimezoneOffetSec": 28800,
+    "locationTimezoneOffsetString": "+08:00"
   },
   "Amsterdam, North Holland, Netherlands": {
     "locationLatitude": 52.37243,
@@ -3235,8 +3236,9 @@
     "locationTimezoneOffsetString": "-08:00"
   },
   "Tencent America": {
-    "locationLatitude": 37.426754,
-    "locationLongitude": -122.139467,
+    "locationLatitude": 37.431169,
+    "locationLongitude": -122.127302,
+    "locationCity": "Palo Alto",
     "locationCountry": "United States",
     "locationTimezoneName": "America/Los_Angeles",
     "locationTimezoneOffetSec": -28800,
