@@ -3243,5 +3243,14 @@
     "locationTimezoneName": "America/Los_Angeles",
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
+  },
+  "Clevel, OH": {
+    "locationLatitude": 40.262259,
+    "locationLongitude": -82.883453,
+    "locationCity": "Ohio",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Detroit",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
   }
 }
