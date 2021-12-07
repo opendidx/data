@@ -3252,5 +3252,14 @@
     "locationTimezoneName": "America/Detroit",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
+  },
+  "San Francisco, CA  USA": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
   }
 }
