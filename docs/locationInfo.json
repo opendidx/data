@@ -3261,5 +3261,23 @@
     "locationTimezoneName": "America/Los_Angeles",
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
+  },
+  "San Francisco (U.S.)": {
+    "locationLatitude": 37.778008,
+    "locationLongitude": -122.431272,
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "London, U.K.": {
+    "locationLatitude": 51.509648,
+    "locationLongitude": -0.099076,
+    "locationCity": "London",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
   }
 }
