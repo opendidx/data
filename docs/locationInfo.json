@@ -3102,14 +3102,6 @@
     "locationTimezoneOffetSec": -28800,
     "locationTimezoneOffsetString": "-08:00"
   },
-  "in Nth America": {
-    "locationLatitude": 40.781519,
-    "locationLongitude": -85.82217,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Indiana/Winamac",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "USA ": {
     "locationLatitude": 39.715956,
     "locationLongitude": -96.999668,
@@ -3279,5 +3271,41 @@
     "locationTimezoneName": "Europe/London",
     "locationTimezoneOffetSec": 0,
     "locationTimezoneOffsetString": "+00:00"
+  },
+  "Bogotá": {
+    "locationLatitude": 4.635456,
+    "locationLongitude": -74.08768,
+    "locationCity": "Bogotá",
+    "locationCountry": "Colombia",
+    "locationTimezoneName": "America/Bogota",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "- USA": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "- UK": {
+    "locationLatitude": 52.418788,
+    "locationLongitude": -1.247349,
+    "locationCity": "United Kingdom",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "US -": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
   }
 }
