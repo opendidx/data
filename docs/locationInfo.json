@@ -745,14 +745,6 @@
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
   },
-  "Phoenix Headquarters": {
-    "locationLatitude": 33.44858,
-    "locationLongitude": -112.08199,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Phoenix",
-    "locationTimezoneOffetSec": -25200,
-    "locationTimezoneOffsetString": "-07:00"
-  },
   "Pheonix, AZ": {
     "locationLatitude": 40.402387,
     "locationLongitude": 47.210994,
