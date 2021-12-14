@@ -1904,14 +1904,6 @@
     "locationTimezoneOffetSec": 28800,
     "locationTimezoneOffsetString": "+08:00"
   },
-  "LATAM,": {
-    "locationLatitude": -12.119306,
-    "locationLongitude": -77.033863,
-    "locationCountry": "Peru",
-    "locationTimezoneName": "America/Lima",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "(US)": {
     "locationLatitude": 39.715956,
     "locationLongitude": -96.999668,
@@ -3315,5 +3307,23 @@
     "locationTimezoneName": "America/Indiana/Winamac",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
+  },
+  "Turkey": {
+    "locationLatitude": 39.339547,
+    "locationLongitude": 34.51052,
+    "locationCity": "Turkey",
+    "locationCountry": "Turkey",
+    "locationTimezoneName": "Europe/Istanbul",
+    "locationTimezoneOffetSec": 10800,
+    "locationTimezoneOffsetString": "+03:00"
+  },
+  "United States ": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
   }
 }
