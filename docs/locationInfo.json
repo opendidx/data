@@ -2137,14 +2137,6 @@
     "locationTimezoneOffetSec": 32400,
     "locationTimezoneOffsetString": "+09:00"
   },
-  "Irel": {
-    "locationLatitude": 8.760775,
-    "locationLongitude": -70.105579,
-    "locationCountry": "Venezuela",
-    "locationTimezoneName": "America/Caracas",
-    "locationTimezoneOffetSec": -14400,
-    "locationTimezoneOffsetString": "-04:00"
-  },
   "Nod-Holl": {
     "locationLatitude": 19.815239,
     "locationLongitude": -73.141288,
@@ -3325,5 +3317,75 @@
     "locationTimezoneName": "America/Denver",
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
+  },
+  "Hong Kong": {
+    "locationLatitude": 22.381131,
+    "locationLongitude": 114.135572,
+    "locationCity": "Hong Kong",
+    "locationCountry": "Hong Kong S.A.R.",
+    "locationTimezoneName": "Asia/Hong_Kong",
+    "locationTimezoneOffetSec": 28800,
+    "locationTimezoneOffsetString": "+08:00"
+  },
+  "Waterloo, Ontario": {
+    "locationLatitude": 43.479869,
+    "locationLongitude": -80.539218,
+    "locationCity": "Waterloo",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Washington": {
+    "locationLatitude": 38.82652,
+    "locationLongitude": -77.01712,
+    "locationCity": "Washington",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "DC": {
+    "locationLatitude": 38.912097,
+    "locationLongitude": -77.014683,
+    "locationCity": "District of Columbia",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "LATAM,": {
+    "locationLatitude": -12.119306,
+    "locationLongitude": -77.033863,
+    "locationCountry": "Peru",
+    "locationTimezoneName": "America/Lima",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Leeds": {
+    "locationLatitude": 53.797563,
+    "locationLongitude": -1.544227,
+    "locationCity": "Leeds",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "Irel": {
+    "locationLatitude": 8.760775,
+    "locationLongitude": -70.105579,
+    "locationCountry": "Venezuela",
+    "locationTimezoneName": "America/Caracas",
+    "locationTimezoneOffetSec": -14400,
+    "locationTimezoneOffsetString": "-04:00"
+  },
+  "- Colombia": {
+    "locationLatitude": 4.6,
+    "locationLongitude": -74.51667,
+    "locationCity": "Colombia",
+    "locationCountry": "Colombia",
+    "locationTimezoneName": "America/Bogota",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
   }
 }
