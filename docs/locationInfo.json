@@ -3387,5 +3387,23 @@
     "locationTimezoneName": "America/Bogota",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
+  },
+  "Baden-Württemberg": {
+    "locationLatitude": 48.605915,
+    "locationLongitude": 9.147881,
+    "locationCity": "Baden-Württemberg",
+    "locationCountry": "Germany",
+    "locationTimezoneName": "Europe/Busingen",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Bellevue, USA": {
+    "locationLatitude": 47.609759,
+    "locationLongitude": -122.17074,
+    "locationCity": "Bellevue",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
   }
 }
