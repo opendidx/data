@@ -3405,5 +3405,14 @@
     "locationTimezoneName": "America/Boise",
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
+  },
+  "Chicago OR": {
+    "locationLatitude": 46.241275,
+    "locationLongitude": -116.471156,
+    "locationCity": "Craigmont",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
   }
 }
