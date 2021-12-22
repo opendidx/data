@@ -3414,5 +3414,14 @@
     "locationTimezoneName": "America/Boise",
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
+  },
+  "United States, Gegia, Atlanta": {
+    "locationLatitude": 39.715956,
+    "locationLongitude": -96.999668,
+    "locationCity": "United States",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
   }
 }
