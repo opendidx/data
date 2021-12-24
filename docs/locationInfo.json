@@ -3423,5 +3423,32 @@
     "locationTimezoneName": "America/Denver",
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
+  },
+  "Chile": {
+    "locationLatitude": -38.165295,
+    "locationLongitude": -72.288079,
+    "locationCity": "Chile",
+    "locationCountry": "Chile",
+    "locationTimezoneName": "America/Santiago",
+    "locationTimezoneOffetSec": -10800,
+    "locationTimezoneOffsetString": "-03:00"
+  },
+  " Hybrid  any Chile office (Santiago  Viña del Mar)": {
+    "locationLatitude": -33.012505,
+    "locationLongitude": -71.527974,
+    "locationCity": "Valparaiso",
+    "locationCountry": "Chile",
+    "locationTimezoneName": "America/Santiago",
+    "locationTimezoneOffetSec": -10800,
+    "locationTimezoneOffsetString": "-03:00"
+  },
+  "Lehi, Utah": {
+    "locationLatitude": 40.419084,
+    "locationLongitude": -111.896434,
+    "locationCity": "Lehi",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
   }
 }
