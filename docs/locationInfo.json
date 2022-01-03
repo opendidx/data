@@ -1949,14 +1949,6 @@
     "locationTimezoneOffetSec": 39600,
     "locationTimezoneOffsetString": "+11:00"
   },
-  "Bangale": {
-    "locationLatitude": 29.99851,
-    "locationLongitude": 67.91581,
-    "locationCountry": "Pakistan",
-    "locationTimezoneName": "Asia/Karachi",
-    "locationTimezoneOffetSec": 18000,
-    "locationTimezoneOffsetString": "+05:00"
-  },
   "Riga": {
     "locationLatitude": 56.971149,
     "locationLongitude": 24.142749,
@@ -2254,14 +2246,6 @@
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
-  "Ptl": {
-    "locationLatitude": 41.767397,
-    "locationLongitude": -8.58187,
-    "locationCountry": "Portugal",
-    "locationTimezoneName": "Europe/Lisbon",
-    "locationTimezoneOffetSec": 0,
-    "locationTimezoneOffsetString": "+00:00"
-  },
   "Oregon": {
     "locationLatitude": 43.854178,
     "locationLongitude": -120.526709,
@@ -2396,14 +2380,6 @@
     "locationTimezoneName": "America/New_York",
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
-  },
-  "Bar Lev, Ahihud, Israel ": {
-    "locationLatitude": 32.90855,
-    "locationLongitude": 35.18667,
-    "locationCountry": "Israel",
-    "locationTimezoneName": "Asia/Jerusalem",
-    "locationTimezoneOffetSec": 7200,
-    "locationTimezoneOffsetString": "+02:00"
   },
   "Gurgaon": {
     "locationLatitude": 28.459647,
@@ -2557,14 +2533,6 @@
     "locationTimezoneName": "America/Menominee",
     "locationTimezoneOffetSec": -21600,
     "locationTimezoneOffsetString": "-06:00"
-  },
-  "Gegia": {
-    "locationLatitude": 44.198636,
-    "locationLongitude": 7.585568,
-    "locationCountry": "Italy",
-    "locationTimezoneName": "Europe/Rome",
-    "locationTimezoneOffetSec": 3600,
-    "locationTimezoneOffsetString": "+01:00"
   },
   "Tonto, ON -": {
     "locationLatitude": 51.451405,
@@ -2953,14 +2921,6 @@
     "locationTimezoneOffetSec": 7200,
     "locationTimezoneOffsetString": "+02:00"
   },
-  "Pto": {
-    "locationLatitude": 40.385735,
-    "locationLongitude": -3.68773,
-    "locationCountry": "Spain",
-    "locationTimezoneName": "Europe/Madrid",
-    "locationTimezoneOffetSec": 3600,
-    "locationTimezoneOffsetString": "+01:00"
-  },
   "Lisbon, Lisboa Region, Ptugal": {
     "locationLatitude": 38.748243,
     "locationLongitude": -9.140093,
@@ -3284,14 +3244,6 @@
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
   },
-  "Phoenix Headquarters": {
-    "locationLatitude": 33.44858,
-    "locationLongitude": -112.08199,
-    "locationCountry": "United States",
-    "locationTimezoneName": "America/Phoenix",
-    "locationTimezoneOffetSec": -25200,
-    "locationTimezoneOffsetString": "-07:00"
-  },
   "in Nth America": {
     "locationLatitude": 40.781519,
     "locationLongitude": -85.82217,
@@ -3354,14 +3306,6 @@
     "locationTimezoneOffetSec": -18000,
     "locationTimezoneOffsetString": "-05:00"
   },
-  "LATAM,": {
-    "locationLatitude": -12.119306,
-    "locationLongitude": -77.033863,
-    "locationCountry": "Peru",
-    "locationTimezoneName": "America/Lima",
-    "locationTimezoneOffetSec": -18000,
-    "locationTimezoneOffsetString": "-05:00"
-  },
   "Leeds": {
     "locationLatitude": 53.797563,
     "locationLongitude": -1.544227,
@@ -3370,14 +3314,6 @@
     "locationTimezoneName": "Europe/London",
     "locationTimezoneOffetSec": 0,
     "locationTimezoneOffsetString": "+00:00"
-  },
-  "Irel": {
-    "locationLatitude": 8.760775,
-    "locationLongitude": -70.105579,
-    "locationCountry": "Venezuela",
-    "locationTimezoneName": "America/Caracas",
-    "locationTimezoneOffetSec": -14400,
-    "locationTimezoneOffsetString": "-04:00"
   },
   "- Colombia": {
     "locationLatitude": 4.6,
@@ -3450,5 +3386,77 @@
     "locationTimezoneName": "America/Boise",
     "locationTimezoneOffetSec": -25200,
     "locationTimezoneOffsetString": "-07:00"
+  },
+  "Gurugram": {
+    "locationLatitude": 28.459647,
+    "locationLongitude": 77.061922,
+    "locationCity": "Gurugram",
+    "locationCountry": "India",
+    "locationTimezoneName": "Asia/Kolkata",
+    "locationTimezoneOffetSec": 19800,
+    "locationTimezoneOffsetString": "+05:30"
+  },
+  "Minneapolis, MN, USA": {
+    "locationLatitude": 44.96313,
+    "locationLongitude": -93.266563,
+    "locationCity": "Minneapolis",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Menominee",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
+  },
+  "Detroit, MI, USA": {
+    "locationLatitude": 42.398649,
+    "locationLongitude": -83.164515,
+    "locationCity": "Detroit",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Detroit",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Denver, CO, USA": {
+    "locationLatitude": 39.740959,
+    "locationLongitude": -104.985798,
+    "locationCity": "Denver",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Charlotte, NC, USA": {
+    "locationLatitude": 35.19534,
+    "locationLongitude": -80.81711,
+    "locationCity": "Charlotte",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Dallas, TX, USA": {
+    "locationLatitude": 32.736212,
+    "locationLongitude": -96.784359,
+    "locationCity": "Dallas",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Vincennes",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Budapest, Budapest, Hungary": {
+    "locationLatitude": 47.516581,
+    "locationLongitude": 19.092281,
+    "locationCity": "Budapest",
+    "locationCountry": "Hungary",
+    "locationTimezoneName": "Europe/Budapest",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Tel aviv, Israel": {
+    "locationLatitude": 32.066455,
+    "locationLongitude": 34.783553,
+    "locationCity": "Tel Aviv",
+    "locationCountry": "Israel",
+    "locationTimezoneName": "Asia/Jerusalem",
+    "locationTimezoneOffetSec": 7200,
+    "locationTimezoneOffsetString": "+02:00"
   }
 }
