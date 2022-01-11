@@ -3458,5 +3458,247 @@
     "locationTimezoneName": "Asia/Jerusalem",
     "locationTimezoneOffetSec": 7200,
     "locationTimezoneOffsetString": "+02:00"
+  },
+  "Aarhus, Denmark": {
+    "locationLatitude": 56.142797,
+    "locationLongitude": 10.178555,
+    "locationCity": "Aarhus",
+    "locationCountry": "Denmark",
+    "locationTimezoneName": "Europe/Copenhagen",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "New Yk, New Yk City": {
+    "locationLatitude": 40.68295,
+    "locationLongitude": -73.9708,
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Sunnyvale": {
+    "locationLatitude": 37.3816,
+    "locationLongitude": -122.025875,
+    "locationCity": "Sunnyvale",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Los_Angeles",
+    "locationTimezoneOffetSec": -28800,
+    "locationTimezoneOffsetString": "-08:00"
+  },
+  "United Kingdom -": {
+    "locationLatitude": 52.418788,
+    "locationLongitude": -1.247349,
+    "locationCity": "United Kingdom",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "Tolleson, AZ": {
+    "locationLatitude": 33.450327,
+    "locationLongitude": -112.255217,
+    "locationCity": "Tolleson",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Phoenix",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Phoenix Headquarters": {
+    "locationLatitude": 33.44858,
+    "locationLongitude": -112.08199,
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Phoenix",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Charlotte, NC": {
+    "locationLatitude": 35.19534,
+    "locationLongitude": -80.81711,
+    "locationCity": "Charlotte",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Huntsville, AL": {
+    "locationLatitude": 34.756007,
+    "locationLongitude": -86.616034,
+    "locationCity": "Huntsville",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Chapel Hill, NC": {
+    "locationLatitude": 35.930208,
+    "locationLongitude": -79.035496,
+    "locationCity": "Chapel Hill",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Kentucky/Monticello",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Colado Springs, CO": {
+    "locationLatitude": 40.489585,
+    "locationLongitude": -106.840229,
+    "locationCity": "Springs",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Denver",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Baltime, MD": {
+    "locationLatitude": 11.195969,
+    "locationLongitude": -74.202532,
+    "locationCountry": "Colombia",
+    "locationTimezoneName": "America/Bogota",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Trenton, NJ": {
+    "locationLatitude": 40.220327,
+    "locationLongitude": -74.752724,
+    "locationCity": "Trenton",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/New_York",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Dallas, TX": {
+    "locationLatitude": 32.736212,
+    "locationLongitude": -96.784359,
+    "locationCity": "Dallas",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Indiana/Vincennes",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "United Kingdom, United Kingdom": {
+    "locationLatitude": 52.418788,
+    "locationLongitude": -1.247349,
+    "locationCity": "United Kingdom",
+    "locationCountry": "United Kingdom",
+    "locationTimezoneName": "Europe/London",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "LATAM,": {
+    "locationLatitude": -12.119306,
+    "locationLongitude": -77.033863,
+    "locationCountry": "Peru",
+    "locationTimezoneName": "America/Lima",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Bangale": {
+    "locationLatitude": 29.99851,
+    "locationLongitude": 67.91581,
+    "locationCountry": "Pakistan",
+    "locationTimezoneName": "Asia/Karachi",
+    "locationTimezoneOffetSec": 18000,
+    "locationTimezoneOffsetString": "+05:00"
+  },
+  "Mississauga": {
+    "locationLatitude": 43.570452,
+    "locationLongitude": -79.626636,
+    "locationCity": "Mississauga",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Bar Lev, Ahihud, Israel ": {
+    "locationLatitude": 32.90855,
+    "locationLongitude": 35.18667,
+    "locationCountry": "Israel",
+    "locationTimezoneName": "Asia/Jerusalem",
+    "locationTimezoneOffetSec": 7200,
+    "locationTimezoneOffsetString": "+02:00"
+  },
+  "Irel": {
+    "locationLatitude": 8.760775,
+    "locationLongitude": -70.105579,
+    "locationCountry": "Venezuela",
+    "locationTimezoneName": "America/Caracas",
+    "locationTimezoneOffetSec": -14400,
+    "locationTimezoneOffsetString": "-04:00"
+  },
+  "Gegia": {
+    "locationLatitude": 44.198636,
+    "locationLongitude": 7.585568,
+    "locationCountry": "Italy",
+    "locationTimezoneName": "Europe/Rome",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Ptl": {
+    "locationLatitude": 41.767397,
+    "locationLongitude": -8.58187,
+    "locationCountry": "Portugal",
+    "locationTimezoneName": "Europe/Lisbon",
+    "locationTimezoneOffetSec": 0,
+    "locationTimezoneOffsetString": "+00:00"
+  },
+  "Connaught Place, Delhi, India": {
+    "locationLatitude": 24.734319,
+    "locationLongitude": 81.334404,
+    "locationCity": "Delhi",
+    "locationCountry": "India",
+    "locationTimezoneName": "Asia/Kolkata",
+    "locationTimezoneOffetSec": 19800,
+    "locationTimezoneOffsetString": "+05:30"
+  },
+  " EMEA": {
+    "locationLatitude": -2.2145,
+    "locationLongitude": 121.5984,
+    "locationCity": "Emea",
+    "locationCountry": "Indonesia",
+    "locationTimezoneName": "Asia/Makassar",
+    "locationTimezoneOffetSec": 28800,
+    "locationTimezoneOffsetString": "+08:00"
+  },
+  "Pto": {
+    "locationLatitude": 40.385735,
+    "locationLongitude": -3.68773,
+    "locationCountry": "Spain",
+    "locationTimezoneName": "Europe/Madrid",
+    "locationTimezoneOffetSec": 3600,
+    "locationTimezoneOffsetString": "+01:00"
+  },
+  "Salt Lake City, UT": {
+    "locationLatitude": 40.773201,
+    "locationLongitude": -111.933984,
+    "locationCity": "Salt Lake City",
+    "locationCountry": "United States",
+    "locationTimezoneName": "America/Boise",
+    "locationTimezoneOffetSec": -25200,
+    "locationTimezoneOffsetString": "-07:00"
+  },
+  "Kitchener-Waterloo, ON": {
+    "locationLatitude": 43.418345,
+    "locationLongitude": -80.468831,
+    "locationCity": "Kitchener",
+    "locationCountry": "Canada",
+    "locationTimezoneName": "America/Toronto",
+    "locationTimezoneOffetSec": -18000,
+    "locationTimezoneOffsetString": "-05:00"
+  },
+  "Americas": {
+    "locationLatitude": 9.937181,
+    "locationLongitude": -84.103179,
+    "locationCity": "Americas",
+    "locationCountry": "Costa Rica",
+    "locationTimezoneName": "America/Costa_Rica",
+    "locationTimezoneOffetSec": -21600,
+    "locationTimezoneOffsetString": "-06:00"
+  },
+  "Stennis, MS": {
+    "locationLatitude": 16.73717,
+    "locationLongitude": -62.188252,
+    "locationCountry": null,
+    "locationTimezoneName": "America/Montserrat",
+    "locationTimezoneOffetSec": -14400,
+    "locationTimezoneOffsetString": "-04:00"
   }
 }
